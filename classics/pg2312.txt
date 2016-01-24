@@ -1,0 +1,2205 @@
+﻿Project Gutenberg Etext "Hermann und Dorothea",
+von Johann Wolfgang von Goethe
+#9 in our series by Goethe
+
+* Dieses Buch wurde uns freundlicherweise vom "Gutenberg       *
+* Projekt-DE" zur Verfügung gestellt.  Das Projekt ist unter   *
+* der Internet-Adresse http://gutenberg.aol.de erreichbar.     *
+*                                                              *
+* This book was generously donated to us by the "Gutenberg     *
+* Projekt-DE". Their web site is located at                    *
+* http://gutenberg.aol.de, where additional German language    *
+* books can be found.                                          *
+****************************************************************
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Hermann und Dorothea
+
+by Johann Wolfgang von Goethe
+
+September,  [Etext #2312]
+
+
+***Project Gutenberg Etext "Hermann und Dorothea", by Goethe****
+******This file should be named 2312-8.txt or 2312-8.zip******
+
+
+Etext reformatted by Michael Pullen
+globaltraveler5565@yahoo.com
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Etext reformatted by Michael Pullen
+globaltraveler5565@yahoo.com
+
+
+
+
+
+Hermann und Dorothea
+
+Johann Wolfgang Goethe
+
+
+
+Inhalt:
+
+Erster Gesang: Kalliope.  Schicksal und Anteil
+Zweiter Gesang: Terpsichore.  Hermann
+Dritter Gesang: Thalia.  Die Bürger
+Vierter Gesang: Euterpe.  Mutter und Sohn
+Fünfter Gesang: Polyhymnia.  Der Weltbürger
+Sechster Gesang: Klio.  Das Zeitalter
+Siebenter Gesang: Erato.  Dorothea
+Achter Gesang: Melpomene.  Hermann und Dorothea
+Neunter Gesang: Urania.  Aussicht
+
+
+
+
+Kalliope
+Schicksal und Anteil
+
+"Hab ich den Markt und die Straßen doch nie so einsam gesehen! Ist doch
+die Stadt wie gekehrt!  wie ausgestorben!  Nicht funfzig, Deucht mir,
+blieben zurück von allen unsern Bewohnern.  Was die Neugier nicht tut!
+So rennt und läuft nun ein jeder, Um den traurigen Zug der armen
+Vertriebnen zu sehen.  Bis zum Dammweg, welchen sie ziehn, ist's immer
+ein Stündchen, Und da läuft man hinab, im heißen Staube des Mittags.
+Möcht' ich mich doch nicht rühren vom Platz, um zu sehen das Elend Guter
+fliehender Menschen, die nun, mit geretteter Habe, Leider, das
+überrheinische Land, das schöne, verlassend, Zu uns herüberkommen und
+durch den glücklichen Winkel Dieses fruchtbaren Tals und seiner Krümmungen
+wandern.  Trefflich hast du gehandelt, o Frau, daß du milde den Sohn fort
+Schicktest, mit altem Linnen und etwas Essen und Trinken, Um es den Armen
+zu spenden; denn Geben ist Sache des Reichen.  Was der Junge doch fährt!
+und wie er bändigt die Hengste! Sehr gut nimmt das Kütschchen sich aus,
+das neue; bequemlich Säßen viere darin, und auf dem Bocke der Kutscher.
+Diesmal fuhr er allein; wie rollt es leicht um die Ecke!" So sprach, unter
+dem Tore des Hauses sitzend am Markte, Wohlbehaglich, zur Frau der Wirt
+zum Goldenen Löwen.
+
+Und es versetzte darauf die kluge verständige Hausfrau: "Vater, nicht
+gerne verschenk ich die abgetragene Leinwand, Denn sie ist zu manchem
+Gebrauch und für Geld nicht zu haben, Wenn man ihrer bedarf.  Doch heute
+gab ich so gerne Manches bessere Stück an Überzügen und Hemden, Denn ich
+hörte von Kindern und Alten, die nackend dahergehn.  Wirst du mir aber
+verzeihn?  denn auch dein Schrank ist geplündert.  Und besonders den
+Schlafrock mit indianischen Blumen, Von dem feinsten Kattun, mit feinem
+Flanelle gefüttert, Gab ich hin; er ist dünn und alt und ganz aus der Mode."
+
+Aber es lächelte drauf der treffliche Hauswirt und sagte: "Ungern vermiß
+ich ihn doch, den alten kattunenen Schlafrock, Echt ostindischen Stoffs;
+so etwas kriegt man nicht wieder.  Wohl!  ich trug ihn nicht mehr.  Man
+will jetzt freilich, der Mann soll Immer gehn im Surtout und in der
+Pekesche sich zeigen, Immer gestiefelt sein; verbannt ist Pantoffel und
+Mütze."
+
+"Siehe!"  versetzte die Frau, "dort kommen schon einige wieder, Die den
+Zug mit gesehn; er muß doch wohl schon vorbei sein.  Seht, wie allen die
+Schuhe so staubig sind!  wie die Gesichter Glühen!  und jeglicher führt
+das Schnupftuch und wischt sich den Schweiß ab.  Möcht' ich doch auch in
+der Hitze nach solchem Schauspiel so weit nicht Laufen und leiden!
+Fürwahr, ich habe genug am Erzählten."
+
+Und es sagte darauf der gute Vater mit Nachdruck: "Solch ein Wetter ist
+selten zu solcher Ernte gekommen, Und wir bringen die Frucht herein, wie
+das Heu schon herein ist, Trocken; der Himmel ist hell, es ist kein
+Wölkchen zu sehen, Und von Morgen wehet der Wind mit lieblicher Kühlung.
+Das ist beständiges Wetter!  und überreif ist das Korn schon; Morgen
+fangen wir an zu schneiden die reichliche Ernte."
+
+Als er so sprach, vermehrten sich immer die Scharen der Männer Und der
+Weiber, die über den Markt sich nach Hause begaben; Und so kam auch zurück
+mit seinen Töchtern gefahren Rasch, an die andere Seite des Markts, der
+begüterte Nachbar, An sein erneuertes Haus, der erste Kaufmann des Ortes,
+Im geöffneten Wagen (er war in Landau verfertigt).  Lebhaft wurden die
+Gassen; denn wohl war bevölkert das Städtchen, Mancher Fabriken befliß man
+sich da, und manches Gewerbes.
+
+Und so saß das trauliche Paar, sich unter dem Torweg Über das wandernde
+Volk mit mancher Bemerkung ergötzend.  Endlich aber begann die würdige
+Hausfrau und sagte: "Seht!  dort kommt der Prediger her, es kommt auch der
+Nachbar Apotheker mit ihm: die sollen uns alles erzählen, Was sie draußen
+gesehn und was zu schauen nicht froh macht."
+
+Freundlich kamen heran die beiden und grüßten das Ehpaar, Setzten sich auf
+die Bänke, die hölzernen, unter dem Torweg, Staub von den Füßen schüttelnd,
+und Luft mit dem Tuche sich fächelnd.  Da begann denn zuerst, nach
+wechselseitigen Grüßen, Der Apotheker zu sprechen und sagte, beinahe
+verdrießlich: "So sind die Menschen fürwahr!  und einer ist doch wie der
+andre, Daß er zu gaffen sich freut, wenn den Nächsten ein Unglück befället!
+Läuft doch jeder, die Flamme zu sehn, die verderblich emporschlägt, Jeder
+den armen Verbrecher, der peinlich zum Tode geführt wird.  Jeder spaziert
+nun hinaus, zu schauen der guten Vertriebnen Elend, und niemand bedenkt,
+daß ihn das ähnliche Schicksal Auch, vielleicht zunächst, betreffen kann,
+oder doch künftig.  Unverzeihlich find ich den Leichtsinn; doch liegt er
+im Menschen."
+
+Und es sagte darauf der edle verständige Pfarrherr, Er, die Zierde der
+Stadt, ein Jüngling näher dem Manne.  Dieser kannte das Leben und kannte
+der Hörer Bedürfnis, War vom hohen Werte der heiligen Schriften
+durchdrungen, Die uns der Menschen Geschick enthüllen und ihre Gesinnung;
+Und so kannt' er auch wohl die besten weltlichen Schriften.  Dieser
+sprach: "Ich tadle nicht gern, was immer dem Menschen Für unschädliche
+Triebe die gute Mutter Natur gab; Denn was Verstand und Vernunft nicht
+immer vermögen, vermag oft Solch ein glücklicher Hang, der unwiderstehlich
+uns leitet.  Lockte die Neugier nicht den Menschen mit heftigen Reizen,
+Sagt!  erführ' er wohl je, wie schön sich die weltlichen Dinge
+Gegeneinander verhalten?  Denn erst verlangt er das Neue, Suchet das
+Nützliche dann mit unermüdetem Fleiße; Endlich begehrt er das Gute, das
+ihn erhebet und wert macht.  In der Jugend ist ihm ein froher Gefährte
+der Leichtsinn, Der die Gefahr ihm verbirgt und heilsam geschwinde die
+Spuren Tilget des schmerzlichen Übels, sobald es nur irgend vorbeizog.
+Freilich ist er zu preisen, der Mann, dem in reiferen Jahren Sich der
+gesetzte Verstand aus solchem Frohsinn entwickelt, Der im Glück wie im
+Unglück sich eifrig und tätig bestrebet; Denn das Gute bringt er hervor
+und ersetzet den Schaden."
+
+Freundlich begann sogleich die ungeduldige Hausfrau: "Saget uns, was ihr
+gesehn; denn das begehrt' ich zu wissen."
+
+"Schwerlich", versetzte darauf der Apotheker mit Nachdruck, "Werd ich so
+bald mich freun nach dem, was ich alles erfahren.  Und wer erzählet es
+wohl, das mannigfaltigste Elend! Schon von ferne sahn wir den Staub, noch
+eh' wir die Wiesen Abwärts kamen; der Zug war schon von Hügel zu Hügel
+Unabsehlich dahin, man konnte wenig erkennen.  Als wir nun aber den Weg,
+der quer durchs Tal geht, erreichten, War Gedräng und Getümmel noch groß
+der Wandrer und Wagen.  Leider sahen wir noch genug der Armen vorbeiziehn,
+Konnten einzeln erfahren, wie bitter die schmerzliche Flucht sei, Und wie
+froh das Gefühl des eilig geretteten Lebens.  Traurig war es zu sehn, die
+mannigfaltige Habe, Die ein Haus nur verbirgt, das wohlversehne, und die
+ein Guter Wirt umher an die rechten Stellen gesetzt hat, Immer bereit zum
+Gebrauche, denn alles ist nötig und nützlich, Nun zu sehen das alles, auf
+mancherlei Wagen und Karren Durcheinander geladen, mit Übereilung
+geflüchtet.  Über dem Schranke lieget das Sieb und die wollene Decke, In
+dem Backtrog das Bett und das Leintuch über dem Spiegel.  Ach!  und es
+nimmt die Gefahr, wie wir beim Brande vor zwanzig Jahren auch wohl gesehn,
+dem Menschen alle Besinnung, Daß er das Unbedeutende faßt und das Teure
+zurückläßt.  Also führten auch hier, mit unbesonnener Sorgfalt, Schlechte
+Dinge sie fort, die Ochsen und Pferde beschwerend: Alte Bretter und Fässer,
+den Gänsestall und den Käfig.  Auch so keuchten die Weiber und Kinder,
+mit Bündeln sich schleppend, Unter Körben und Butten voll Sachen keines
+Gebrauches; Denn es verläßt der Mensch so ungern das Letzte der Habe.
+Und so zog auf dem staubigen Weg der drängende Zug fort, Ordnungslos und
+verwirrt.  Mit schwächeren Tieren der eine Wünschte langsam zu fahren, ein
+andrer emsig zu eilen.  Da entstand ein Geschrei der gequetschten Weiber
+und Kinder, Und ein Blöken des Viehes, dazwischen der Hunde Gebelfer, Und
+ein Wehlaut der Alten und Kranken, die hoch auf dem schweren Übergepackten
+Wagen auf Betten saßen und schwankten.  Aber, aus dem Gleise gedrängt,
+nach dem Rande des Hochwegs Irrte das knarrende Rad; es stürzt' in den
+Graben das Fuhrwerk, Umgeschlagen, und weithin entstürzten im Schwunge die
+Menschen, Mit entsetzlichem Schrein, in das Feld hin, aber doch glücklich.
+Später stürzten die Kasten und fielen näher dem Wagen.  Wahrlich, wer
+im Fallen sie sah, der erwartete nun sie Unter der Last der Kisten und
+Schränke zerschmettert zu schauen.  Und so lag zerbrochen der Wagen und
+hülflos die Menschen; Denn die übrigen gingen und zogen eilig vorüber, Nur
+sich selber bedenkend und hingerissen vom Strome.  Und wir eilten hinzu
+und fanden die Kranken und Alten, Die zu Haus und im Bett schon kaum ihr
+dauerndes Leiden Trügen, hier auf dem Boden beschädigt ächzen und jammern,
+Von der Sonne verbrannt und erstickt vom wogenden Staube."
+
+Und es sagte darauf gerührt der menschliche Hauswirt: "Möge doch Hermann
+sie treffen und sie erquicken und kleiden.  Ungern würd' ich sie sehn;
+mich schmerzt der Anblick des Jammers.  Schon von dem ersten Bericht so
+großer Leiden gerühret, Schickten wir eilend ein Scherflein von unserm
+Überfluß, daß nur Einige würden gestärkt, und schienen uns selber beruhigt.
+Aber laßt uns nicht mehr die traurigen Bilder erneuern; Denn es
+beschleichet die Furcht gar bald die Herzen der Menschen, Und die Sorge,
+die mehr als selbst mir das Übel verhaßt ist.  Tretet herein in den
+hinteren Raum, das kühlere Sälchen.  Nie scheint Sonne dahin, nie dringet
+wärmere Luft dort Durch die stärkeren Mauern; und Mütterchen bringt uns
+ein Gläschen Dreiundachtziger her, damit wir die Grillen vertreiben.
+Hier ist nicht freundlich zu trinken; die Fliegen umsummen die Gläser."
+Und sie gingen dahin und freuten sich alle der Kühlung.
+
+Sorgsam brachte die Mutter des klaren herrlichen Weines, In geschliffener
+Flasche auf blankem zinnernem Runde, Mit den grünlichen Römern, den echten
+Bechern des Rheinweins.  Und so sitzend umgaben die drei den glänzend
+gebohnten Runden, braunen Tisch, er stand auf mächtigen Füßen.  Heiter
+klangen sogleich die Gläser des Wirtes und Pfarrers; Doch unbeweglich
+hielt der dritte denkend das seine, Und es fordert' ihn auf der Wirt mit
+freundlichen Worten:
+
+"Frisch, Herr Nachbar, getrunken!  denn noch bewahrte vor Unglück Gott uns
+gnädig und wird auch künftig uns also bewahren.  Denn wer erkennet es
+nicht, daß seit dem schrecklichen Brande, Da er so hart uns gestraft, er
+uns nun beständig erfreut hat Und beständig beschützt, so wie der Mensch
+sich des Auges Köstlichen Apfel bewahrt, der vor allen Gliedern ihm lieb
+ist.  Sollt' er fernerhin nicht uns schützen und Hülfe bereiten? Denn man
+sieht es erst recht, wie viel er vermag, in Gefahren; Sollt' er die
+blühende Stadt, die er erst durch fleißige Bürger Neu aus der Asche gebaut
+und dann sie reichlich gesegnet, Jetzo wieder zerstören und alle Bemühung
+vernichten?"
+
+Heiter sagte darauf der treffliche Pfarrer und milde: "Haltet am Glauben
+fest und fest an dieser Gesinnung; Denn sie macht im Glücke verständig und
+sicher, im Unglück Reicht sie den schönsten Trost und belebt die
+herrlichste Hoffnung."
+
+Da versetzte der Wirt mit männlichen, klugen Gedanken: "Wie begrüßt' ich
+so oft mit Staunen die Fluten des Rheinstroms, Wenn ich, reisend nach
+meinem Geschäft, ihm wieder mich nahte! Immer schien er mir groß und erhob
+mir Sinn und Gemüte; Aber ich konnte nicht denken, daß bald sein
+liebliches Ufer Sollte werden ein Wall, um abzuwehren den Franken, Und
+sein verbreitetes Bett ein allverhindernder Graben.  Seht, so schützt die
+Natur, so schützen die wackeren Deutschen Und so schützt uns der Herr; wer
+wollte töricht verzagen? Müde schon sind die Streiter, und alles deutet
+auf Frieden.  Möge doch auch, wenn das Fest, das lang erwünschte,
+gefeiert Wird, in unserer Kirche, die Glocke dann tönt zu der Orgel, Und
+die Trompete schmettert, das hohe,Te Deum.  begleitend Möge mein Hermann
+doch auch an diesem Tage, Herr Pfarrer, Mit der Braut, entschlossen, vor
+Euch am Altare sich stellen, Und das glückliche Fest, in allen den Landen
+begangen, Auch mir künftig erscheinen, der häuslichen Freuden ein Jahrstag!
+Aber ungern seh ich den Jüngling, der immer so tätig Mir in dem Hause
+sich regt, nach außen langsam und schüchtern.  Wenig findet er Lust, sich
+unter Leuten zu zeigen; Ja, er vermeidet sogar der jungen Mädchen
+Gesellschaft Und den fröhlichen Tanz, den alle Jugend begehret."
+
+Also sprach er und horchte.  Man hörte der stampfenden Pferde Fernes
+Getöse sich nahn, man hörte den rollenden Wagen, Der mit gewaltiger Eile
+nun donnert' unter den Torweg.
+
+
+
+
+Terpsichore
+Hermann
+
+Als nun der wohlgebildete Sohn ins Zimmer hereintrat, Schaute der Prediger
+ihm mit scharfen Blicken entgegen Und betrachtete seine Gestalt und sein
+ganzes Benehmen Mit dem Auge des Forschers, der leicht die Mienen
+enträtselt, Lächelte dann und sprach zu ihm mit traulichen Worten: "Kommt
+Ihr doch als ein veränderter Mensch!  Ich habe noch niemals Euch so munter
+gesehn und Eure Blicke so lebhaft.  Fröhlich kommt Ihr und heiter; man
+sieht, Ihr habet die Gaben Unter die Armen verteilt und ihren Segen
+empfangen."
+
+Ruhig erwiderte drauf der Sohn, mit ernstlichen Worten: "Ob ich löblich
+gehandelt?  ich weiß es nicht; aber mein Herz hat Mich geheißen zu tun, so
+wie ich genau nun erzähle.  Mutter, Ihr kramtet so lange, die alten
+Stücke zu suchen Und zu wählen; nur spät war erst das Bündel zusammen,
+Auch der Wein und das Bier ward langsam, sorglich gepacket.  Als ich nun
+endlich vors Tor und auf die Straße hinauskam, Strömte zurück die Menge
+der Bürger mit Weibern und Kindern, Mir entgegen; denn fern war schon der
+Zug der Vertriebnen.  Schneller hielt ich mich dran und fuhr behende dem
+Dorf zu, Wo sie, wie ich gehört, heut übernachten und rasten.  Als ich
+nun meines Weges die neue Straße hinanfuhr, Fiel mir ein Wagen ins Auge,
+von tüchtigen Bäumen gefüget, Von zwei Ochsen gezogen, den größten und
+stärksten des Auslands, Nebenher aber ging mit starken Schritten ein
+Mädchen, Lenkte mit langem Stabe die beiden gewaltigen Tiere, Trieb sie an
+und hielt sie zurück, sie leitete klüglich.  Als mich das Mädchen
+erblickte, so trat sie den Pferden gelassen Näher und sagte zu mir: "Nicht
+immer war es mit uns so Jammervoll, als Ihr uns heut auf diesen Wegen
+erblicket.  Noch nicht bin ich gewohnt, vom Fremden die Gabe zu heischen,
+Die er oft ungern gibt, um los zu werden den Armen; Aber mich dränget die
+Not, zu reden.  Hier auf dem Strohe Liegt die erst entbundene Frau des
+reichen Besitzers, Die ich mit Stieren und Wagen noch kaum, die Schwangre,
+gerettet.  Spät nur kommen wir nach, und kaum das Leben erhielt sie.
+Nun liegt, neugeboren, das Kind ihr nackend im Arme, Und mit wenigem nur
+vermögen die Unsern zu helfen, Wenn wir im nächsten Dorf, wo wir heute zu
+rasten gedenken, Auch sie finden, wiewohl ich fürchte, sie sind schon
+vorüber.  Wär' Euch irgend von Leinwand nur was Entbehrliches, wenn Ihr
+Hier aus der Nachbarschaft seid, so spendet's gütig den Armen."
+
+Also sprach sie, und matt erhob sich vom Strohe die bleiche Wöchnerin,
+schaute nach mir; ich aber sagte dagegen: "Guten Menschen fürwahr spricht
+oft ein himmlischer Geist zu, Daß sie fühlen die Not, die dem armen Bruder
+bevorsteht; Denn so gab mir die Mutter, im Vorgefühle von eurem Jammer,
+ein Bündel, sogleich es der nackten Notdurft zu reichen." Und ich löste
+die Knoten der Schnur und gab ihr den Schlafrock Unsers Vaters dahin, und
+gab ihr Hemden und Leintuch.  Und sie dankte mit Freuden und rief: "Der
+Glückliche glaubt nicht, Daß noch Wunder geschehn; denn nur im Elend
+erkennt man Gottes Hand und Finger, der gute Menschen zum Guten Leitet.
+Was er durch Euch an uns tut, tu er Euch selber." Und ich sah die
+Wöchnerin froh die verschiedene Leinwand, Aber besonders den weichen
+Flanell des Schlafrocks befühlen.  "Eilen wir", sagte zu ihr die Jungfrau,
+"dem Dorf zu, in welchem Unsre Gemeine schon rastet und diese Nacht durch
+sich aufhält; Dort besorg ich sogleich das Kinderzeug, alles und jedes."
+Und sie grüßte mich noch und sprach den herzlichsten Dank aus, Trieb die
+Ochsen; da ging der Wagen.  Ich aber verweilte, Hielt die Pferde noch an;
+denn Zwiespalt war mir im Herzen, Ob ich mit eilenden Rossen das Dorf
+erreichte, die Speisen Unter das übrige Volk zu spenden, oder sogleich
+hier Alles dem Mädchen gäbe, damit sie es weislich verteilte.  Und ich
+entschied mich gleich in meinem Herzen und fuhr ihr Sachte nach und
+erreichte sie bald und sagte behende: "Gutes Mädchen, mir hat die Mutter
+nicht Leinwand alleine Auf den Wagen gegeben, damit ich den Nackten
+bekleide, Sondern sie fügte dazu noch Speis' und manches Getränke, Und es
+ist mir genug davon im Kasten des Wagens.  Nun bin ich aber geneigt, auch
+diese Gaben in deine Hand zu legen, und so erfüll ich am besten den
+Auftrag; Du verteilst sie mit Sinn, ich müßte dem Zufall gehorchen." Drauf
+versetzte das Mädchen: "Mit aller Treue verwend ich Eure Gaben; der
+Dürftige soll sich derselben erfreuen." Also sprach sie.  Ich öffnete
+schnell die Kasten des Wagens, Brachte die Schinken hervor, die schweren,
+brachte die Brote, Flaschen Weines und Biers, und reicht' ihr alles und
+jedes.  Gerne hätt' ich noch mehr ihr gegeben; doch leer war der Kasten.
+Alles packte sie drauf zu der Wöchnerin Füßen und zog so Weiter; ich
+eilte zurück mit meinen Pferden der Stadt zu."
+
+Als nun Hermann geendet, da nahm der gesprächige Nachbar Gleich das Wort
+und rief: "O glücklich, wer in den Tagen Dieser Flucht und Verwirrung in
+seinem Haus nur allein lebt, Wem nicht Frau und Kinder zur Seite bange
+sich schmiegen! Glücklich fühl ich mich jetzt; ich möcht' um vieles nicht
+heute Vater heißen und nicht für Frau und Kinder besorgt sein.  Öfters
+dacht' ich mir auch schon die Flucht und habe die besten Sachen
+zusammengepaßt, das alte Geld und die Ketten Meiner seligen Mutter, das
+alles noch heilig verwahrt liegt.  Freilich bliebe noch vieles zurück,
+das so leicht nicht geschafft wird.  Selbst die Kräuter und Wurzeln, mit
+vielem Fleiße gesammelt, Mißt' ich ungern, wenn auch der Wert der Ware
+nicht groß ist.  Bleibt der Provisor zurück, so geh ich getröstet von
+Hause.  Hab ich die Barschaft gerettet und meinen Körper, so hab ich
+Alles gerettet; der einzelne Mann entfliehet am leichtsten."
+
+"Nachbar", versetzte darauf der junge Hermann mit Nachdruck, "Keinesweges
+denk ich wie Ihr und tadle die Rede.  Ist wohl der ein würdiger Mann, der
+im Glück und im Unglück Sich nur allein bedenkt und Leiden und Freuden zu
+teilen Nicht verstehet und nicht dazu von Herzen bewegt wird? Lieber
+möcht' ich als je mich heute zur Heirat entschließen; Denn manch gutes
+Mädchen bedarf des schützenden Mannes Und der Mann des erheiternden Weibs,
+wenn ihm Unglück bevorsteht."
+
+Lächelnd sagte darauf der Vater: "So hör ich dich gerne! Solch ein
+vernünftiges Wort hast du mir selten gesprochen."
+
+Aber es fiel sogleich die gute Mutter behend ein: "Sohn, fürwahr!  du hast
+recht; wir Eltern gaben das Beispiel.  Denn wir haben uns nicht an
+fröhlichen Tagen erwählet, Und uns knüpfte vielmehr die traurigste Stunde
+zusammen.  Montag morgens--ich weiß es genau, denn Tages vorher war Jener
+schreckliche Brand, der unser Städtchen verzehrte--Zwanzig Jahre sind's
+nun; es war ein Sonntag wie heute, Heiß und trocken die Zeit und wenig
+Wasser im Orte.  Alle Leute waren, spazierend in festlichen Kleidern, Auf
+den Dörfern verteilt und in den Schenken und Mühlen.  Und am Ende der
+Stadt begann das Feuer.  Der Brand lief Eilig die Straßen hindurch,
+erzeugend sich selber den Zugwind.  Und es brannten die Scheunen der
+reich gesammelten Ernte, Und es brannten die Straßen bis zu dem Markt, und
+das Haus war Meines Vaters hierneben verzehrt und dieses zugleich mit.
+Wenig flüchteten wir.  Ich saß, die traurige Nacht durch, Vor der Stadt
+auf dem Anger, die Kasten und Betten bewahrend; Doch zuletzt befiel mich
+der Schlaf, und als nun des Morgens Mich die Kühlung erweckte, die vor der
+Sonne herabfällt, Sah ich den Rauch und die Glut und die hohlen Mauern und
+Essen.  Da war beklemmt mein Herz; allein die Sonne ging wieder
+Herrlicher auf als je und flößte mir Mut in die Seele.  Da erhob ich mich
+eilend.  Es trieb mich, die Stätte zu sehen, Wo die Wohnung gestanden, und
+ob sich die Hühner gerettet, Die ich besonders geliebt; denn kindisch war
+mein Gemüt noch.  Als ich nun über die Trümmer des Hauses und Hofes
+daherstieg, Die noch rauchten, und so die Wohnung wüst und zerstört sah,
+Kamst du zur andern Seite herauf und durchsuchtest die Stätte.  Dir war
+ein Pferd in dem Stalle verschüttet; die glimmenden Balken Lagen darüber
+und Schutt, und nichts zu sehn war vom Tiere.  Also standen wir
+gegeneinander, bedenklich und traurig: Denn die Wand war gefallen, die
+unsere Höfe geschieden.  Und du faßtest darauf mich bei der Hand an und
+sagtest: "Lieschen, wie kommst du hieher?  Geh weg!  du verbrennest die
+Sohlen; Denn der Schutt ist heiß, er sengt mir die stärkeren Stiefeln."
+Und du hobest mich auf und trugst mich herüber durch deinen Hof weg.  Da
+stand noch das Tor des Hauses mit seinem Gewölbe, Wie es jetzt steht; es
+war allein von allem geblieben.  Und du setztest mich nieder und küßtest
+mich und ich verwehrt' es.  Aber du sagtest darauf mit freundlich
+bedeutenden Worten: "Siehe, das Haus liegt nieder.  Bleib hier, und hilf
+mir es bauen, Und ich helfe dagegen auch deinem Vater an seinem." Doch ich
+verstand dich nicht, bis du zum Vater die Mutter Schicktest und schnell
+das Gelübd' der fröhlichen Ehe vollbracht war.  Noch erinnr' ich mich
+heute des halbverbrannten Gebälkes Freudig und sehe die Sonne noch immer
+so herrlich heraufgehn; Denn mir gab der Tag den Gemahl, es haben die
+ersten Zeiten der wilden Zerstörung den Sohn mir der Jugend gegeben.
+Darum lob ich dich, Hermann, daß du mit reinem Vertrauen Auch ein Mädchen
+dir denkst in diesen traurigen Zeiten Und es wagtest zu frein im Krieg und
+über den Trümmern."
+
+Da versetzte sogleich der Vater lebhaft und sagte: "Die Gesinnung ist
+löblich, und wahr ist auch die Geschichte, Mütterchen, die du erzählst;
+denn so ist alles begegnet.  Aber besser ist besser.  Nicht einen jeden
+betrifft es, Anzufangen von vorn sein ganzes Leben und Wesen; Nicht soll
+jeder sich quälen, wie wir und andere taten, Oh, wie glücklich ist der,
+dem Vater und Mutter das Haus schon Wohlbestellt übergeben und der mit
+Gedeihen es ausziert! Aller Anfang ist schwer, am schwersten der Anfang
+der Wirtschaft.  Mancherlei Dinge bedarf der Mensch, und alles wird
+täglich Teurer; da seh er sich vor, des Geldes mehr zu erwerben.  Und so
+hoff ich von dir, mein Hermann, daß du mir nächstens In das Haus die Braut
+mit schöner Mitgift hereinführst; Denn ein wackerer Mann verdient ein
+begütertes Mädchen, Und es behaget so wohl, wenn mit dem gewünscheten
+Weibchen Auch in Körben und Kasten die nützliche Gabe hereinkommt.  Nicht
+umsonst bereitet durch manche Jahre die Mutter Viele Leinwand der Tochter,
+von feinem und starkem Gewebe; Nicht umsonst verehren die Paten ihr
+Silbergeräte, Und der Vater sondert im Pulte das seltene Goldstück: Denn
+sie soll dereinst mit ihren Gütern und Gaben Jenen Jüngling erfreun, der
+sie vor allen erwählt hat.  Ja, ich weiß, wie behaglich ein Weibchen im
+Hause sich findet, Das ihr eignes Gerät in Küch' und Zimmern erkennet Und
+das Bette sich selbst und den Tisch sich selber gedeckt hat.  Nur wohl
+ausgestattet möcht' ich im Hause die Braut sehn; Denn die Arme wird doch
+nur zuletzt vom Manne verachtet, Und er hält sie als Magd, die als Magd
+mit dem Bündel hereinkam.  Ungerecht bleiben die Männer, und die Zeiten
+der Liebe vergehen.  Ja, mein Hermann, du würdest mein Alter höchlich
+erfreuen, Wenn du mir bald ins Haus ein Schwiegertöchterchen brächtest Aus
+der Nachbarschaft her, aus jenem Hause, dem grünen.  Reich ist der Mann
+fürwahr: sein Handel und seine Fabriken Machen ihn täglich reicher: denn
+wo gewinnt nicht der Kaufmann? Nur drei Töchter sind da; sie teilen allein
+das Vermögen.  Schon ist die ältste bestimmt, ich weiß es; aber die
+zweite Wie die dritte sind noch, und vielleicht nicht lange, zu haben.
+Wär' ich an deiner Statt, ich hätte bis jetzt nicht gezaudert, Eins mir
+der Mädchen geholt, so wie ich das Mütterchen forttrug."
+
+Da versetzte der Sohn bescheiden dem dringenden Vater: "Wirklich, mein
+Wille war auch, wie Eurer, eine der Töchter Unsers Nachbars zu wählen.
+Wir sind zusammen erzogen, Spielten neben dem Brunnen am Markt in früheren
+Zeiten, Und ich habe sie oft vor der Knaben Wildheit beschützet.  Doch
+das ist lange schon her; es bleiben die wachsenden Mädchen Endlich billig
+zu Haus und fliehn die wilderen Spiele.  Wohlgezogen sind sie gewiß!  Ich
+ging auch zuzeiten Noch aus alter Bekanntschaft, so wie Ihr es wünschtet,
+hinüber; Aber ich konnte mich nie in ihrem Umgang erfreuen.  Denn sie
+tadelten stets an mir, das mußt' ich ertragen: Gar zu lang war mein Rock,
+zu grob das Tuch und die Farbe Gar zu gemein und die Haare nicht recht
+gestutzt und gekräuselt.  Endlich hatt' ich im Sinne, mich auch zu putzen
+wie jene Handelsbübchen, die stets am Sonntag drüben sich zeigen, Und um
+die halbseiden im Sommer das Läppchen herumhängt.  Aber noch früh genug
+merkt' ich, sie hatten mich immer zum besten, Und das war mir empfindlich,
+mein Stolz war beleidigt; doch mehr noch Kränkte mich's tief, daß so sie
+den guten Willen verkannten, Den ich gegen sie hegte, besonders Minchen,
+die jüngste.  Denn so war ich zuletzt an Ostern hinübergegangen, Hatte
+den neuen Rock, der jetzt nur oben im Schrank hängt, Angezogen und war
+frisiert wie die übrigen Bursche.  Als ich eintrat, kicherten sie; doch
+zog ich's auf mich nicht.  Minchen saß am Klavier; es war der Vater
+zugegen, Hörte die Töchterchen singen und war entzückt und in Laune.
+Manches verstand ich nicht, was in den Liedern gesagt war, Aber ich hörte
+viel von Pamina, viel von Tamino, Und ich wollte doch auch nicht stumm
+sein!  Sobald sie geendet, Fragt' ich dem Texte nach und nach den beiden
+Personen.  Alle schwiegen darauf und lächelten; aber der Vater Sagte:
+"Nicht wahr, mein Freund, Er kennt nur Adam und Eva?" Niemand hielt sich
+alsdann, und laut auf lachten die Mädchen, Laut auf lachten die Knaben, es
+hielt den Bauch sich der Alte.  Fallen ließ ich den Hut vor Verlegenheit,
+und das Gekicher Dauerte fort und fort, soviel sie auch sangen und
+spielten.  Und ich eilte beschämt und verdrießlich wieder nach Hause,
+Hängte den Rock in den Schrank und zog die Haare herunter Mit den Fingern
+und schwur, nicht mehr zu betreten die Schwelle.  Und ich hatte wohl
+recht; denn eitel sind sie und lieblos, Und ich höre, noch heiß' ich bei
+ihnen immer Tamino."
+
+Da versetzte die Mutter: "Du solltest, Hermann, so lange Mit den Kindern
+nicht zürnen; denn Kinder sind sie ja sämtlich.  Minchen fürwahr ist gut
+und war dir immer gewogen; Neulich fragte sie noch nach dir.  Die solltest
+du wählen!"
+
+Da versetzte bedenklich der Sohn: "Ich weiß nicht, es prägte Jener Verdruß
+sich so tief bei mir ein, ich möchte fürwahr nicht Sie am Klaviere mehr
+sehn und ihre Liedchen vernehmen."
+
+Doch der Vater fuhr auf und sprach die zornigen Worte: "Wenig Freud' erleb
+ich an dir!  Ich sagt' es doch immer, Als du zu Pferden nur und Lust nur
+bezeugtest zum Acker: Was ein Knecht schon verrichtet des wohlbegüterten
+Mannes, Tust du; indessen muß der Vater des Sohnes entbehren, Der ihm zur
+Ehre doch auch vor andern Bürgern sich zeigte.  Und so täuschte mich früh
+mit leerer Hoffnung die Mutter, Wenn in der Schule das Lesen und Schreiben
+und Lernen dir niemals Wie den andern gelang und du immer der Unterste
+saßest.  Freilich!  das kommt daher, wenn Ehrgefühl nicht im Busen Eines
+Jünglinges lebt und wenn er nicht höher hinauf will.  Hätte mein Vater
+gesorgt für mich, so wie ich für dich tat, Mich zur Schule gesendet und
+mir die Lehrer gehalten, Ja, ich wäre was anders als Wirt zum Goldenen
+Löwen!"
+
+Aber der Sohn stand auf und nahte sich schweigend der Türe, Langsam und
+ohne Geräusch; allein der Vater, entrüstet, Rief ihm nach: "So gehe nur
+hin!  ich kenne den Trotzkopf! Geh und führe fortan die Wirtschaft, daß
+ich nicht schelte; Aber denke nur nicht, du wollest ein bäurisches Mädchen
+Je mir bringen ins Haus, als Schwiegertochter, die Trulle! Lange hab ich
+gelebt und weiß mit Menschen zu handeln, Weiß zu bewirten die Herren und
+Frauen, daß sie zufrieden Von mir weggehn, ich weiß den Fremden gefällig
+zu schmeicheln.  Aber so soll mir denn auch ein Schwiegertöchterchen
+endlich Wiederbegegnen und so mir die viele Mühe versüßen! Spielen soll
+sie mir auch das Klavier; es sollen die schönsten, Besten Leute der Stadt
+sich mit Vergnügen versammeln, Wie es sonntags geschieht im Hause des
+Nachbars!"  Da drückte Leise der Sohn auf die Klinke, und so verließ er
+die Stube.
+
+
+
+
+Thalia
+Die Bürger
+
+Also entwich der bescheidene Sohn der heftigen Rede; Aber der Vater fuhr
+in der Art fort, wie er begonnen--"Was im Menschen nicht ist, kommt auch
+nicht aus ihm, und schwerlich Wird mich des herzlichsten Wunsches
+Erfüllung jemals erfreuen, Daß der Sohn dem Vater nicht gleich sei,
+sondern ein Beßrer.  Denn was wäre das Haus, was wäre die Stadt, wenn
+nicht immer Jeder gedächte mit Lust zu erhalten und zu erneuen Und zu
+verbessern auch, wie die Zeit uns lehrt und das Ausland! Soll doch nicht
+als ein Pilz der Mensch dem Boden entwachsen Und verfaulen geschwind an
+dem Platze, der ihn erzeugt hat, Keine Spur nachlassend von seiner
+lebendigen Wirkung! Sieht man am Hause doch gleich so deutlich, wes Sinnes
+der Herr sei, Wie man, das Städtchen betretend, die Obrigkeiten beurteilt.
+Denn wo die Türme verfallen und Mauern, wo in den Gräben Unrat sich
+häufet und Unrat auf allen Gassen herumliegt, Wo der Stein aus der Fuge
+sich rückt und nicht wieder gesetzt wird, Wo der Balken verfault und das
+Haus vergeblich die neue Unterstützung erwartet: der Ort ist übel regieret.
+Denn wo nicht immer von oben die Ordnung und Reinlichkeit wirket, Da
+gewöhnet sich leicht der Bürger zu schmutzigem Saumsal, Wie der Bettler
+sich auch an lumpige Kleider gewöhnet.  Darum hab ich gewünscht, es solle
+sich Hermann auf Reisen Bald begeben und sehn zum wenigsten Straßburg und
+Frankfurt Und das freundliche Mannheim, das gleich und heiter gebaut ist.
+Denn wer die Städte gesehn, die großen und reinlichen, ruht nicht,
+Künftig die Vaterstadt selbst, so klein sie auch sei, zu verzieren.  Lobt
+nicht der Fremde bei uns die ausgebesserten Tore Und den geweihten Turm
+und die wohlerneuerte Kirche? Rühmt nicht jeder das Pflaster?  die
+wasserreichen, verdeckten, Wohlverteilten Kanäle, die Nutzen und
+Sicherheit bringen, Daß dem Feuer sogleich beim ersten Ausbruch gewehrt
+sei, Ist das nicht alles geschehn seit jenem schrecklichen Brande? Bauherr
+war ich sechsmal im Rat und habe mir Beifall, Habe mir herzlichen Dank von
+guten Bürgern verdienet, Was ich angab, emsig betrieben und so auch die
+Anstalt Redlicher Männer vollführt, die sie unvollendet verließen.  So
+kam endlich die Lust in jedes Mitglied des Rates.  Alle bestreben sich
+jetzt, und schon ist der neue Chausseebau Fest beschlossen, der uns mit
+der großen Straße verbindet.  Aber ich fürchte nur sehr, so wird die
+Jugend nicht handeln! Denn die einen, sie denken auf Lust und
+vergänglichen Putz nur, Andere hocken zu Haus und brüten hinter dem Ofen.
+Und das fürcht ich, ein solcher wird Hermann immer mir bleiben."
+
+Und es versetzte sogleich die gute verständige Mutter: "Immer bist du doch,
+Vater, so ungerecht gegen den Sohn!  und So wird am wenigsten dir dein
+Wunsch des Guten erfüllet.  Denn wir können die Kinder nach unserem Sinne
+nicht formen; So wie Gott sie uns gab, so muß man sie haben und lieben,
+Sie erziehen aufs beste und jeglichen lassen gewähren.  Denn der eine hat
+die, die anderen andere Gaben; Jeder braucht sie, und jeder ist doch nur
+auf eigene Weise Gut und glücklich.  Ich lasse mir meinen Hermann nicht
+schelten; Denn, ich weiß es, er ist der Güter, die er dereinst erbt, Wert
+und ein trefflicher Wirt, ein Muster Bürgern und Bauern, Und im Rate gewiß,
+ich seh es voraus, nicht der Letzte.  Aber täglich mit Schelten und
+Tadeln hemmst du dem Armen Allen Mut in der Brust, so wie du es heute
+getan hast." Und sie verließ die Stube sogleich und eilte dem Sohn nach,
+Daß sie ihn irgendwo fänd' und ihn mit gütigen Worten Wieder erfreute;
+denn er, der treffliche Sohn, er verdient' es.
+
+Lächelnd sagte darauf, sobald sie hinweg war, der Vater: "Sind doch ein
+wunderlich Volk die Weiber, so wie die Kinder! Jedes lebet so gern nach
+seinem eignen Belieben, Und man sollte hernach nur immer loben und
+streicheln.  Einmal für allemal gilt das wahre Sprüchlein der Alten: Wer
+nicht vorwärts geht, der kommt zurücke!  So bleibt es."
+
+Und es versetzte darauf der Apotheker bedächtig: "Gerne geb ich es zu,
+Herr Nachbar, und sehe mich immer Selbst nach dem Besseren um, wofern es
+nicht teuer doch neu ist; Aber hilft es fürwahr, wenn man nicht die Fülle
+des Gelds hat, Tätig und rührig zu sein und innen und außen zu bessern?
+Nur zu sehr ist der Bürger beschränkt; das Gute vermag er Nicht zu
+erlangen, wenn er es kennt.  Zu schwach ist sein Beutel, Das Bedürfnis zu
+groß; so wird er immer gehindert.  Manches hätt' ich getan; allein wer
+scheut nicht die Kosten Solcher Verändrung, besonders in diesen
+gefährlichen Zeiten! Lange lachte mir schon mein Haus im modischen
+Kleidchen, Lange glänzten durchaus mit großen Scheiben die Fenster; Aber
+wer tut dem Kaufmann es nach, der bei seinem Vermögen Auch die Wege noch
+kennt, auf welchen das Beste zu haben? Seht nur das Haus an da drüben, das
+neue!  Wie prächtig in grünen Feldern die Stukkatur der weißen Schnörkel
+sich ausnimmt! Groß sind die Tafeln der Fenster, wie glänzen und spiegeln
+die Scheiben, Daß verdunkelt stehn die übrigen Häuser des Marktes! Und
+doch waren die unsern gleich nach dem Brande die schönsten, Die Apotheke
+zum Engel sowie der Goldene Löwe.  So war mein Garten auch in der ganzen
+Gegend berühmt, und Jeder Reisende stand und sah durch die roten Staketen
+Nach den Bettlern von Stein und nach den farbigen Zwergen.  Wem ich den
+Kaffee dann gar in dem herrlichen Grottenwerk reichte, Das nun freilich
+verstaubt und halb verfallen mir dasteht, Der erfreute sich hoch des
+farbig schimmernden Lichtes Schön geordneter Muscheln; und mit geblendetem
+Auge Schaute der Kenner selbst den Bleiglanz und die Korallen.  Ebenso
+ward in dem Saale die Malerei auch bewundert, Wo die geputzten Herren und
+Damen im Garten spazieren Und mit spitzigen Fingern die Blumen reichen und
+halten.  Ja, wer sähe das jetzt nur noch an!  Ich gehe verdrießlich Kaum
+mehr hinaus; denn alles soll anders sein und geschmackvoll, Wie sie's
+heißen, und weiß die Latten und hölzernen Bänke.  Alles ist einfach und
+glatt, nicht Schnitzwerk oder Vergoldung Will man mehr, und es kostet das
+fremde Holz nun am meisten.  Nun, ich wär' es zufrieden, mir auch was
+Neues zu schaffen; Auch zu gehn mit der Zeit und oft zu verändern den
+Hausrat; Aber es fürchtet sich jeder, auch nur zu rücken das Kleinste,
+Denn wer vermöchte wohl jetzt die Arbeitsleute zu zahlen? Neulich kam
+mir's in Sinn, den Engel Michael wieder, Der mir die Offizin bezeichnet,
+vergolden zu lassen Und den greulichen Drachen, der ihm zu Füßen sich
+windet; Aber ich ließ ihn verbräunt, wie er ist; mich schreckte die
+Fordrung."
+
+
+
+
+Euterpe
+Mutter und Sohn
+
+Also sprachen die Männer, sich unterhaltend.  Die Mutter Ging indessen,
+den Sohn erst vor dem Hause zu suchen, Auf der steinernen Bank, wo sein
+gewöhnlicher Sitz war.  Als sie daselbst ihn nicht fand, so ging sie, im
+Stalle zu schauen, Ob er die herrlichen Pferde, die Hengste, selber
+besorgte, Die er als Fohlen gekauft und die er niemand vertraute.  Und es
+sagte der Knecht: "Er ist in den Garten gegangen." Da durchschritt sie
+behende die langen doppelten Höfe, Ließ die Ställe zurück und die
+wohlgezimmerten Scheunen, Trat in den Garten, der weit bis an die Mauern
+des Städtchens Reichte, schritt ihn hindurch und freute sich jegliches
+Wachstums, Stellte die Stützen zurecht, auf denen beladen die Äste Ruhten
+des Apfelbaums, wie des Birnbaums lastende Zweige, Nahm gleich einige
+Raupen vom kräftig strotzenden Kohl weg; Denn ein geschäftiges Weib tut
+keine Schritte vergebens.  Also war sie ans Ende des langen Gartens
+gekommen, Bis zur Laube, mit Geißblatt bedeckt; nicht fand sie den Sohn da,
+Ebensowenig, als sie bis jetzt ihn im Garten erblickte.  Aber nur
+angelehnt war das Pförtchen, das aus der Laube, Aus besonderer Gunst,
+durch die Mauer des Städtchens gebrochen Hatte der Ahnherr einst, der
+würdige Burgemeister.  Und so ging sie bequem den trocknen Graben hinüber,
+Wo an der Straße sogleich der wohl umzäunete Weinberg Aufstieg steileren
+Pfads, die Fläche zur Sonne gekehret.  Auch den schritt sie hinauf und
+freute der Fülle der Trauben Sich im Steigen, die kaum sich unter den
+Blättern verbargen.  Schattig war und bedeckt der hohe mittlere Laubgang,
+Den man auf Stufen erstieg von unbehauenen Platten.  Und es hingen herein
+Gutedel und Muskateller, Rötlich-blaue daneben von ganz besonderer Größe,
+Alle mit Fleiße gepflanzt, der Gäste Nachtisch zu zieren.  Aber den
+übrigen Berg bedeckten einzelne Stöcke, Kleinere Trauben tragend, von
+denen der köstliche Wein kommt.  Also schritt sie hinauf, sich schon des
+Herbstes erfreuend Und des festlichen Tags, an dem die Gegend im Jubel
+Trauben lieset und tritt und den Most in die Fässer versammelt, Feuerwerke
+des Abends von allen Orten und Enden Leuchten und knallen und so der
+Ernten schönste geehrt wird.  Doch unruhiger ging sie, nachdem sie dem
+Sohne gerufen Zwei-, auch dreimal und nur das Echo vielfach zurückkam, Das
+von den Türmen der Stadt, ein sehr geschwätziges, herklang.  Ihn zu
+suchen war ihr so fremd; er entfernte sich niemals.  Weit, er sagt' es
+ihr denn, um zu verhüten die Sorge Seiner liebenden Mutter und ihre Furcht
+vor dem Unfall.  Aber sie hoffte noch stets, ihn doch auf dem Wege zu
+finden; Denn die Türen, die untre sowie die obre, des Weinbergs Standen
+gleichfalls offen.  Und so nun trat sie ins Feld ein, Das mit weiter
+Fläche den Rücken des Hügels bedeckte.  Immer noch wandelte sie auf
+eigenem Boden und freute Sich der eigenen Saat und des herrlich nickenden
+Kornes, Das mit goldener Kraft sich im ganzen Felde bewegte.  Zwischen
+den Äckern schritt sie hindurch, auf dem Raine, den Fußpfad, Hatte den
+Birnbaum im Auge, den großen, der auf dem Hügel Stand, die Grenze der
+Felder, die ihrem Hause gehörten.  Wer ihn gepflanzt, man konnt' es nicht
+wissen.  Er war in der Gegend Weit und breit gesehn und berühmt die
+Früchte des Baumes.  Unter ihm pflegten die Schnitter des Mahls sich zu
+freuen am Mittag Und die Hirten des Viehs in seinem Schatten zu warten;
+Bänke fanden sie da von rohen Steinen und Rasen.  Und sie irrete nicht;
+dort saß ihr Hermann und ruhte, Saß mit dem Arme gestützt und schien in
+die Gegend zu schauen Jenseits, nach dem Gebirg, er kehrte der Mutter den
+Rücken.  Sachte schlich sie hinan und rührt' ihm leise die Schulter.
+Und er wandte sich schnell; da sah sie ihm Tränen im Auge.
+
+"Mutter", sagt' er betroffen, "Ihr überrascht mich!"  Und eilig Trocknet'
+er ab die Träne, der Jüngling edlen Gefühles.  "Wie?  du weinest, mein
+Sohn?"  versetzte die Mutter betroffen; "Daran kenn ich dich nicht!  ich
+habe das niemals erfahren! Sag, was beklemmt dir das Herz?  was treibt
+dich, einsam zu sitzen Unter dem Birnbaum hier?  was bringt dir Tränen ins
+Auge?"
+
+Und es nahm sich zusammen der treffliche Jüngling und sagte: "Wahrlich,
+dem ist kein Herz im ehernen Busen, der jetzo Nicht die Not der Menschen,
+der umgetriebnen, empfindet; Dem ist kein Sinn in dem Haupte, der nicht um
+sein eigenes Wohl sich Und um des Vaterlands Wohl in diesen Tagen
+bekümmert.  Was ich heute gesehn und gehört, das rührte das Herz mir; Und
+nun ging ich heraus und sah die herrliche weite Landschaft, die sich vor
+uns in fruchtbaren Hügeln umherschlingt, Sah die goldene Frucht den Garben
+entgegen sich neigen Und ein reichliches Obst und volle Kammern
+versprechen.  Aber, ach!  wie nah ist der Feind!  Die Fluten des Rheines
+Schützen uns zwar; doch ach!  was sind nun Fluten und Berge Jenem
+schrecklichen Volke, das wie ein Gewitter daherzieht! Denn sie rufen
+zusammen aus allen Enden die Jugend Wie das Alter und dringen gewaltig vor,
+und die Menge Scheut den Tod nicht; es dringt gleich nach der Menge die
+Menge.  Ach!  und ein Deutscher wagt, in seinem Hause zu bleiben? Hofft
+vielleicht zu entgehen dem alles bedrohenden Unfall? Liebe Mutter, ich sag
+Euch, am heutigen Tage verdrießt mich, Daß man mich neulich entschuldigt,
+als man die Streitenden auslas Aus den Bürgern.  Fürwahr!  ich bin der
+einzige Sohn nur, Und die Wirtschaft ist groß und wichtig unser Gewerbe;
+Aber wär' ich nicht besser, zu widerstehen da vorne An der Grenze, als
+hier zu erwarten Elend und Knechtschaft? Ja, mir hat es der Geist gesagt,
+und im innersten Busen Regt sich Mut und Begier, dem Vaterlande zu leben
+Und zu sterben und andern ein würdiges Beispiel zu geben.  Wahrlich, wäre
+die Kraft der deutschen Jugend beisammen, An der Grenze, verbündet, nicht
+nachzugeben den Fremden, Oh, sie sollten uns nicht den herrlichen Boden
+betreten Und vor unseren Augen die Früchte des Landes verzehren, Nicht den
+Männern gebieten und rauben Weiber und Mädchen! Sehet, Mutter, mir ist im
+tiefsten Herzen beschlossen, Bald zu tun und gleich, was recht mir deucht
+und verständig; Denn wer lange bedenkt, der wählt nicht immer das Beste.
+Sehet, ich werde nicht wieder nach Hause kehren!  Von hier aus Geh ich
+gerad in die Stadt und übergebe den Kriegern Diesen Arm und dies Herz, dem
+Vaterlande zu dienen.  Sage der Vater alsdann, ob nicht der Ehre Gefühl
+mir Auch den Busen belebt und ob ich nicht höher hinauf will!"
+
+Da versetzte bedeutend die gute verständige Mutter, Stille Tränen
+vergießend, sie kamen ihr leichtlich ins Auge: "Sohn, was hat sich in dir
+verändert und deinem Gemüte, Daß du zu deiner Mutter nicht redest wie
+gestern und immer, Offen und frei, und sagst, was deinen Wünschen gemäß
+ist? Hörte jetzt ein Dritter dich reden, er würde fürwahr dich Höchlich
+loben und deinen Entschluß als den edelsten preisen, Durch dein Wort
+verführt und deine bedeutenden Reden.  Doch ich tadle dich nur; denn sieh,
+ich kenne dich besser.  Du verbirgst dein Herz und hast ganz andre
+Gedanken.  Denn ich weiß es, dich ruft nicht die Trommel, nicht die
+Trompete, Nicht begehrst du zu scheinen in der Montur vor den Mädchen;
+Denn es ist deine Bestimmung, so wacker und brav du auch sonst bist, Wohl
+zu verwahren das Haus und stille das Feld zu besorgen.  Darum sage mir
+frei: was dringt dich zu dieser Entschließung?"
+
+Ernsthaft sagte der Sohn: "Ihr irret, Mutter.  Ein Tag ist Nicht dem
+anderen gleich.  Der Jüngling reifet zum Manne; Besser im stillen reift er
+zur Tat oft als im Geräusche Wilden, schwankenden Lebens, das manchen
+Jüngling verderbt hat.  Und so still ich auch bin und war, so hat in der
+Brust mir Doch sich gebildet ein Herz, das Unrecht hasset und Unbill, Und
+ich verstehe recht gut die weltlichen Dinge zu sondern; Auch hat die
+Arbeit den Arm und die Füße mächtig gestärket.  Alles, fühl ich, ist wahr;
+ich darf es kühnlich behaupten.  Und doch tadelt Ihr mich mit Recht, o
+Mutter, und habt mich Auf halbwahren Worten ertappt und halber Verstellung.
+Denn, gesteh' ich es nur, nicht ruft die nahe Gefahr mich Aus dem Hause
+des Vaters und nicht der hohe Gedanke, Meinem Vaterland hülfreich zu sein
+und schrecklich den Feinden.  Worte waren es nur, die ich sprach: sie
+sollten vor Euch nur Meine Gefühle verstecken, die mir das Herz zerreißen.
+Und so laßt mich, o Mutter!  Denn da ich vergebliche Wünsche Hege im
+Busen, so mag auch mein Leben vergeblich dahingehn.  Denn ich weiß es
+recht wohl: der einzelne schadet sich selber, Der sich hingibt, wenn sich
+nicht alle zum Ganzen bestreben."
+
+"Fahre nur fort", so sagte darauf die verständige Mutter, "Alles mir zu
+erzählen, das Größte wie das Geringste! Denn die Männer sind heftig und
+denken nur immer das Letzte, Und die Hindernis treibt die Heftigen leicht
+von dem Wege; Aber ein Weib ist geschickt, auf Mittel zu denken, und
+wandelt Auch den Umweg, geschickt zu ihrem Zweck zu gelangen.  Sage mir
+alles daher, warum du so heftig bewegt bist, Wie ich dich niemals gesehn,
+und das Blut dir wallt in den Adern, Wider Willen die Träne dem Auge sich
+dringt zu entstürzen."
+
+Da überließ sich dem Schmerze der gute Jüngling und weinte, Weinte laut an
+der Brust der Mutter und sprach so erweichet: "Wahrlich!  des Vaters Wort
+hat heute mich kränkend getroffen, Das ich niemals verdient, nicht heut
+und keinen der Tage.  Denn die Eltern zu ehren war früh mein Liebstes,
+und niemand Schien mir klüger zu sein und weiser, als die mich erzeugten
+Und mit Ernst mir in dunkeler Zeit der Kindheit geboten.  Vieles hab ich
+fürwahr von meinen Gespielen geduldet, Wenn sie mit Tücke mir oft den
+guten Willen vergalten; Oftmals hab ich an ihnen nicht Wurf noch Streiche
+gerochen: Aber spotteten sie mir den Vater aus, wenn er sonntags Aus der
+Kirche kam mit würdig bedächtigem Schritte, Lachten sie über das Band der
+Mütze, die Blumen des Schlafrocks, Den er so stattlich trug und der erst
+heute verschenkt ward: Fürchterlich ballte sich gleich die Faust mir, mit
+grimmigem Wüten Fiel ich sie an und schlug und traf mit blindem Beginnen,
+Ohne zu sehen, wohin.  Sie heulten mit blutigen Nasen Und entrissen sich
+kaum den wütenden Tritten und Schlägen.  Und so wuchs ich heran, um viel
+vom Vater zu dulden, Der statt anderer mich gar oft mit Worten herumnahm,
+Wenn bei Rat ihm Verdruß in der letzten Sitzung erregt ward, Und ich büßte
+den Streit und die Ränke seiner Kollegen.  Oftmals habt Ihr mich selbst
+bedauert; denn vieles ertrug ich, Stets in Gedanken der Eltern von Herzen
+zu ehrende Wohltat, Die nur sinnen, für uns zu mehren die Hab' und die
+Güter, Und sich selber manches entziehn, um zu sparen den Kindern.  Aber,
+ach!  nicht das Sparen allein, um spät zu genießen, Macht das Glück, es
+macht nicht das Glück der Haufe beim Haufen, Nicht der Acker am Acker, so
+schön sich die Güter auch schließen.  Denn der Vater wird alt, und mit
+ihm altern die Söhne, Ohne die Freude des Tags, und mit der Sorge für
+morgen.  Sagt mir, und schauet hinab, wie herrlich liegen die schönen,
+Reichen Gebreite nicht da, und unten Weinberg und Gärten, Dort die
+Scheunen und Ställe, die schöne Reihe der Güter! Aber seh ich dann dort
+das Hinterhaus, wo an dem Giebel Sich das Fenster uns zeigt von meinem
+Stübchen im Dache, Denk ich die Zeiten zurück, wie manche Nacht ich den
+Mond schon Dort erwartet und schon so manchen Morgen die Sonne, Wenn der
+gesunde Schlaf mir nur wenige Stunden genügte: Ach!  da kommt mir so
+einsam vor, wie die Kammer, der Hof und Garten, das herrliche Feld, das
+über die Hügel sich hinstreckt; Alles liegt so öde vor mir: ich entbehre
+der Gattin."
+
+Da antwortete drauf die gute Mutter verständig: "Sohn, mehr wünschest du
+nicht, die Braut in die Kammer zu führen, Daß dir werde die Nacht zur
+schönen Hälfte des Lebens Und die Arbeit des Tags dir freier und eigener
+werde, Als der Vater es wünscht und die Mutter.  Wir haben dir immer
+Zugeredet, ja dich getrieben, ein Mädchen zu wählen.  Aber mir ist es
+bekannt, und jetzo sagt es das Herz mir: Wenn die Stunde nicht kommt, die
+rechte, wenn nicht das rechte Mädchen zur Stunde sich zeigt, so bleibt das
+Wählen im Weiten, Und es wirket die Furcht, die falsche zu greifen, am
+meisten.  Soll ich dir sagen, mein Sohn, so hast du, ich glaube, gewählet,
+Denn dein Herz ist getroffen und mehr als gewöhnlich empfindlich.  Sag
+es gerad nur heraus, denn mir schon sagt es die Seele: Jenes Mädchen ist's,
+das vertriebene, die du gewählt hast."
+
+"Liebe Mutter, Ihr sagt's!"  versetzte lebhaft der Sohn drauf.  "Ja, sie
+ist's!  und führ ich sie nicht als Braut mir nach Hause Heute noch, ziehet
+sie fort, verschwindet vielleicht mir auf immer In der Verwirrung des
+Kriegs und im traurigen Hin- und Herziehn.  Mutter, ewig umsonst gedeiht
+mir die reiche Besitzung Dann vor Augen, umsonst sind künftige Jahre mir
+fruchtbar.  Ja, das gewohnte Haus und der Garten ist mir zuwider; Ach!
+und die Liebe der Mutter, sie selbst nicht tröstet den Armen.  Denn es
+löset die Liebe, das fühl ich, jegliche Bande, Wenn sie die ihrigen knüpft;
+und nicht das Mädchen allein läßt Vater und Mutter zurück, wenn sie dem
+erwähleten Mann folgt; Auch der Jüngling, er weiß nichts mehr von Mutter
+und Vater, Wenn er das Mädchen sieht, das einziggeliebte, davonziehn.
+Darum lasset mich gehn, wohin die Verzweiflung mich antreibt.  Denn mein
+Vater, er hat die entscheidenden Worte gesprochen, Und sein Haus ist nicht
+mehr das meine, wenn er das Mädchen Ausschließt, das ich allein nach Haus
+zu führen begehre."
+
+Da versetzte behend die gute verständige Mutter: "Stehen wie Felsen doch
+zwei Männer gegeneinander! Unbewegt und stolz will keiner dem andern sich
+nähern, Keiner zum guten Worte, dem ersten, die Zunge bewegen.  Darum sag
+ich dir, Sohn: noch lebt die Hoffnung in meinem Herzen, daß er sie dir,
+wenn sie gut und brav ist, verlobe, Obgleich arm, so entschieden er auch
+die Arme versagt hat.  Denn er redet gar manches in seiner heftigen Art
+aus, Das er doch nicht vollbringt; so gibt er auch zu das Versagte.  Aber
+ein gutes Wort verlangt er und kann es verlangen; Denn er ist Vater!  Auch
+wissen wir wohl, sein Zorn ist nach Tische, Wo er heftiger spricht und
+anderer Gründe bezweifelt, Nie bedeutend; es reget der Wein dann jegliche
+Kraft auf Seines heftigen Wollens und läßt ihn die Worte der andern Nicht
+vernehmen, er hört und fühlt alleine sich selber.  Aber es kommt der
+Abend heran, und die vielen Gespräche Sind nun zwischen ihm und seinen
+Freunden gewechselt.  Milder ist er fürwahr, ich weiß, wenn das
+Räuschchen vorbei ist Und er das Unrecht fühlt, das er andern lebhaft
+erzeugte.  Komm!  wir wagen es gleich; das Frischgewagte gerät nur, Und
+wir bedürfen der Freunde, die jetzo bei ihm noch versammelt Sitzen;
+besonders wird uns der würdige Geistliche helfen."
+
+Also sprach sie behende und zog, vom Steine sich hebend, Auch vom Sitze
+den Sohn, den willig folgenden.  Beide Kamen schweigend herunter, den
+wichtigen Vorsatz bedenkend.
+
+
+
+
+Polyhymnia
+Der Weltbürger
+
+Aber es saßen die drei noch immer sprechend zusammen, Mit dem geistlichen
+Herrn der Apotheker beim Wirte, Und es war das Gespräch noch immer
+ebendasselbe, Das viel hin und her nach allen Seiten geführt ward.  Aber
+der treffliche Pfarrer versetzte, würdig gesinnt, drauf: "Widersprechen
+will ich Euch nicht.  Ich weiß es, der Mensch soll Immer streben zum
+Bessern; und, wie wir sehen, er strebt auch Immer dem Höheren nach, zum
+wenigsten sucht er das Neue.  Aber geht nicht zu weit!  Denn neben diesen
+Gefühlen Gab die Natur uns auch die Lust zu verharren im Alten Und sich
+dessen zu freun, was jeder lange gewohnt ist.  Aller Zustand ist gut, der
+natürlich ist und vernünftig.  Vieles wünscht sich der Mensch, und doch
+bedarf er nur wenig; Denn die Tage sind kurz, und beschränkt der
+Sterblichen Schicksal.  Niemals tadl' ich den Mann, der immer, tätig und
+rastlos Umgetrieben, das Meer und alle Straßen der Erde Kühn und emsig
+befährt und sich des Gewinnes erfreuet, Welcher sich reichlich um ihn und
+um die Seinen herum häuft; Aber jener ist auch mir wert, der ruhige Bürger,
+Der sein väterlich Erbe mit stillen Schritten umgehet Und die Erde
+besorgt, so wie es die Stunden gebieten.  Nicht verändert sich ihm in
+jedem Jahre der Boden, Nicht streckt eilig der Baum, der neugepflanzte,
+die Arme Gegen den Himmel aus, mit reichlichen Blüten gezieret.  Nein,
+der Mann bedarf der Geduld; er bedarf auch des reinen, Immer gleichen,
+ruhigen Sinns und des graden Verstandes.  Denn nur wenige Samen vertraut
+er der nährenden Erde, Wenige Tiere nur versteht er, mehrend, zu ziehen;
+Denn das Nützliche bleibt allein sein ganzer Gedanke.  Glücklich, wem die
+Natur ein so gestimmtes Gemüt gab! Er ernähret uns alle.  Und Heil dem
+Bürger des kleinen Städtchens, welcher ländlich Gewerb mit Bürgergewerb
+paart! Auf ihm liegt nicht der Druck, der ängstlich den Landmann
+beschränket; Ihn verwirrt nicht die Sorge der viel begehrenden Städter,
+Die dem Reicheren stets und dem Höheren, wenig vermögend, Nachzustreben
+gewohnt sind, besonders die Weiber und Mädchen.  Segnet immer darum des
+Sohnes ruhig Bemühen Und die Gattin, die einst er, die gleichgesinnte,
+sich wählet."
+
+Also sprach er.  Es trat die Mutter zugleich mit dem Sohn ein, Führend ihn
+bei der Hand und vor den Gatten ihn stellend.  "Vater", sprach sie, "wie
+oft gedachten wir, untereinander Schwatzend, des fröhlichen Tags, der
+kommen würde, wenn künftig Hermann, seine Braut sich erwählend, uns
+endlich erfreute! Hin und wider dachten wir da; bald dieses, bald jenes
+Mädchen bestimmten wir ihm mit elterlichem Geschwätze.  Nun ist er kommen,
+der Tag; nun hat die Braut ihm der Himmel Hergeführt und gezeigt, es hat
+sein Herz nun entschieden.  Sagten wir damals nicht immer: er solle
+selber sich wählen? Wünschtest du nicht noch vorhin, er möchte heiter und
+lebhaft Für ein Mädchen empfinden?  Nun ist die Stunde gekommen! Ja, er
+hat gefühlt und gewählt und ist männlich entschieden.  Jenes Mädchen
+ist's, die Fremde, die ihm begegnet.  Gib sie ihm; oder er bleibt, so
+schwur er, im ledigen Stande."
+
+Und es sagte der Sohn: "Die gebt mir, Vater!  Mein Herz hat Rein und
+sicher gewählt; Euch ist sie die würdigste Tochter."
+
+Aber der Vater schwieg.  Da stand der Geistliche schnell auf, Nahm das
+Wort und sprach: "Der Augenblick nur entscheidet Über das Leben des
+Menschen und über sein ganzes Geschicke; Denn nach langer Beratung ist
+doch ein jeder Entschluß nur Werk des Moments, es ergreift doch nur der
+Verständ'ge das Rechte.  Immer gefährlicher ist's, beim Wählen dieses und
+jenes Nebenher zu bedenken und so das Gefühl zu verwirren.  Rein ist
+Hermann, ich kenn ihn von Jugend auf, und er streckte Schon als Knabe die
+Hände nicht aus nach diesem und jenem.  Was er begehrte, das war ihm
+gemäß; so hielt er es fest auch.  Seid nicht scheu und verwundert, daß
+nun auf einmal erscheinet, Was Ihr so lange gewünscht.  Es hat die
+Erscheinung fürwahr nicht Jetzt die Gestalt des Wunsches, so wie Ihr ihn
+etwa geheget.  Denn die Wünsche verhüllen uns selbst das Gewünschte; die
+Gaben Kommen von oben herab, in ihren eignen Gestalten.  Nun verkennet es
+nicht, das Mädchen, das Eurem geliebten, Guten, verständigen Sohn zuerst
+die Seele bewegt hat.  Glücklich ist der, dem sogleich die erste Geliebte
+die Hand reicht, Dem der lieblichste Wunsch nicht heimlich im Herzen
+verschmachtet! Ja, ich seh es ihm an, es ist sein Schicksal entschieden.
+Wahre Neigung vollendet sogleich zum Manne den Jüngling.  Nicht beweglich
+ist er; ich fürchte, versagt Ihr ihm dieses, Gehen die Jahre dahin, die
+schönsten, in traurigem Leben."
+
+Da versetzte sogleich der Apotheker bedächtig, Dem schon lange das Wort
+von der Lippe zu springen bereit war: "Laßt uns auch diesmal doch nur die
+Mittelstraße betreten! Eile mit Weile!  das war selbst Kaiser Augustus'
+Devise.  Gerne schick ich mich an, den lieben Nachbarn zu dienen, Meinen
+geringen Verstand zu ihrem Nutzen zu brauchen: Und besonders bedarf die
+Jugend, daß man sie leite.  Laßt mich also hinaus; ich will es prüfen,
+das Mädchen, Will die Gemeinde befragen, in der sie lebt und bekannt ist.
+Niemand betriegt mich so leicht; ich weiß die Worte zu schätzen."
+
+Da versetzte sogleich der Sohn mit geflügelten Worten: "Tut es, Nachbar,
+und geht und erkundigt Euch.  Aber ich wünsche, Daß der Herr Pfarrer sich
+auch in Eurer Gesellschaft befinde; Zwei so treffliche Männer sind
+unverwerfliche Zeugen.  Oh, mein Vater!  sie ist nicht hergelaufen, das
+Mädchen, Keine, die durch das Land auf Abenteuer umherschweift, Und den
+Jüngling bestrickt, den unerfahrnen, mit Ränken.  Nein; das wilde
+Geschick des allverderblichen Krieges, Das die Welt zerstört und manches
+feste Gebäude Schon aus dem Grunde gehoben, hat auch die Arme vertrieben.
+Streifen nicht herrliche Männer von hoher Geburt nun im Elend? Fürsten
+fliehen vermummt, und Könige leben verbannet.  Ach, so ist auch sie, von
+ihren Schwestern die beste, Aus dem Lande getrieben; ihr eignes Unglück
+vergessend, Steht sie anderen bei, ist ohne Hülfe noch hülfreich.  Groß
+sind Jammer und Not, die über die Erde sich breiten; Sollte nicht auch ein
+Glück aus diesem Unglück hervorgehn Und ich, im Arme der Braut, der
+zuverlässigen Gattin, Mich nicht erfreuen des Kriegs, so wie Ihr des
+Brandes Euch freutet?"
+
+Da versetzte der Vater und tat bedeutend den Mund auf: "Wie ist, o Sohn,
+dir die Zunge gelöst, die schon dir im Munde Lange Jahre gestockt und nur
+sich dürftig bewegte! Muß ich doch heut erfahren, was jedem Vater gedroht
+ist: Daß den Willen des Sohns, den heftigen, gerne die Mutter Allzu gelind
+begünstigt und jeder Nachbar Partei nimmt, Wenn es über den Vater nun
+hergeht oder den Ehmann.  Aber ich will euch zusammen nicht widerstehen;
+was hülf' es? Denn ich sehe doch schon hier Trotz und Tränen im voraus.
+Gehet und prüfet und bringt in Gottes Namen die Tochter Mir ins Haus; wo
+nicht, so mag er das Mädchen vergessen!"
+
+Also der Vater.  Es rief der Sohn mit froher Gebärde: "Noch vor Abend ist
+Euch die trefflichste Tochter bescheret, Wie sie der Mann sich wünscht,
+dem ein kluger Sinn in der Brust lebt.  Glücklich ist die Gute dann auch,
+so darf ich es hoffen.  Ja, sie danket mir ewig, daß ich ihr Vater und
+Mutter Wiedergegeben in Euch, so wie sie verständige Kinder Wünschen.
+Aber ich zaudre nicht mehr; ich schirre die Pferde Gleich und führe die
+Freunde hinaus auf die Spur der Geliebten, Überlasse die Männer sich
+selbst und der eigenen Klugheit, Richte, so schwör ich Euch zu, mich ganz
+nach ihrer Entscheidung, Und ich seh es nicht wieder, als bis es mein ist,
+das Mädchen." Und so ging er hinaus, indessen manches die andern Weislich
+erwogen und schnell die wichtige Sache besprachen.
+
+Hermann eilte zum Stalle sogleich, wo die mutigen Hengste Ruhig standen
+und rasch den reinen Hafer verzehrten Und das trockene Heu, auf der besten
+Wiese gehauen.  Eilig legt' er ihnen darauf das blanke Gebiß an, Zog die
+Riemen sogleich durch die schön versilberten Schnallen Und befestigte dann
+die langen, breiteren Zügel, Führte die Pferde heraus in den Hof, wo der
+willige Knecht schon Vorgeschoben die Kutsche, sie leicht an der Deichsel
+bewegend.  Abgemessen knüpften sie drauf an die Waage mit saubern
+Stricken die rasche Kraft der leicht hinziehenden Pferde.  Hermann faßte
+die Peitsche; dann saß er und rollt' in den Torweg.  Als die Freunde nun
+gleich die geräumigen Plätze genommen, Rollte der Wagen eilig und ließ das
+Pflaster zurücke, Ließ zurück die Mauern der Stadt und die reinlichen
+Türme.  So fuhr Hermann dahin, der wohlbekannten Chaussee zu, Rasch, und
+säumete nicht und fuhr bergan wie bergunter.  Als er aber nunmehr den
+Turm des Dorfes erblickte Und nicht fern mehr lagen die gartenumgebenen
+Häuser, Dacht' er bei sich selbst, nun anzuhalten die Pferde.
+
+Von dem würdigen Dunkel erhabener Linden umschattet, Die Jahrhunderte
+schon an dieser Stelle gewurzelt, War mit Rasen bedeckt ein weiter
+grünender Anger Vor dem Dorfe, den Bauern und nahen Städtern ein Lustort.
+Flach gegraben befand sich unter den Bäumen ein Brunnen.  Stieg man die
+Stufen hinab, so zeigten sich steinerne Bänke, Rings um die Quelle gesetzt,
+die immer lebendig hervorquoll, Reinlich, mit niedriger Mauer gefaßt, zu
+schöpfen bequemlich.  Hermann aber beschloß, in diesem Schatten die
+Pferde Mit dem Wagen zu halten.  Er tat so und sagte die Worte: "Steiget,
+Freunde, nun aus und geht, damit Ihr erfahret, Ob das Mädchen auch wert
+der Hand sei, die ich ihr biete.  Zwar ich glaub es, und mir erzählt Ihr
+nichts Neues und Seltnes; Hätt' ich allein zu tun, so ging' ich behend zu
+dem Dorf hin, Und mit wenigen Worten entschiede die Gute mein Schicksal.
+Und Ihr werdet sie bald vor allen andern erkennen; Denn wohl schwerlich
+ist an Bildung ihr eine vergleichbar.  Aber ich geb Euch noch die Zeichen
+der reinlichen Kleider: Denn der rote Latz erhebt den gewölbeten Busen,
+Schön geschnürt, und es liegt das schwarze Mieder ihr knapp an; Sauber hat
+sie den Saum des Hemdes zur Krause gefaltet, Die ihr das Kinn umgibt, das
+runde, mit reinlicher Anmut; Frei und heiter zeigt sich des Kopfes
+zierliches Eirund; Stark sind vielmal die Zöpfe um silberne Nadeln
+gewickelt; Vielgefaltet und blau fängt unter dem Latze der Rock an Und
+umschlägt ihr im Gehn die wohlgebildeten Knöchel.  Doch das will ich Euch
+sagen und noch mir ausdrücklich erbitten: Redet nicht mit dem Mädchen, und
+laßt nicht merken die Absicht, Sondern befraget die andern und hört, was
+sie alles erzählen.  Habt Ihr Nachricht genug, zu beruhigen Vater und
+Mutter, Kehret zu mir dann zurück, und wir bedenken das Weitre.  Also
+dacht' ich mir's aus, den Weg her, den wir gefahren."
+
+Also sprach er.  Es gingen darauf die Freunde dem Dorf zu, Wo in Gärten
+und Scheunen und Häusern die Menge von Menschen Wimmelte, Karrn an Karrn
+die breite Straße dahin stand.  Männer versorgten das brüllende Vieh und
+die Pferd' an den Wagen, Wäsche trockneten emsig auf allen Hecken die
+Weiber, Und es ergötzten die Kinder sich plätschernd im Wasser des Baches.
+Also durch die Wagen sich drängend, durch Menschen und Tiere, Sahen sie
+rechts und links sich um, die gesendeten Späher, Ob sie nicht etwa das
+Bild des bezeichneten Mädchens erblickten; Aber keine von allen erschien
+die herrliche Jungfrau.  Stärker fanden sie bald das Gedränge.  Da war um
+die Wagen Streit der drohenden Männer, worein sich mischten die Weiber,
+Schreiend.  Da nahte sich schnell mit würdigen Schritten ein Alter, Trat
+zu den Scheltenden hin; und sogleich verklang das Getöse, Als er Ruhe
+gebot, und väterlich ernst sie bedrohte.  "Hat uns", rief er, "noch nicht
+das Unglück also gebändigt, Daß wir endlich verstehn, uns untereinander zu
+dulden Und zu vertragen, wenn auch nicht jeder die Handlungen abmißt?
+Unverträglich fürwahr ist der Glückliche!  Werden die Leiden Endlich euch
+lehren, nicht mehr, wie sonst, mit dem Bruder zu hadern? Gönnet einander
+den Platz auf fremdem Boden und teilet, Was ihr habet, zusammen, damit ihr
+Barmherzigkeit findet!"
+
+Also sagte der Mann, und alle schwiegen; verträglich Ordneten Vieh und
+Wagen die wieder besänftigten Menschen.  Als der Geistliche nun die Rede
+des Mannes vernommen Und den ruhigen Sinn des fremden Richters entdeckte,
+Trat er an ihn heran und sprach die bedeutenden Worte: "Vater, fürwahr!
+wenn das Volk in glücklichen Tagen dahinlebt, Von der Erde sich nährend,
+die weit und breit sich auftut Und die erwünschten Gaben in Jahren und
+Monden erneuert, Da geht alles von selbst, und jeder ist sich der Klügste
+Wie der Beste; und so bestehen sie nebeneinander, Und der vernünftigste
+Mann ist wie ein andrer gehalten: Denn was alles geschieht, geht still,
+wie von selber, den Gang fort.  Aber zerrüttet die Not die gewöhnlichen
+Wege des Lebens, Reißt das Gebäude nieder und wühlet Garten und Saat um,
+Treibt den Mann und das Weib vom Raume der traulichen Wohnung, Schleppt in
+die Irre sie fort, durch ängstliche Tage und Nächte: Ach!  da sieht man
+sich um, wer wohl der verständigste Mann sei, Und er redet nicht mehr die
+herrlichen Worte vergebens.  Sagt mir, Vater, Ihr seid gewiß der Richter
+von diesen Flüchtigen Männern, der Ihr sogleich die Gemüter beruhigt? Ja,
+Ihr erscheint mir heut als einer der ältesten Führer, Die durch Wüsten und
+Irren vertriebene Völker geleitet.  Denk ich doch eben, ich rede mit
+Josua oder mit Moses."
+
+Und es versetzte darauf mit ernstem Blicke der Richter: "Wahrlich, unsere
+Zeit vergleicht sich den seltensten Zeiten, Die die Geschichte bemerkt,
+die heilige wie die gemeine.  Denn wer gestern und heut in diesen Tagen
+gelebt hat, Hat schon Jahre gelebt: so drängen sich alle Geschichten.
+Denk ich ein wenig zurück, so scheint mir ein graues Alter Auf dem Haupte
+zu liegen, und doch ist die Kraft noch lebendig.  Oh, wir anderen dürfen
+uns wohl mit jenen vergleichen, Denen in ernster Stund' erschien im
+feurigen Busche Gott der Herr; auch uns erschien er in Wolken und Feuer."
+
+Als nun der Pfarrer darauf noch weiter zu sprechen geneigt war Und das
+Schicksal des Manns und der Seinen zu hören verlangte, Sagte behend der
+Gefährte mit heimlichen Worten ins Ohr ihm: "Sprecht mit dem Richter nur
+fort und bringt das Gespräch auf das Mädchen.  Aber ich gehe herum, sie
+aufzusuchen, und komme Wieder, sobald ich sie finde."  Es nickte der
+Pfarrer dagegen, Und durch die Hecken und Gärten und Scheunen suchte der
+Späher.
+
+
+
+
+Klio
+Das Zeitalter
+
+Als nun der geistliche Herr den fremden Richter befragte, Was die Gemeine
+gelitten, wie lang sie von Hause vertrieben, Sagte der Mann darauf: "Nicht
+kurz sind unsere Leiden; Denn wir haben das Bittre der sämtlichen Jahre
+getrunken, Schrecklicher, weil auch uns die schönste Hoffnung zerstört
+ward.  Denn wer leugnet es wohl, daß hoch sich das Herz ihm erhoben, Ihm
+die freiere Brust mit reineren Pulsen geschlagen, Als sich der erste Glanz
+der neuen Sonne heranhob, Als man hörte vom Rechte der Menschen, das allen
+gemein sei, Von der begeisternden Freiheit und von der löblichen
+Gleichheit! Damals hoffte jeder sich selbst zu leben; es schien sich
+Aufzulösen das Band, das viele Länder umstrickte, Das der Müßiggang und
+der Eigennutz in der Hand hielt.  Schauten nicht alle Völker in jenen
+drängenden Tagen Nach der Hauptstadt der Welt, die es schon so lange
+gewesen Und jetzt mehr als je den herrlichen Namen verdiente? Waren nicht
+jener Männer, der ersten Verkünder der Botschaft, Namen den höchsten
+gleich, die unter die Sterne gesetzt sind? Wuchs nicht jeglichem Menschen
+der Mut und der Geist und die Sprache?
+
+Und wir waren zuerst, als Nachbarn, lebhaft entzündet.  Drauf begann der
+Krieg, und die Züge bewaffneter Franken Rückten näher; allein sie schienen
+nur Freundschaft zu bringen.  Und die brachten sie auch: denn ihnen
+erhöht war die Seele Allen; sie pflanzten mit Lust die munteren Bäume der
+Freiheit, Jedem das Seine versprechend, und jedem die eigne Regierung.
+Hoch erfreute sich da die Jugend, sich freute das Alter, Und der muntere
+Tanz begann um die neue Standarte.  So gewannen sie bald, die
+überwiegenden Franken, Erst der Männer Geist, mit feurigem munterm
+Beginnen, Dann die Herzen der Weiber, mit unwiderstehlicher Anmut.
+Leicht selbst schien uns der Druck des vielbedürfenden Krieges; Denn die
+Hoffnung umschwebte vor unsern Augen die Ferne, Lockte die Blicke hinaus
+in neueröffnete Bahnen.
+
+Oh, wie froh ist die Zeit, wenn mit der Braut sich der Bräut'gam Schwinget
+im Tanze, den Tag der gewünschten Verbindung erwartend! Aber herrlicher
+war die Zeit, in der uns das Höchste, Was der Mensch sich denkt, als nah
+und erreichbar sich zeigte.  Da war jedem die Zunge gelöst; es sprachen
+die Greise, Männer und Jünglinge laut voll hohen Sinns und Gefühles.
+
+Aber der Himmel trübte sich bald.  Um den Vorteil der Herrschaft Stritt
+ein verderbtes Geschlecht, unwürdig, das Gute zu schaffen.  Sie
+ermordeten sich und unterdrückten die neuen Nachbarn und Brüder und
+sandten die eigennützige Menge.  Und es praßten bei uns die Obern und
+raubten im großen, Und es raubten und praßten bis zu dem Kleinsten die
+Kleinen; Jeder schien nur besorgt, es bleibe was übrig für morgen.  Allzu
+groß war die Not, und täglich wuchs die Bedrückung; Niemand vernahm das
+Geschrei, sie waren die Herren des Tages.  Da fiel Kummer und Wut auch
+selbst ein gelaßnes Gemüt an, Jeder sann nur und schwur, die Beleidigung
+alle zu rächen Und den bittern Verlust der doppelt betrogenen Hoffnung.
+Und es wendete sich das Glück auf die Seite der Deutschen, Und der Franke
+floh mit eiligen Märschen zurücke.  Ach, da fühlten wir erst das traurige
+Schicksal des Krieges! Denn der Sieger ist groß und gut; zum wenigsten
+scheint er's, Und er schonet den Mann, den besiegten, als wär' er der
+seine, Wenn er ihm täglich nützt und mit den Gütern ihm dienet.  Aber der
+Flüchtige kennt kein Gesetz; denn er wehrt nur den Tod ab Und verzehret
+nur schnell und ohne Rücksicht die Güter.  Dann ist sein Gemüt auch
+erhitzt, und es kehrt die Verzweiflung Aus dem Herzen hervor das
+frevelhafte Beginnen.  Nichts ist heilig ihm mehr; er raubt es.  Die
+wilde Begierde Dringt mit Gewalt auf das Weib und macht die Lust zum
+Entsetzen.  Überall sieht er den Tod und genießt die letzten Minuten
+Grausam, freut sich des Bluts und freut sich des heulenden Jammers.
+
+Grimmig erhob sich darauf in unsern Männern die Wut nun, Das Verlorne zu
+rächen und zu verteid'gen die Reste.  Alles ergriff die Waffen, gelockt
+von der Eile des Flüchtlings Und vom blassen Gesicht und scheu unsicheren
+Blicke.  Rastlos nun erklang das Getön der stürmenden Glocke, Und die
+künft'ge Gefahr hielt nicht die grimmige Wut auf.  Schnell verwandelte
+sich des Feldbaus friedliche Rüstung Nun in Wehre; da troff von Blute
+Gabel und Sense.  Ohne Begnadigung fiel der Feind und ohne Verschonung;
+Überall raste die Wut und die feige, tückische Schwäche.  Möcht' ich den
+Menschen doch nie in dieser schnöden Verirrung Wieder sehn!  Das wütende
+Tier ist ein besserer Anblick.  Sprech' er doch nie von Freiheit, als
+könn' er sich selber regieren! Losgebunden erscheint, sobald die Schranken
+hinweg sind, Alles Böse, das tief das Gesetz in die Winkel zurücktrieb."
+
+"Trefflicher Mann!"  versetzte darauf der Pfarrer mit Nachdruck, "Wenn ihr
+den Menschen verkennt, so kann ich Euch darum nicht schelten; Habt Ihr
+doch Böses genug erlitten vorn wüsten Beginnen! Wolltet Ihr aber zurück
+die traurigen Tage durchschauen, Würdet Ihr selber gestehen, wie oft Ihr
+auch Gutes erblicktet.  Manches Treffliche, das verborgen bleibt in dem
+Herzen, Regt die Gefahr es nicht auf, und drängt die Not nicht den
+Menschen, Daß er als Engel sich zeig', erscheine den andern ein Schutzgott."
+
+Lächelnd versetzte darauf der alte würdige Richter.  "Ihr erinnert mich
+klug, wie oft nach dem Brande des Hauses Man den betrübten Besitzer an
+Gold und Silber erinnert, Das geschmolzen im Schutt nun überblieben
+zerstreut liegt.  Wenig ist es fürwahr, doch auch das wenige köstlich;
+Und der Verarmte gräbet ihm nach und freut sich des Fundes.  Und so kehr
+ich auch gern die heitern Gedanken zu jenen Wenigen guten Taten, die
+aufbewahrt das Gedächtnis.  Ja, ich will es nicht leugnen, ich sah sich
+Feinde versöhnen, Um die Stadt vom Übel zu retten; ich sah auch der
+Freunde, Sah der Eltern Lieb' und der Kinder Unmögliches wagen; Sah, wie
+der Jüngling auf einmal zum Mann ward, sah, wie der Greis sich Wieder
+verjüngte, das Kind sich selbst als Jüngling enthüllte.  Ja, und das
+schwache Geschlecht, so wie es gewöhnlich genannt wird, Zeigte sich tapfer
+und mächtig und gegenwärtigen Geistes.  Und so laßt mich vor allen der
+schönen Tat noch erwähnen, Die hochherzig ein Mädchen vollbrachte, die
+treffliche Jungfrau, Die auf dem großen Gehöft allein mit den Mädchen
+zurückblieb; Denn es waren die Männer auch gegen die Fremden gezogen.  Da
+überfiel den Hof ein Trupp verlaufnen Gesindels, Plündernd, und drängte
+sogleich sich in die Zimmer der Frauen.  Sie erblickten das Bild der
+schön erwachsenen Jungfrau Und die lieblichen Mädchen, noch eher Kinder zu
+heißen.  Da ergriff sie wilde Begier, sie stürmten gefühllos Auf die
+zitternde Schar und aufs hochherzige Mädchen.  Aber sie riß dem einen
+sogleich von der Seite den Säbel, Hieb ihn nieder gewaltig; er stürzt' ihr
+blutend zu Füßen.  Dann mit männlichen Streichen befreite sie tapfer die
+Mädchen, Traf noch viere der Räuber; doch die entflohen dem Tode.  Dann
+verschloß sie den Hof und harrte der Hülfe, bewaffnet."
+
+Als der Geistliche nun das Lob des Mädchens vernommen, Stieg die Hoffnung
+sogleich für seinen Freund im Gemüt auf, Und er war im Begriff, zu fragen,
+wohin sie geraten? Ob auf der traurigen Flucht sie nun mit dem Volk sich
+befinde? Aber da trat herbei der Apotheker behende, Zupfte den geistlichen
+Herrn und sagte die wispernden Worte: "Hab ich doch endlich das Mädchen
+aus vielen hundert gefunden, Nach der Beschreibung!  So kommt und sehet
+sie selber mit Augen; Nehmet den Richter mit Euch, damit wir das Weitere
+hören!" Und sie kehrten sich um, und weg war gerufen der Richter Von den
+Seinen, die ihn, bedürftig des Rates, verlangten.  Doch es folgte
+sogleich dem Apotheker der Pfarrherr An die Lücke des Zauns, und jener
+deutete listig.  "Seht Ihr", sagt' er, "das Mädchen?  Sie hat die Puppe
+gewickelt, Und ich erkenne genau den alten Kattun und den blauen
+Kissenüberzug wohl, den ihr Hermann im Bündel gebracht hat.  Sie
+verwendete schnell, fürwahr, und gut die Geschenke.  Diese sind deutliche
+Zeichen, es treffen die übrigen alle; Denn der rote Latz erhebt den
+gewölbeten Busen, Schön geschnürt, und es liegt das schwarze Mieder ihr
+knapp an; Sauber ist der Saum des Hemdes zur Krause gefaltet Und umgibt
+ihr das Kinn, das runde, mit reinlicher Anmut; Frei und heiter zeigt sich
+des Kopfes zierliches Eirund, Und die starken Zöpfe um silberne Nadeln
+gewickelt; Sitzt sie gleich, so sehen wir doch die treffliche Größe Und
+den blauen Rock, der, vielgefaltet, vom Busen Reichlich herunterwallt zum
+wohlgebildeten Knöchel.  Ohne Zweifel, sie ist's.  Drum kommet, damit wir
+vernehmen, Ob sie gut und tugendhaft sei, ein häusliches Mädchen."
+
+Da versetzte der Pfarrer, mit Blicken die Sitzende prüfend: "Daß sie den
+Jüngling entzückt, fürwahr, es ist mir kein Wunder, Denn sie hält vor dem
+Blick des erfahrenen Mannes die Probe.  Glücklich, wem doch Mutter Natur
+die rechte Gestalt gab! Denn sie empfiehlst ihn stets, und nirgends ist er
+ein Fremdling.  Jeder nahet sich gern, und jeder möchte verweilen, Wenn
+die Gefälligkeit nur sich zu der Gestalt noch gesellet.  Ich versichr'
+Euch, es ist dem Jüngling ein Mädchen gefunden, Das ihm die künftigen Tage
+des Lebens herrlich erheitert, Treu mit weiblicher Kraft durch alle Zeiten
+ihm beisteht.  So ein vollkommener Körper gewiß verwahrt auch die Seele
+Rein, und die rüstige Jugend verspricht ein glückliches Alter." Und es
+sagte darauf der Apotheker bedenklich: "Trüget doch öfter der Schein!  Ich
+mag dem Äußern nicht trauen, Denn ich habe das Sprichwort so oft erprobet
+gefunden: "Eh' du den Scheffel Salz mit dem neuen Bekannten verzehret,
+Darfst du nicht leichtlich ihm trauen; dich macht die Zeit nur gewisser,
+Wie du es habest mit ihm und wie die Freundschaft bestehe." Lasset uns
+also zuerst bei guten Leuten uns umtun, Denen das Mädchen bekannt ist und
+die uns von ihr nun erzählen."
+
+"Auch ich lobe die Vorsicht", versetzte der Geistliche folgend; "Frein wir
+doch nicht für uns!  Für andere frein ist bedenklich." Und sie gingen
+darauf dem wackern Richter entgegen, Der in seinen Geschäften die Straße
+wieder heraufkam.  Und zu ihm sprach sogleich der kluge Pfarrer mit
+Vorsicht: "Sagt!  wir haben ein Mädchen gesehn, das im Garten zunächst
+hier Unter dem Apfelbaum sitzt und Kindern Kleider verfertigt Aus
+getragnem Kattun, der ihr vermutlich geschenkt ward.  Uns gefiel die
+Gestalt, sie scheint der Wackeren eine.  Saget uns, was Ihr wißt; wir
+fragen aus löblicher Absicht."
+
+Als, in den Garten zu blicken, der Richter sogleich nun herzutrat, Sagt'
+er: "Diese kennet Ihr schon; denn wenn ich erzählte Von der herrlichen Tat,
+die jene Jungfrau verrichtet, Als sie das Schwert ergriff und sich und
+die Ihren beschützte Diese war's!  Ihr seht es ihr an, sie ist rüstig
+geboren, Aber so gut wie stark; denn ihren alten Verwandten Pflegte sie
+bis zum Tode, da ihn der Jammer dahinriß Über des Städtchens Not und
+seiner Besitzung Gefahren.  Auch, mit stillem Gemüt, hat sie die
+Schmerzen ertragen Über des Bräutigams Tod, der, ein edler Jüngling, im
+ersten Feuer des hohen Gedankens nach edler Freiheit zu streben, Selbst
+hinging nach Paris und bald den schrecklichen Tod fand; Denn wie zu Hause,
+so dort, bestritt er Willkür und Ränke." Also sagte der Richter.  Die
+beiden schieden und dankten, Und der Geistliche zog ein Goldstück (das
+Silber des Beutels War vor einigen Stunden von ihm schon milde verspendet,
+Als er die Flüchtlinge sah in traurigen Haufen vorbeiziehn), Und er
+reicht' es dem Schulzen und sagte: "Teilet den Pfennig Unter die Dürftigen
+aus, und Gott vermehre die Gabe!" Doch es weigerte sich der Mann und sagte:
+"Wir haben Manchen Taler gerettet und manche Kleider und Sachen, Und ich
+hoffe, wir kehren zurück, noch eh es verzehrt ist."
+
+Da versetzte der Pfarrer und drückt' ihm das Geld in die Hand ein:
+"Niemand säume zu geben in diesen Tagen, und niemand Weigre sich
+anzunehmen, was ihm die Milde geboten! Niemand weiß, wie lang er es hat,
+was er ruhig besitzet; Niemand, wie lang er noch in fremden Landen
+umherzieht Und des Ackers entbehrt und des Gartens, der ihn ernähret."
+
+"Ei doch!"  sagte darauf der Apotheker geschäftig, "Wäre mir jetzt nur
+Geld in der Tasche, so solltet Ihr's haben, Groß wie klein; denn viele
+gewiß der Euren bedürfen's.  Unbeschenkt doch laß ich Euch nicht, damit
+Ihr den Willen Sehet, woferne die Tat auch hinter dem Willen zurückbleibt."
+Also sprach er und zog den gestickten ledernen Beutel An den Riemen
+hervor, worin der Tobak ihm verwahrt war, Öffnete zierlich und teilte; da
+fanden sich einige Pfeifen.  "Klein ist die Gabe", setzt' er dazu.  Da
+sagte der Schultheiß.  "Guter Tobak ist doch dem Reisenden immer
+willkommen." Und es lobte darauf der Apotheker den Knaster.
+
+Aber der Pfarrherr zog ihn hinweg, und sie schieden vom Richter.  "Eilen
+wir!"  sprach der verständige Mann; "es wartet der Jüngling Peinlich.  Er
+höre so schnell als möglich die fröhliche Botschaft." Und sie eilten und
+kamen und fanden den Jüngling gelehnet An den Wagen unter den Linden.  Die
+Pferde zerstampften Wild den Rasen; er hielt sie im Zaum und stand in
+Gedanken, Blickte still vor sich hin und sah die Freunde nicht eher, Bis
+sie kommend ihn riefen und fröhliche Zeichen ihm gaben.  Schon von ferne
+begann der Apotheker zu sprechen; Doch sie traten näher hinzu.  Da faßte
+der Pfarrherr Seine Hand und sprach und nahm dem Gefährten das Wort weg:
+"Heil dir, junger Mann!  dein treues Auge, dein treues Herz hat richtig
+gewählt!  Glück dir und dem Weibe der Jugend! Deiner ist sie wert; drum
+komm und wende den Wagen, Daß wir fahrend sogleich die Ecke des Dorfes
+erreichen, Um sie werben und bald nach Hause führen die Gute."
+
+Aber der Jüngling stand, und ohne Zeichen der Freude Hört' er die Worte
+des Boten, die himmlisch waren und tröstlich, Seufzete tief und sprach:
+"Wir kamen mit eilendem Fuhrwerk, Und wir ziehen vielleicht beschämt und
+langsam nach Hause; Denn hier hat mich, seitdem ich warte, die Sorge
+befallen, Argwohn und Zweifel und alles, was nur ein liebendes Herz kränkt.
+Glaubt Ihr, wenn wir nur kommen, so werde das Mädchen uns folgen, Weil
+wir reich sind, aber sie arm und vertrieben einherzieht? Armut selbst
+macht stolz, die unverdiente.  Genügsam Scheint das Mädchen und tätig; und
+so gehört ihr die Welt an.  Glaubt Ihr, es sei ein Weib von solcher
+Schönheit und Sitte Aufgewachsen, um nie den guten Jüngling zu reizen?
+Glaubt Ihr, sie habe bis jetzt ihr Herz verschlossen der Liebe? Fahret
+nicht rasch bis hinan; wir möchten zu unsrer Beschämung Sachte die Pferde
+herum nach Hause lenken.  Ich fürchte, Irgendein Jüngling besitzt dies
+Herz, und die wackere Hand hat Eingeschlagen und schon dem Glücklichen
+Treue versprochen.  Ach!  da steh ich vor ihr mit meinem Antrag beschämet."
+
+Ihn zu trösten, öffnete drauf der Pfarrer den Mund schon; Doch es fiel der
+Gefährte mit seiner gesprächigen Art ein: "Freilich!  so wären wir nicht
+vorzeiten verlegen gewesen, Da ein jedes Geschäft nach seiner Weise
+vollbracht ward.  Hatten die Eltern die Braut für ihren Sohn sich ersehen,
+Ward zuvörderst ein Freund vom Hause vertraulich gerufen; Diesen sandte
+man dann als Freiersmann zu den Eltern Der erkorenen Braut, der dann in
+stattlichem Putze Sonntags etwa nach Tische den würdigen Bürger besuchte,
+Freundliche Worte mit ihm im allgemeinen zuvörderst Wechselnd und klug das
+Gespräch zu lenken und wenden verstehend.  Endlich nach langem Umschweif
+ward auch der Tochter erwähnet, Rühmlich, und rühmlich des Manns und des
+Hauses, von dem man gesandt war.  Kluge Leute merkten die Absicht; der
+kluge Gesandte Merkte den Willen gar bald und konnte sich weiter erklären.
+Lehnte den Antrag man ab, so war auch ein Korb nicht verdrießlich.
+Aber gelang es denn auch, so war der Freiersmann immer In dem Hause der
+Erste bei jedem häuslichen Feste; Denn es erinnerte sich durchs ganze
+Leben das Ehpaar, Daß die geschickte Hand den ersten Knoten geschlungen.
+Jetzt ist aber das alles mit andern guten Gebräuchen Aus der Mode gekommen,
+und jeder freit für sich selber.  Nehme denn jeglicher auch den Korb mit
+eigenen Händen, Der ihm etwa beschert ist, und stehe beschämt vor dem
+Mädchen!"
+
+"Sei es, wie ihm auch sei!"  versetzte der Jüngling, der kaum auf Alle die
+Worte gehört und schon sich im stillen entschlossen; "Selber geh ich und
+will mein Schicksal selber erfahren Aus dem Munde des Mädchens, zu dem ich
+das größte Vertrauen Hege, das irgendein Mensch nur je zu dem Weibe gehegt
+hat.  Was sie sagt, das ist gut, es ist vernünftig, das weiß ich.  Soll
+ich sie auch zum letztenmal sehn, so will ich noch einmal Diesem offenen
+Blick des schwarzen Auges begegnen; Drück ich sie nie an das Herz, so will
+ich die Brust und die Schultern Einmal noch sehn, die mein Arm so sehr zu
+umschließen begehret; Will den Mund noch sehen, von dem ein Kuß und das Ja
+mich Glücklich macht auf ewig, das Nein mich auf ewig zerstöret.  Aber
+laßt mich allein!  Ihr sollt nicht warten.  Begebet Euch zu Vater und
+Mutter zurück, damit sie erfahren, Daß sich der Sohn nicht geirrt, und daß
+es wert ist das Mädchen.  Und so laßt mich allein!  Den Fußweg über den
+Hügel An dem Birnbaum hin und unsern Weinberg hinunter Geh ich näher nach
+Hause zurück.  Oh, daß ich die Traute Freudig und schnell heimführte!
+Vielleicht auch schleich ich alleine Jene Pfade nach Haus und betrete froh
+sie nicht wieder."
+
+Also sprach er und gab dem geistlichen Herrn die Zügel, Der verständig sie
+faßte, die schäumenden Rosse beherrschend, Schnell den Wagen bestieg und
+den Sitz des Führers besetzte.
+
+Aber du zaudertest noch, vorsichtiger Nachbar, und sagtest: "Gerne vertrau
+ich, mein Freund, Euch Seel' und Geist und Gemüt an; Aber Leib und Gebein
+ist nicht zum besten verwahret, Wenn die geistliche Hand der weltlichen
+Zügel sich anmaßt." Doch du lächeltest drauf, verständiger Pfarrer, und
+sagtest: "Sitzet nur ein, und getrost vertraut mir den Leib, wie die Seele;
+Denn geschickt ist die Hand schon lange, den Zügel zu führen, Und das
+Auge geübt, die künstlichste Wendung zu treffen.  Denn wir waren in
+Straßburg gewohnt, den Wagen zu lenken, Als ich den jungen Baron dahin
+begleitete; täglich Rollte der Wagen, geleitet von mir, das hallende Tor
+durch, Staubige Wege hinaus, bis fern zu den Auen und Linden, Mitten durch
+Scharen des Volks, das mit Spazieren den Tag lebt."
+
+Halb getröstet bestieg darauf der Nachbar den Wagen, Saß wie einer, der
+sich zum weislichen Sprunge bereitet; Und die Hengste rannten nach Hause,
+begierig des Stalles.  Aber die Wolke des Staubs quoll unter den
+mächtigen Hufen.  Lange noch stand der Jüngling und sah den Staub sich
+erheben, Sah den Staub sich zerstreun; so stand er ohne Gedanken.
+
+
+
+
+Erato
+Dorothea
+
+Wie der wandernde Mann, der vor dem Sinken der Sonne Sie noch einmal ins
+Auge, die schnell verschwindende, faßte, Dann im dunkeln Gebüsch und an
+der Seite des Felsens Schweben siehet ihr Bild; wohin er die Blicke nur
+wendet, Eilet es vor und glänzt und schwankt in herrlichen Farben: So
+bewegte vor Hermann die liebliche Bildung des Mädchens Sanft sich vorbei
+und schien dem Pfad ins Getreide zu folgen.  Aber er fuhr aus dem
+staunenden Traum auf, wendete langsam Nach dem Dorfe sich zu und staunte
+wieder; denn wieder Kam ihm die hohe Gestalt des herrlichen Mädchens
+entgegen.  Fest betrachtet' er sie; es war kein Scheinbild, sie war es
+Selber.  Den größeren Krug und einen kleinern am Henkel Tragend in
+jeglicher Hand: so schritt sie geschäftig zum Brunnen.  Und er ging ihr
+freudig entgegen.  Es gab ihm ihr Anblick Mut und Kraft; er sprach zu
+seiner Verwunderten also: "Find ich dich, wackeres Mädchen, so bald aufs
+neue beschäftigt, Hülfreich andern zu sein und gern zu erquicken die
+Menschen? Sag, warum kommst du allein zum Quell, der doch so entfernt
+liegt, Da sich andere doch mit dem Wasser des Dorfes begnügen? Freilich
+ist dies von besonderer Kraft und lieblich zu kosten.  Jener Kranken
+bringst du es wohl, die du treulich gerettet?"
+
+Freundlich begrüßte sogleich das gute Mädchen den Jüngling, Sprach: "So
+ist schon hier der Weg mir zum Brunnen belohnet, Da ich finde den Guten,
+der uns so vieles gereicht hat; Denn der Anblick des Gebers ist, wie die
+Gaben, erfreulich.  Kommt und sehet doch selber, wer Eure Milde genossen,
+Und empfanget den ruhigen Dank von allen Erquickten.  Daß Ihr aber
+sogleich vernehmet, warum ich gekommen, Hier zu schöpfen, wo rein und
+unablässig der Quell fließt, Sag ich Euch dies: es haben die
+unvorsichtigen Menschen Alles Wasser getrübt im Dorfe, mit Pferden und
+Ochsen Gleich durchwatend den Quell, der Wasser bringt den Bewohnern.
+Und so haben sie auch mit Waschen und Reinigen alle Tröge des Dorfes
+beschmutzt und alle Brunnen besudelt; Denn ein jeglicher denkt nur, sich
+selbst und das nächste Bedürfnis Schnell zu befriedigen und rasch, und
+nicht des Folgenden denkt er."
+
+Also sprach sie und war die breiten Stufen hinunter Mit dem Begleiter
+gelangt; und auf das Mäuerchen setzten Beide sich nieder des Quells.  Sie
+beugte sich über, zu schöpfen; Und er faßte den anderen Krug und beugte
+sich über.  Und sie sahen gespiegelt ihr Bild in der Bläue des Himmels
+Schwanken und nickten sich zu und grüßten sich freundlich im Spiegel.
+"Laß mich trinken", sagte darauf der heitere Jüngling; Und sie reicht' ihm
+den Krug.  Dann ruhten sie beide, vertraulich Auf die Gefäße gelehnt; sie
+aber sagte zum Freunde: "Sage, wie find ich dich hier?  und ohne Wagen und
+Pferde Ferne vom Ort, wo ich erst dich gesehn?  wie bist du gekommen?"
+
+Denkend schaute Hermann zur Erde; dann hob er die Blicke Ruhig gegen sie
+auf und sah ihr freundlich ins Auge, Fühlte sich still und getrost.
+Jedoch ihr von Liebe zu sprechen, Wär' ihm unmöglich gewesen; ihr Auge
+blickte nicht Liebe, Aber hellen Verstand, und gebot verständig zu reden.
+Und er faßte sich schnell, und sagte traulich zum Mädchen: "Laß mich
+reden, mein Kind, und deine Fragen erwidern.  Deinetwegen kam ich hierher!
+was soll ich's verbergen? Denn ich lebe beglückt mit beiden liebenden
+Eltern Denen ich treulich das Haus und die Güter helfe verwalten Als der
+einzige Sohn, und unsre Geschäfte sind vielfach.  Alle Felder besorg ich,
+der Vater waltet im Hause Fleißig, die tätige Mutter belebt im ganzen die
+Wirtschaft.  Aber du hast gewiß auch erfahren, wie sehr das Gesinde Bald
+durch Leichtsinn und bald durch Untreu plaget die Hausfrau, Immer sie
+nötigt zu wechseln und Fehler um Fehler zu tauschen.  Lange wünschte die
+Mutter daher sich ein Mädchen im Hause, Das mit der Hand nicht allein, das
+auch mit dem Herzen ihr hülfe, An der Tochter Statt, der leider frühe
+verlornen.  Nun, als ich heut am Wagen dich sah, in froher Gewandtheit,
+Sah die Stärke des Arms und die volle Gesundheit der Glieder, Als ich die
+Worte vernahm, die verständigen, war ich betroffen, Und ich eilte nach
+Hause, den Eltern und Freunden die Fremde Rühmend nach ihrem Verdienst.
+Nun komm ich dir aber zu sagen, Was sie wünschen wie ich.--Verzeih mir die
+stotternde Rede."
+
+"Scheuet Euch nicht", so sagte sie drauf, "das Weitre zu sprechen; Ihr
+beleidigt mich nicht, ich hab es dankbar empfunden.  Sagt es nur grad
+heraus; mich kann das Wort nicht erschrecken: Dingen möchtet Ihr mich als
+Magd für Vater und Mutter, Zu versehen das Haus, das wohlerhalten Euch
+dasteht; Und Ihr glaubet an mir ein tüchtiges Mädchen zu finden, Zu der
+Arbeit geschickt und nicht von rohem Gemüte.  Euer Antrag war kurz, so
+soll die Antwort auch kurz sein.  Ja, ich gehe mit Euch und folge dem
+Rufe des Schicksals.  Meine Pflicht ist erfüllt, ich habe die Wöchnerin
+wieder Zu den Ihren gebracht, sie freuen sich alle der Rettung; Schon sind
+die meisten beisammen, die übrigen werden sich finden.  Alle denken gewiß,
+in kurzen Tagen zur Heimat Wiederzukehren, so pflegt sich stets der
+Vertriebne zu schmeicheln, Aber ich täusche mich nicht mit leichter
+Hoffnung in diesen Traurigen Tagen, die uns noch traurige Tage versprechen:
+Denn gelöst sind die Bande der Welt; wer knüpfet sie wieder Als allein
+nur die Not, die höchste, die uns bevorsteht! Kann ich im Hause des
+würdigen Manns mich, dienend, ernähren Unter den Augen der trefflichen
+Frau, so tu ich es gerne; Denn ein wanderndes Mädchen ist immer von
+schwankendem Rufe.  Ja, ich gehe mit Euch, sobald ich die Krüge den
+Freunden Wiedergebracht und noch mir den Segen der Guten erbeten.  Kommt!
+Ihr müsset sie sehen, und mich von ihnen empfangen."
+
+Fröhlich hörte der Jüngling des willigen Mädchens Entschließung, Zweifelnd,
+ob er ihr nun die Wahrheit sollte gestehen.  Aber es schien ihm das
+beste zu sein, in dem Wahn sie zu lassen, In sein Haus sie zu führen, zu
+werben um Liebe nur dort erst.  Ach!  und den goldenen Ring erblickt' er
+am Finger des Mädchens; Und so ließ er sie sprechen und horchte fleißig
+den Worten.
+
+"Laßt uns", fuhr sie nun fort, "zurücke kehren!  Die Mädchen Werden immer
+getadelt, die lange beim Brunnen verweilen; Und doch ist es am rinnenden
+Quell so lieblich zu schwätzen." Also standen sie auf und schauten beide
+noch einmal In den Brunnen zurück, und süßes Verlangen ergriff sie.
+
+Schweigend nahm sie darauf die beiden Krüge beim Henkel, Stieg die Stufen
+hinan, und Hermann folgte der Lieben.  Einen Krug verlangt' er von ihr,
+die Bürde zu teilen.  "Laßt ihn", sprach sie; "es trägt sich besser die
+gleichere Last so.  Und der Herr, der künftig befiehlt, er soll mir nicht
+dienen.  Seht mich so ernst nicht an, als wäre mein Schicksal bedenklich!
+Dienen lerne beizeiten das Weib nach ihrer Bestimmung! Denn durch Dienen
+allein gelangt sie endlich zum Herrschen, Zu der verdienten Gewalt, die
+doch ihr im Hause gehöret.  Dienet die Schwester dem Bruder doch früh,
+sie dienet den Eltern, Und ihr Leben ist immer ein ewiges Gehen und Kommen
+Oder ein Heben und Tragen, Bereiten und Schaffen für andre.  Wohl ihr,
+wenn sie daran sich gewöhnt, daß kein Weg ihr zu sauer Wird, und die
+Stunden der Nacht ihr sind wie die Stunden des Tages, Daß ihr niemals die
+Arbeit zu klein und die Nadel zu fein dünkt, Daß sie sich ganz vergißt und
+leben mag nur in andern! Denn als Mutter, fürwahr, bedarf sie der Tugenden
+alle, Wenn der Säugling die Krankende weckt und Nahrung begehret Von der
+Schwachen und so zu Schmerzen Sorgen sich häufen.  Zwanzig Männer
+verbunden ertrügen nicht diese Beschwerde, Und sie sollen es nicht; doch
+sollen sie dankbar es einsehn."
+
+Also sprach sie und war mit ihrem stillen Begleiter Durch den Garten
+gekommen, bis an die Tenne der Scheune, Wo die Wöchnerin lag, die sie froh
+mit den Töchtern verlassen, Jenen geretteten Mädchen, den schönen Bildern
+der Unschuld.  Beide traten hinein; und von der anderen Seite Trat, ein
+Kind an jeglicher Hand, der Richter zugleich ein.  Diese waren bisher der
+jammernden Mutter verloren; Aber gefunden hatte sie nun im Gewimmel der
+Alte.  Und sie sprangen mit Lust, die liebe Mutter zu grüßen, Sich des
+Bruders zu freun, des unbekannten Gespielen! Auf Dorotheen sprangen sie
+dann und grüßten sie freundlich, Brot verlangend und Obst, vor allem aber
+zu trinken.  Und sie reichte das Wasser herum.  Da tranken die Kinder,
+Und die Wöchnerin trank mit den Töchtern, so trank auch der Richter.
+Alle waren geletzt und lobten das herrliche Wasser; Säuerlich war's und
+erquicklich, gesund zu trinken den Menschen.
+
+Da versetzte das Mädchen mit ernsten Blicken und sagte: "Freunde, dieses
+ist wohl das letztemal, daß ich den Krug Euch Führe zum Munde, daß ich die
+Lippen mit Wasser Euch netze: Aber wenn Euch fortan am heißen Tage der
+Trunk labt, Wenn Ihr im Schatten der Ruh' und der reinen Quellen genießet,
+Dann gedenket auch mein und meines freundlichen Dienstes, Den ich aus
+Liebe mehr als aus Verwandtschaft geleistet.  Was Ihr mir Gutes erzeigt,
+erkenn ich durchs künftige Leben.  Ungern laß ich Euch zwar; doch jeder
+ist diesmal dem andern Mehr zur Last als zum Trost, und alle müssen wir
+endlich Uns im fremden Lande zerstreun, wenn die Rückkehr versagt ist.
+Seht, hier steht der Jüngling, dem wir die Gaben verdanken, Diese Hülle
+des Kinds und jene willkommene Speise.  Dieser kommt und wirbt, in seinem
+Haus mich zu sehen, Daß ich diene daselbst den reichen trefflichen Eltern;
+Und ich schlag es nicht ab; denn überall dienet das Mädchen, Und ihr wäre
+zur Last, bedient im Hause zu ruhen.  Also folg ich ihm gern; er scheint
+ein verständiger Jüngling, Und so werden die Eltern es sein, wie Reichen
+geziemet.  Darum lebet nun wohl, geliebte Freundin, und freuet Euch des
+lebendigen Säuglings, der schon so gesund Euch anblickt.  Drücket Ihr ihn
+an die Brust in diesen farbigen Wickeln, Oh, so gedenket des Jünglings,
+des guten, der sie uns reichte, Und der künftig auch mich, die Eure,
+nähret und kleidet! Und Ihr, trefflicher Mann", so sprach sie, gewendet
+zum Richter, "Habet Dank, daß Ihr Vater mir wart in mancherlei Fällen!"
+
+Und sie kniete darauf zur guten Wöchnerin nieder, Küßte die weinende Frau
+und vernahm des Segens Gelispel.  Aber du sagtest indes, ehrwürdiger
+Richter, zu Hermann: "Billig seid Ihr, o Freund, zu den guten Wirten zu
+zählen, Die mit tüchtigen Menschen den Haushalt zu führen bedacht sind.
+Denn ich habe wohl oft gesehn, daß man Rinder und Pferde, So wie Schafe,
+genau bei Tausch und Handel betrachtet; Aber den Menschen, der alles
+erhält, wenn er tüchtig und gut ist, Und der alles zerstreut und zerstört
+durch falsches Beginnen, Diesen nimmt man nur so auf Glück und Zufall ins
+Haus ein Und bereuet zu spät ein übereiltes Entschließen.  Aber es
+scheint, Ihr versteht's; denn Ihr habt ein Mädchen erwählet, Euch zu
+dienen im Haus und Euren Eltern, das brav ist.  Haltet sie wohl!  Ihr
+werdet, solang sie der Wirtschaft sich annimmt, Nicht die Schwester
+vermissen, noch Eure Eltern die Tochter."
+
+Viele kamen indes, der Wöchnerin nahe Verwandte, Manches bringend und ihr
+die bessere Wohnung verkündend.  Alle vernahmen des Mädchens Entschluß
+und segneten Hermann Mit bedeutenden Blicken und mit besondern Gedanken.
+Denn so sagte wohl eine zur andern flüchtig ans Ohr hin: "Wenn aus dem
+Herrn ein Bräutigam wird, so ist sie geborgen." Hermann faßte darauf sie
+bei der Hand an und sagte: "Laß uns gehen!  es neigt sich der Tag, und
+fern ist das Städtchen." Lebhaft gesprächig umarmten darauf Dorotheen die
+Weiber.  Hermann zog sie hinweg; noch viele Grüße befahl sie.  Aber da
+fielen die Kinder mit Schrein und entsetzlichem Weinen Ihr in die Kleider
+und wollten die zweite Mutter nicht lassen.  Aber ein' und die andre der
+Weiber sagte gebietend: "Stille, Kinder!  sie geht in die Stadt, und
+bringt euch des guten Zuckerbrotes genug, das euch der Bruder bestellte,
+Als der Storch ihn jüngst beim Zuckerbäcker vorbeitrug, Und ihr sehet sie
+bald mit den schön vergoldeten Deuten." Und so ließen die Kinder sie los,
+und Hermann entriß sie Noch den Umarmungen kaum und den ferne winkenden
+Tüchern.
+
+
+
+
+Melpomene
+Hermann und Dorothea
+
+Also gingen die zwei entgegen der sinkenden Sonne, Die in Wolken sich tief,
+gewitterdrohend, verhüllte, Aus dem Schleier, bald hier bald dort, mit
+glühenden Blicken Strahlend über das Feld die ahnungsvolle Beleuchtung.
+"Möge das drohende Wetter", so sagte Hermann, "nicht etwa Schloßen uns
+bringen und heftigen Guß; denn schön ist die Ernte." Und sie freuten sich
+beide des hohen, wankenden Kornes, Das die Durchschreitenden fast, die
+hohen Gestalten, erreichte.  Und es sagte darauf das Mädchen zum
+leitenden Freunde: "Guter, dem ich zunächst ein freundlich Schicksal
+verdanke, Dach und Fach, wenn im Freien so manchem Vertriebnen der Sturm
+dräut! Saget mir jetzt vor allem und lehret die Eltern mich kennen, Denen
+ich künftig zu dienen von ganzer Seele geneigt bin; Denn kennt jemand den
+Herrn, so kann er ihm leichter genug tun, Wenn er die Dinge bedenkt, die
+jenem die wichtigsten scheinen, Und auf die er den Sinn, den fest
+bestimmten, gesetzt hat.  Darum saget mir doch: wie gewinn ich Vater und
+Mutter?"
+
+Und es versetzte dagegen der gute, verständige Jüngling: "Oh, wie geb ich
+dir recht, du kluges, treffliches Mädchen, Daß du zuvörderst dich nach dem
+Sinne der Eltern befragest! Denn so strebt' ich bisher vergebens, dem
+Vater zu dienen, Wenn ich der Wirtschaft mich als wie der meinigen annahm,
+Früh den Acker und spät und so besorgend den Weinberg.  Meine Mutter
+befriedigt' ich wohl, sie wußt' es zu schätzen; Und so wirst du ihr auch
+das trefflichste Mädchen erscheinen, Wenn du das Haus besorgst, als wenn
+du das deine bedächtest.  Aber dem Vater nicht so; denn dieser liebet den
+Schein auch.  Gutes Mädchen, halte mich nicht für kalt und gefühllos,
+Wenn ich den Vater dir sogleich, der Fremden, enthülle.  Ja, ich schwör
+es, das erstemal ist's, daß frei mir ein solches Wort die Zunge verläßt,
+die nicht zu schwatzen gewohnt ist; Aber du lockst mir hervor aus der
+Brust ein jedes Vertrauen.  Einige Zierde verlangt der gute Vater im
+Leben, Wünschet äußere Zeichen der Liebe, so wie der Verehrung, Und er
+würde vielleicht vom schlechteren Diener befriedigt, Der dies wüßte zu
+nutzen, und würde dem besseren gram sein."
+
+Freudig sagte sie drauf, zugleich die schnelleren Schritte Durch den
+dunkelnden Pfad verdoppelnd mit leichter Bewegung: "Beide zusammen hoff
+ich fürwahr zufriedenzustellen; Denn der Mutter Sinn ist wie mein eigenes
+Wesen, Und der äußeren Zierde bin ich von Jugend nicht fremde.  Unsere
+Nachbarn, die Franken, in ihren früheren Zeiten Hielten auf Höflichkeit
+viel; sie war dem Edlen und Bürger Wie den Bauern gemein, und jeder
+empfahl sie den Seinen.  Und so brachten bei uns auf deutscher Seite
+gewöhnlich Auch die Kinder des Morgens mit Händeküssen und Knickschen
+Segenswünsche den Eltern und hielten sittlich den Tag aus.  Alles, was
+ich gelernt und was ich von jung auf gewohnt bin, Was von Herzen mir
+geht--ich will es dem Alten erzeigen.  Aber wer sagt mir nunmehr: wie
+soll ich dir selber begegnen, Dir, dem einzigen Sohn und künftig meinem
+Gebieter?"
+
+Also sprach sie, und eben gelangten sie unter den Birnbaum.  Herrlich
+glänzte der Mond, der volle, vom Himmel herunter; Nacht war's, völlig
+bedeckt das letzte Schimmern der Sonne.  Und so lagen vor ihnen in Massen
+gegeneinander Lichter, hell wie der Tag, und Schatten dunkeler Nächte.
+Und es hörte die Frage, die freundliche, gern in dem Schatten Hermann, des
+herrlichen Baums, am Orte, der ihm so lieb war, Der noch heute die Tränen
+um seine Vertriebne gesehen.  Und indem sie sich nieder ein wenig zu
+ruhen gesetzet, Sagte der liebende Jüngling, die Hand des Mädchens
+ergreifend: "Laß dein Herz dir es sagen, und folg ihm frei nur in allem!"
+Aber er wagte kein weiteres Wort, so sehr auch die Stunde Günstig war; er
+fürchtete, nur ein Nein zu ereilen, Ach, und er fühlte den Ring am Finger,
+das schmerzliche Zeichen.  Also saßen sie still und schweigend
+nebeneinander.  Aber das Mädchen begann und sagte: "Wie find ich des
+Mondes Herrlichen Schein so süß!  er ist der Klarheit des Tags gleich.
+Seh ich doch dort in der Stadt die Häuser deutlich und Höfe, An dem Giebel
+ein Fenster; mich deucht, ich zähle die Scheiben."
+
+"Was du siehst", versetzte darauf der gehaltene Jüngling, "Das ist unsere
+Wohnung, in die ich nieder dich führe, Und dies Fenster dort ist meines
+Zimmers im Dache, Das vielleicht das deine nun wird; wir verändern im
+Hause.  Diese Felder sind unser, sie reifen zur morgenden Ernte.  Hier
+im Schatten wollen wir ruhn und des Mahles genießen.  Aber laß uns
+nunmehr hinab durch Weinberg und Garten Steigen; denn sieh, es rückt das
+schwere Gewitter herüber, Wetterleuchtend und bald verschlingend den
+lieblichen Vollmond." Und so standen sie auf und wandelten nieder, das
+Feld hin, Durch das mächtige Korn, der nächtlichen Klarheit sich freuend;
+Und sie waren zum Weinberg gelangt und traten ins Dunkel.
+
+Und so leitet' er sie die vielen Platten hinunter, Die, unbehauen gelegt,
+als Stufen dienten im Laubgang.  Langsam schritt sie hinab, auf seinen
+Schultern die Hände; Und mit schwankenden Lichtern, durchs Laub,
+überblickte der Mond sie, Eh' er, von Wetterwolken umhüllt, im Dunkeln das
+Paar ließ.  Sorglich stützte der Starke das Mädchen, das über ihn herhing;
+Aber sie, unkundig des Steigs und der roheren Stufen, Fehlte tretend, es
+knackte der Fuß, sie drohte zu fallen.  Eilig streckte gewandt der
+sinnige Jüngling den Arm aus, Hielt empor die Geliebte; sie sank ihm leis
+auf die Schulter, Brust war gesenkt an Brust und Wang' an Wange.  So stand
+er, Starr wie ein Marmorbild, vom ernsten Willen gebändigt, Drückte nicht
+fester sie an, er stemmte sich gegen die Schwere.  Und so fühlt' er die
+herrliche Last, die Wärme des Herzens Und den Balsam des Atems, an seinen
+Lippen verhauchet, Trug mit Mannesgefühl die Heldengröße des Weibes.
+
+Doch sie verhehlte den Schmerz und sagte die scherzenden Worte: "Das
+bedeutet Verdruß, so sagen bedenkliche Leute Wenn beim Eintritt ins Haus,
+nicht fern von der Schwelle, der Fuß knackt.  Hätt' ich mir doch fürwahr
+ein besseres Zeichen gewünschet! Laß uns ein wenig verweilen, damit dich
+die Eltern nicht tadeln Wegen der hinkenden Magd, und ein schlechter Wirt
+du erscheinest."
+
+
+
+
+Urania
+Aussicht
+
+Musen, die ihr so gern die herzliche Liebe begünstigt, Auf dem Wege bisher
+den trefflichen Jüngling geleitet, An die Brust ihm das Mädchen noch vor
+der Verlobung gedrückt habt: Helfet auch ferner den Bund des lieblichen
+Paares vollenden, Teilet die Wolken sogleich, die über ihr Glück sich
+heraufziehn! Aber saget vor allem, was jetzt im Hause geschiehet!
+
+Ungeduldig betrat die Mutter zum drittenmal wieder Schon das Zimmer der
+Männer, das sorglich erst sie verlassen, Sprechend vom nahen Gewitter, vom
+schnellen Verdunkeln des Mondes; Dann vom Außenbleiben des Sohns und der
+Nächte Gefahren; Tadelte lebhaft die Freunde, daß, ohne das Mädchen zu
+sprechen, Ohne zu werben für ihn, sie so bald sich vom Jüngling getrennet.
+
+"Mache nicht schlimmer das Übel!"  versetzt' unmutig der Vater; "Denn du
+siehst, wir harren ja selbst, und warten des Ausgangs."
+
+Aber gelassen begann der Nachbar sitzend zu sprechen: "Immer verdank ich
+es doch in solch unruhiger Stunde Meinem seligen Vater, der mir, als
+Knaben, die Wurzel Aller Ungeduld ausriß, daß auch kein Fäschen
+zurückblieb Und ich erwarten lernte sogleich, wie keiner der Weisen."
+"Sagt", versetzte der Pfarrer, "welch Kunststück brauchte der Alte?" "Das
+erzähl ich Euch gern, denn jeder kann es sich merken", Sagte der Nachbar
+darauf.  "Als Knabe stand ich am Sonntag Ungeduldig einmal, die Kutsche
+begierig erwartend, Die uns sollte hinaus zum Brunnen führen der Linden.
+Doch sie kam nicht; ich lief wie ein Wiesel dahin und dorthin, Treppen
+hinauf und hinab und von dem Fenster zur Türe.  Meine Hände prickelten
+mir; ich kratzte die Tische, Trappelte stampfend herum, und nahe war mir
+das Weinen.  Alles sah der gelassene Mann; doch als ich es endlich Gar zu
+töricht betrieb, ergriff er mich ruhig beim Arme, Führte zum Fenster mich
+hin und sprach die bedenklichen Worte: "Siehst du des Tischlers da drüben
+für heute geschlossene Werkstatt? Morgen eröffnet er sie; da rühret sich
+Hobel und Säge, Und so geht es von frühe bis Abend die fleißigen Stunden.
+Aber bedenke dir dies: der Morgen wird künftig erscheinen, Da der Meister
+sich regt mit allen seinen Gesellen Dir den Sarg zu bereiten und schnell
+und geschickt zu vollenden; Und sie tragen das bretterne Haus geschäftig
+herüber, Das den Geduld'gen zuletzt und den Ungeduldigen aufnimmt, Und gar
+bald ein drückendes Dach zu tragen bestimmt ist." Alles sah ich sogleich
+im Geiste wirklich geschehen, Sah die Bretter gefügt und die schwarze
+Farbe bereitet, Saß geduldig nunmehr und harrete ruhig der Kutsche.
+Rennen andere nun in zweifelhafter Erwartung Ungebärdig herum, da muß ich
+des Sarges gedenken."
+
+Lächelnd sagte der Pfarrer: "Des Todes rührendes Bild steht Nicht als
+Schrecken dem Weisen und nicht als Ende dem Frommen.  Jenen drängt es ins
+Leben zurück und lehret ihn handeln; Diesem stärkt es, zu künftigem Heil,
+im Trübsal die Hoffnung; Beiden wird zum Leben der Tod.  Der Vater mit
+Unrecht Hat dem empfindlichen Knaben den Tod im Tode gewiesen.  Zeige man
+doch dem Jüngling des edel reifenden Alters Wert und dem Alter die Jugend,
+daß beide des ewigen Kreises Sich erfreuen und so sich Leben im Leben
+vollende!"
+
+Aber die Tür ging auf.  Es zeigte das herrliche Paar sich, Und es
+erstaunten die Freunde, die liebenden Eltern erstaunten Über die Bildung
+der Braut, des Bräutigams Bildung vergleichbar; Ja, es schien die Türe zu
+klein, die hohen Gestalten Einzulassen, die nun zusammen betraten die
+Schwelle.  Hermann stellte den Eltern sie vor mit fliegenden Worten.
+"Hier ist", sagt' er, "ein Mädchen, so wie Ihr im Hause sie wünschet.
+Lieber Vater, empfanget sie gut; sie verdient es.  Und liebe Mutter,
+befragt sie sogleich nach dem ganzen Umfang der Wirtschaft, Daß Ihr seht,
+wie sehr sie verdient, Euch näher zu werden." Eilig führt' er darauf den
+trefflichen Pfarrer beiseite, Sagte: "Würdiger Herr, nun helft mir aus
+dieser Besorgnis Schnell, und löset den Knoten, vor dessen Entwicklung ich
+schaudre.  Denn ich habe das Mädchen als meine Braut nicht geworben,
+Sondern sie glaubt, als Magd in das Haus zu gehn, und ich fürchte, Daß
+unwillig sie flieht, sobald wir gedenken der Heirat.  Aber entschieden
+sei es sogleich!  Nicht länger im Irrtum Soll sie bleiben, wie ich nicht
+länger den Zweifel ertrage.  Eilet und zeiget auch hier die Weisheit, die
+wir verehren!" Und es wendete sich der Geistliche gleich zur Gesellschaft.
+Aber leider getrübt war durch die Rede des Vaters Schon die Seele des
+Mädchens; er hatte die munteren Worte Mit behaglicher Art im guten Sinne
+gesprochen: "Ja, das gefällt mir, mein Kind!  Mit Freuden erfahr' ich, der
+Sohn hat Auch wie der Vater Geschmack, der seinerzeit es gewiesen.  Immer
+die Schönste zum Tanze geführt und endlich die Schönste In sein Haus als
+Frau sich geholt; das Mütterchen war es.  Denn an der Braut, die der Mann
+sich erwählt, läßt gleich sich erkennen, Welches Geistes er ist, und ob er
+sich eigenen Wert fühlt.  Aber Ihr brauchtet wohl auch nur wenig Zeit zur
+Entschließung? Denn mich dünket fürwahr, ihm ist so schwer nicht zu folgen."
+
+Hermann hörte die Worte nur flüchtig; ihm bebten die Glieder Innen, und
+stille war der ganze Kreis nun auf einmal.
+
+Aber das treffliche Mädchen, von solchen spöttischen Worten, Wie sie ihr
+schienen, verletzt und tief in der Seele getroffen, Stand, mit fliegender
+Röte die Wange bis gegen den Nacken Übergossen; doch hielt sie sich an und
+nahm sich zusammen, Sprach zu dem Alten darauf, nicht völlig die Schmerzen
+verbergend: "Traun!  zu solchem Empfang hat mich der Sohn nicht bereitet,
+Der mir des Vaters Art geschildert, des trefflichen Bürgers; Und ich weiß,
+ich stehe vor Euch, dem gebildeten Manne, Der sich klug mit jedem beträgt
+und gemäß den Personen.  Aber so scheint es, Ihr fühlt nicht Mitleid
+genug mit der Armen, Die nun die Schwelle betritt und die Euch zu dienen
+bereit ist; Denn sonst würdet Ihr nicht mit bitterem Spotte mir zeigen,
+Wie entfernt mein Geschick von Eurem Sohn und von Euch sei.  Freilich
+tret ich nur arm, mit kleinem Bündel ins Haus ein, Das mit allem versehn
+die frohen Bewohner gewiß macht; Aber ich kenne mich wohl und fühle das
+ganze Verhältnis.  Ist es edel, mich gleich mit solchem Spotte zu treffen,
+Der auf der Schwelle beinah mich schon aus dem Hause zurücktreibt?"
+
+Bang bewegte sich Hermann und winkte dem geistlichen Freunde, Daß er ins
+Mittel sich schlüge, sogleich zu verscheuchen den Irrtum.  Eilig trat der
+Kluge heran und schaute des Mädchens Stillen Verdruß und gehaltenen
+Schmerz und Tränen im Auge.  Da befahl ihm sein Geist, nicht gleich die
+Verwirrung zu lösen, Sondern vielmehr das bewegte Gemüt zu prüfen des
+Mädchens.  Und er sagte darauf zu ihr mit versuchenden Worten: "Sicher,
+du überlegtest nicht wohl, o Mädchen des Auslands, Wenn du bei Fremden zu
+dienen dich allzu eilig entschlossest, Was es heiße, das Haus des
+gebietenden Herrn zu betreten; Denn der Handschlag bestimmt das ganze
+Schicksal des Jahres, Und gar vieles zu dulden verbindet ein einziges
+Jawort.  Sind doch nicht das Schwerste des Diensts die ermüdenden Wege,
+Nicht der bittere Schweiß der ewig drängenden Arbeit; Denn mit dem Knechte
+zugleich bemüht sich der tätige Freie: Aber zu dulden die Laune des Herrn,
+wenn er ungerecht tadelt, Oder dieses und jenes begehrt, mit sich selber
+in Zwiespalt, Und die Heftigkeit noch der Frauen, die leicht sich erzürnet,
+Mit der Kinder roher und übermütiger Unart: Das ist schwer zu ertragen,
+und doch die Pflicht zu erfüllen Ungesäumt und rasch, und selbst nicht
+mürrisch zu stocken.  Doch du scheinst mir dazu nicht geschickt, da die
+Scherze des Vaters Schon dich treffen so tief, und doch nichts
+gewöhnlicher vorkommt, Als ein Mädchen zu plagen, daß wohl ihr ein
+Jüngling gefalle."
+
+Also sprach er.  Es fühlte die treffende Rede das Mädchen, Und sie hielt
+sich nicht mehr; es zeigten sich ihre Gefühle Mächtig, es hob sich die
+Brust, aus der ein Seufzer hervordrang, Und sie sagte sogleich mit heiß
+vergossenen Tränen: "Oh, nie weiß der verständige Mann, der im Schmerz uns
+zu raten Denkt, wie wenig sein Wort, das kalte, die Brust zu befreien Je
+von dem Leiden vermag, das ein hohes Schicksal uns auflegt.  Ihr seid
+glücklich und froh, wie sollt' ein Scherz Euch verwunden? Doch der
+Krankende fühlt auch schmerzlich die leise Berührung.  Nein, es hülfe mir
+nichts, wenn selbst mir Verstellung gelänge.  Zeige sich gleich, was
+später nur tiefere Schmerzen vermehrte Und mich drängte vielleicht in
+stillverzehrendes Elend.  Laßt mich wieder hinweg!  Ich darf im Hause
+nicht bleiben; Ich will fort und gehe, die armen Meinen zu suchen, Die ich
+im Unglück verließ, für mich nur das Bessere wählend.  Dies ist mein
+fester Entschluß; und ich darf Euch darum nun bekennen, Was im Herzen sich
+sonst wohl Jahre hätte verborgen.  Ja, des Vaters Spott hat tief mich
+getroffen: nicht, weil ich Stolz und empfindlich bin, wie es wohl der Magd
+nicht geziemet, Sondern weil mir fürwahr im Herzen die Neigung sich regte
+Gegen den Jüngling, der heute mir als ein Erretter erschienen.  Denn als
+er erst auf der Straße mich ließ, so war er mir immer In Gedanken
+geblieben; ich dachte des glücklichen Mädchens, Das er vielleicht schon
+als Braut im Herzen möchte bewahren.  Und als ich wieder am Brunnen ihn
+fand, da freut' ich mich seines Anblicks so sehr, als wär' mir der
+Himmlischen einer erschienen.  Und ich folgt' ihm so gern, als nun er zur
+Magd mich geworben.  Doch mir schmeichelte freilich das Herz (ich will es
+gestehen) Auf dem Wege hierher, als könnt' ich vielleicht ihn verdienen,
+Wenn ich würde des Hauses dereinst unentbehrliche Stütze.  Aber, ach!
+nun seh ich zuerst die Gefahren, in die ich Mich begab, so nah dem still
+Geliebten zu wohnen.  Nun erst fühl ich, wie weit ein armes Mädchen
+entfernt ist Von dem reicheren Jüngling, und wenn sie die Tüchtigste wäre.
+Alles das hab ich gesagt, damit ihr das Herz nicht verkennet, Das ein
+Zufall beleidigt, dem ich die Besinnung verdanke.  Denn das mußt' ich
+erwarten, die stillen Wünsche verbergend, Daß er sich brächte zunächst die
+Braut zum Hause geführet; Und wie hätt' ich alsdann die heimlichen
+Schmerzen ertragen? Glücklich bin ich gewarnt, und glücklich löst das
+Geheimnis Von dem Busen sich los, jetzt, da noch das Übel ist heilbar.
+Aber das sei nun gesagt!  Und nun soll im Hause mich länger Hier nichts
+halten, wo ich beschämt und ängstlich nur stehe, Frei die Neigung
+bekennend und jene törichte Hoffnung.  Nicht die Nacht, die breit sich
+bedeckt mit sinkenden Wolken, Nicht der rollende Donner (ich hör ihn) soll
+mich verhindern, Nicht des Regens Guß, der draußen gewaltsam herabschlägt,
+Noch der sausende Sturm.  Das hab ich alles ertragen Auf der traurigen
+Flucht und nah am verfolgenden Feinde.  Und ich gehe nun wieder hinaus,
+wie ich lange gewohnt bin, Von dem Strudel der Zeit ergriffen, von allem
+zu scheiden.  Lebet wohl!  ich bleibe nicht länger; es ist nun geschehen."
+
+Also sprach sie, sich rasch zurück nach der Türe bewegend, Unter dem Arm
+das Bündelchen noch, das sie brachte, bewahrend.  Aber die Mutter ergriff
+mit beiden Armen das Mädchen, Um den Leib sie fassend, und rief verwundert
+und staunend: "Sag, was bedeutet mir dies?  und diese vergeblichen Tränen?
+Nein, ich lasse dich nicht; du bist mir des Sohnes Verlobte." Aber der
+Vater stand mit Widerwillen dagegen, Auf die Weinende schauend, und sprach
+die verdrießlichen Worte: "Also das ist mir zuletzt für die höchste
+Nachsicht geworden, Daß mir das Unangenehmste geschieht noch zum Schlusse
+des Tages! Denn mir ist unleidlicher nichts, als Tränen der Weiber,
+Leidenschaftlich Geschrei, das heftig verworren beginnet, Was mit ein
+wenig Vernunft sich ließe gemächlicher schlichten.  Mir ist lästig, noch
+länger dies wunderliche Beginnen Anzuschauen.  Vollendet es selbst!  ich
+gehe zu Bette." Und er wandte sich schnell und eilte zur Kammer zu gehen,
+Wo ihm das Ehbett stand und wo er zu ruhen gewohnt war.  Aber ihn hielt
+der Sohn und sagte die flehenden Worte: "Vater, eilet nur nicht und zürnt
+nicht über das Mädchen! Ich nur habe die Schuld von aller Verwirrung zu
+tragen, Die unerwartet der Freund noch durch Verstellung vermehrt hat.
+Redet, würdiger Herr!  denn Euch vertraut' ich die Sache.  Häufet nicht
+Angst und Verdruß; vollendet lieber das Ganze! Denn ich möchte so hoch
+Euch nicht in Zukunft verehren, Wenn Ihr Schadenfreude nur übt statt
+herrlicher Weisheit."
+
+Lächelnd versetzte darauf der würdige Pfarrer und sagte: "Welche Klugheit
+hätte denn wohl das schöne Bekenntnis Dieser Guten entlockt und uns
+enthüllt ihr Gemüte? Ist nicht die Sorge sogleich dir zur Wonn' und Freude
+geworden? Rede darum nur selbst!  was bedarf es fremder Erklärung?" Nun
+trat Hermann hervor und sprach die freundlichen Worte: "Laß dich die
+Tränen nicht reun, noch diese flüchtigen Schmerzen; Denn sie vollenden
+mein Glück und, wie ich wünsche, das deine.  Nicht das treffliche Mädchen
+als Magd, die Fremde, zu dingen, Kam ich zum Brunnen; ich kam, um deine
+Liebe zu werben.  Aber, ach!  mein schüchterner Blick, er konnte die
+Neigung Deines Herzens nicht sehn; nur Freundlichkeit sah er im Auge, Als
+aus dem Spiegel du ihn des ruhigen Brunnens begrüßtest.  Dich ins Haus
+nur zu führen, es war schon die Hälfte des Glückes.  Aber nun vollendest
+du mir's!  Oh, sei mir gesegnet!" Und es schaute das Mädchen mit tiefer
+Rührung zum Jüngling Und vermied nicht Umarmung und Kuß, den Gipfel der
+Freude, Wenn sie den Liebenden sind die lang ersehnte Versichrung
+Künftigen Glücks im Leben, das nun ein unendliches scheinet.
+
+Und den übrigen hatte der Pfarrherr alles erkläret.  Aber das Mädchen kam,
+vor dem Vater sich herzlich mit Anmut Neigend und so ihm die Hand, die
+zurückgezogene, küssend, Sprach: "Ihr werdet gerecht der Überraschten
+verzeihen, Erst die Tränen des Schmerzes und nun die Tränen der Freude.
+Oh, vergebt mir jenes Gefühl!  vergebt mir auch dieses Und laßt nur mich
+ins Glück, das neu mir gegönnte, mich finden! Ja, der erste Verdruß, an
+dem ich Verworrene schuld war, Sei der letzte zugleich!  Wozu die Magd
+sich verpflichtet, Treu, zu liebendem Dienst, den soll die Tochter Euch
+leisten!"
+
+Und der Vater umarmte sie gleich, die Tränen verbergend.  Traulich kam
+die Mutter herbei und küßte sie herzlich, Schüttelte Hand in Hand; es
+schwiegen die weinenden Frauen.
+
+Eilig faßte darauf der gute verständige Pfarrherr Erst des Vaters Hand und
+zog ihm vom Finger den Trauring (Nicht so leicht; er war vom rundlichen
+Gliede gehalten), Nahm den Ring der Mutter darauf und verlobte die Kinder,
+Sprach: "Noch einmal sei der goldenen Reifen Bestimmung, Fest ein Band zu
+knüpfen, das völlig gleiche dem alten.  Dieser Jüngling ist tief von der
+Liebe zum Mädchen durchdrungen Und das Mädchen gesteht, daß auch ihr der
+Jüngling erwünscht ist.  Also verlob' ich euch hier und segn' euch
+künftigen Zeiten, Mit dem Willen der Eltern und mit dem Zeugnis des
+Freundes."
+
+Und es neigte sich gleich mit Segenswünschen der Nachbar.  Aber als der
+geistliche Herr den goldenen Reif nun Steckt' an die Hand des Mädchens,
+erblickt' er den anderen staunend, Den schon Hermann zuvor am Brunnen
+sorglich betrachtet.  Und er sagte darauf mit freundlich scherzenden
+Worten: "Wie!  du verlobest dich schon zum zweitenmal?  Daß nicht der
+erste Bräutigam bei dem Altar sich zeige mit hinderndem Einspruch!"
+
+Aber sie sagte darauf.  "Oh, laßt mich dieser Erinnrung Einen Augenblick
+weihen!  Denn wohl verdient sie der Gute, Der mir ihn scheidend gab und
+nicht zur Heimat zurückkam.  Alles sah er voraus, als rasch die Liebe der
+Freiheit, Als ihn die Lust, im neuen veränderten Wesen zu wirken, Trieb
+nach Paris zu gehn, dahin, wo er Kerker und Tod fand.  "Lebe glücklich",
+sagt' er.  "Ich gehe; denn alles bewegt sich Jetzt auf Erden einmal, es
+scheint sich alles zu trennen.  Grundgesetze lösen sich auf der festesten
+Staaten, Und es löst der Besitz sich los vom alten Besitzer, Freund sich
+los von Freund: so löst sich Liebe von Liebe.  Ich verlasse dich hier;
+und wo ich jemals dich wieder Finde--wer weiß es?  Vielleicht sind diese
+Gespräche die letzten.  Nur ein Fremdling, sagt man mit Recht, ist der
+Mensch hier auf Erden; Mehr ein Fremdling als jemals ist nun ein jeder
+geworden.  Uns gehört der Boden nicht mehr; es wandern die Schätze; Gold
+und Silber schmilzt aus den alten heiligen Formen; Alles regt sich, als
+wollte die Welt, die gestaltete, rückwärts Lösen in Chaos und Nacht sich
+auf, und neu sich gestalten.  Du bewahrst mir dein Herz; und finden
+dereinst wir uns wieder Über den Trümmern der Welt, so sind wir erneute
+Geschöpfe, Umgebildet und frei und unabhängig vom Schicksal.  Denn was
+fesselte den, der solche Tage durchlebt hat! Aber soll es nicht sein, daß
+je wir, aus diesen Gefahren Glücklich entronnen, uns einst mit Freuden
+wieder umfangen, Oh, so erhalte mein schwebendes Bild vor deinen Gedanken,
+Daß du mit gleichem Mute zu Glück und Unglück bereit seist! Locket neue
+Wohnung dich an und neue Verbindung, So genieße mit Dank, was dann dir das
+Schicksal bereitet! Liebe die Liebenden rein und halte dem Guten dich
+dankbar.  Aber dann auch setze nur leicht den beweglichen Fuß auf; Denn
+es lauert der doppelte Schmerz des neuen Verlustes.  Heilig sei dir der
+Tag; doch schätze das Leben nicht höher Als ein anderes Gut, und alle
+Güter sind trüglich." Also sprach er: und nie erschien der Edle mir wieder.
+Alles verlor ich indes, und tausendmal dacht' ich der Warnung.  Nun
+auch denk ich des Worts, da schön mir die Liebe das Glück hier Neu
+bereitet und mir die herrlichsten Hoffnungen aufschließt.  Oh, verzeih,
+mein trefflicher Freund, daß ich, selbst an dem Arm dich Haltend, bebe!
+So scheint dem endlich gelandeten Schiffer Auch der sicherste Grund des
+festesten Bodens zu schwanken."
+
+Also sprach sie und steckte die Ringe nebeneinander.  Aber der Bräutigam
+sprach mit edler männlicher Rührung: "Desto fester sei, bei der
+allgemeinen Erschüttrung, Dorothea, der Bund!  Wir wollen halten und
+dauern, Fest uns halten und fest der schönen Güter Besitztum.  Denn der
+Mensch, der zur schwankenden Zeit auch schwankend gesinnt ist, Der
+vermehret das Übel und breitet es weiter und weiter; Aber wer fest auf dem
+Sinne beharrt, der bildet die Welt sich.  Nicht dem Deutschen geziemt es,
+die fürchterliche Bewegung Fortzuleiten und auch zu wanken hierhin und
+dorthin.  "Dies ist unser!"  so laß uns sagen und so es behaupten! Denn
+es werden noch stets die entschlossenen Völker gepriesen, Die für Gott und
+Gesetz, für Eltern, Weiber und Kinder Stritten und gegen den Feind
+zusammenstehend erlagen.  Du bist mein; und nun ist das Meine meiner als
+jemals.  Nicht mit Kummer will ich's bewahren und sorgend genießen,
+Sondern mit Mut und Kraft.  Und drohen diesmal die Feinde Oder künftig, so
+rüste mich selbst und reiche die Waffen.  Weiß ich durch dich nur
+versorgt das Haus und die liebenden Eltern, Oh, so stellt sich die Brust
+dem Feinde sicher entgegen.  Und gedächte jeder wie ich, so stünde die
+Macht auf Gegen die Macht, und wir erfreuten uns alle des Friedens."
+
+
+
+
+
+Ende dieses Project Gutenberg Etextes "Hermann und Dorathea" von Goethe.
+End of Project Gutenberg Etext "Hermann und Dorothea", by Goethe

@@ -1,0 +1,3173 @@
+﻿The Project Gutenberg EBook of Polyeucte, by Pierre Corneille
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Polyeucte
+
+Author: Pierre Corneille
+
+Translator: Thomas Constable
+
+Release Date: April 3, 2006 [EBook #2543]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK POLYEUCTE ***
+
+
+
+
+Produced by Dagny; Emma Dudding; John Bickers
+
+
+
+
+
+POLYEUCTE
+
+By Pierre Corneille
+
+
+
+Translated by Thomas Constable
+
+
+
+
+INTRODUCTORY NOTE
+
+Pierre Corneille was born in Rouen in 1606, the son of an official; was
+educated by the Jesuits, and practised unsuccessfully as a lawyer. His
+dramatic career began with the comedy of "Melite," but it was by his
+"Medee" that he first proved his tragic genius. "The Cid" appeared
+in 1636, and a series of masterpieces followed--"Horace," "Cinna,"
+"Polyeucte," "Le Menteur." After a failure in "Pertharite" he retired
+from the stage, deeply hurt by the disapproval of his audience. Six
+years later he resumed play writing with "OEdipe" and continued till
+1674, producing in all some thirty plays. Though he earned a great
+reputation, he was poorly paid; and a proud and sensitive nature laid
+him open to considerable suffering. He died in 1684.
+
+The works of Corneille represent most fully the ideal of French
+so-called "classical" tragedy. The laws to which this type of tragedy
+sought to conform were not so much truth to nature as the principles
+which the critics had derived from a somewhat inadequate interpretation
+of Aristotle and of the practise of the Greek tragedians. These
+principles concentrated the interest of the play upon a single central
+situation, in order to emphasize which, subordinate characters and
+complicating under-plots were avoided as much as possible. There was
+little or no action upon the stage, and the events of the plot were
+narrated by messengers, or by the main characters in conversation with
+confidantes. Further, the "dramatic unities" of time and place, as well
+as of action, were held to be binding.
+
+One result of these rules was to give an extraordinary importance to
+the speeches; and it is in the eloquence of these, in the grandeur and
+dignity of the versification, and in the lofty moral elevation of the
+characters, that Corneille excels. All of these qualities are admirably
+exemplified in "Polyeucte"; and in the conduct of the leading personages
+one may perceive the most persistent trait of this dramatist's treatment
+of heroic character--the conquest of the passions by the reason and the
+will. "Among the masterpieces of Corneille," says Paul de Saint-Victor,
+"'Polyeucte' is assuredly the greatest; and nothing in all his dramas
+equals the extraordinary beauty of the character of 'Pauline.'"
+
+
+
+
+
+POLYEUCTE
+
+
+
+CHARACTERS
+
+     FELIX, Governor of Armenia.
+     POLYEUCTE, an Armenian noble, son-in-law to FELIX.
+     SEVERUS, a Roman Knight, favourite of the Emperor Decius.
+     NEARCHUS, an Armenian noble, friend to Polyeucte.
+     PAULINE, daughter to Felix, wife to Polyeucte.
+     STRATONICE, companion to Pauline.
+     ALBIN, friend to FELIX.
+     FABIAN, servant to Severus.
+     CLEON, friend to FELIX.
+     Three Guards.
+
+The Scene is at Melitena, capital of Armenia. The action takes place in
+the Palace of Felix.
+
+
+
+
+ACT I--POLYEUCTE. NEARCHUS
+
+     NEARCHUS.
+     Shall woman's dream of terror hurl the dart?
+     Oh, feeble weapon 'gainst so great a heart!
+     Must courage proved a thousand times in arms
+     Bow to a peril forged by vain alarms?
+
+     POLY.
+     I know that dreams are born to fade away,
+     And melt in air before the light of day;
+     I know that misty vapours of the night
+     Dissolve and fly before the morning bright.
+     The dream is naught--but the dear dreamer--all!
+     She has my soul, Nearchus, fast in thrall;
+     Who holds the marriage torch--august, divine,
+     Bids me to her sweet voice my will resign.
+     She fears my death--tho' baseless this her fright,
+     Pauline is wrung with fear--by day--by night;
+     My road to duty hampered by her fears,
+     How can I go when all undried her tears?
+     Her terror I disown--and all alarms,
+     Yet pity holds me in her loving arms:
+     No bolts or bars imprison,--yet her sighs
+     My fetters are--my conquerors, her eyes!
+     Say, kind Nearchus, is the cause you press
+     Such as to make me deaf to her distress?
+     The bonds I slacken I would not unloose
+     Nothing I yield--yet grant a timely truce.
+
+     NEAR.
+     How grant you know not what? Are you assured
+     Of constancy?--as one who has endured?
+     God claims your soul for Him!--Now! Now! To-day!
+     The fruit to-morrow yields--oh, who shall say?
+     Our God is just, but do His grace and power
+     Descend on recreants with equal shower?
+     On darkened souls His flame of light He turns,
+     Yet flame neglected soon but faintly burns,
+     And dying embers fade to ashes cold
+     If we the heart His spirit wooes withhold.
+     Great Heaven retains the fire no longer sought,
+     While ashes turn to dust, and dust to naught.
+     His holy baptism He bids thee seek,
+     Neglect the call, and the desire grows weak.
+     Ah! whilst from woman's breast thou heedst the sighs,
+     The flame first flickers, then, untended--dies!
+
+     POLY.
+     You know me ill,--'tis mine, that holy fire,
+     Fed, not extinguished, by unslaked desire
+     Her tears--I view them with a lover's eye;
+     And yet your Christ is mine--a Christian I!
+     The healing, cleansing flood o'er me shall flow,
+     I would efface the stain from birth I owe;
+     I would be pure--my sealed eyes would see!
+     The birthright Adam lost restored to me
+     This, this, the unfading crown! For this I yearn,
+     For that exhaustless fount I thirst, I burn.
+     Then, since my heart is true, Nearchus, say--
+     Shall I not grant to pity this delay?
+
+     NEAR.
+     So doth the ghostly foe our souls abuse,
+     And all beyond his force he gains by ruse;
+     He hates the purpose fast he cannot foil,--
+     Then he retreats--retreats but to recoil!
+     In endless barricade obstruction piles,
+     To-day 'tis tears impede, to-morrow--smiles!
+     And this poor dream--his coinage of the night
+     Gives place to other lures, all falsely bright:
+     All tricks he knows and uses--threats and prayers
+     Attacks in parley--as the Parthian dares.
+     In chain unheeded weakest link must fail,
+     So fortress yet unwon he'll mount and scale.
+     O break his bonds! Let feeble woman weep!
+     The heart that God has touched 'tis God must keep!
+     Who looks behind to dally with his choice
+     When Heaven demands--obeys another voice!
+
+     POLY.
+     Who loves thy Christ--say, must he love no other?
+
+     NEAR.
+     He may--he must! 'Tis Christ says, "Love thy brother,"
+     Yet on the altar of the Heavenly King
+     No rival place, no alien incense fling!
+     Through Him--by Him--for Him--all goodness know!
+     'Tis from the source alone each stream must flow.
+     To please Him, wife, and wealth, and rank, and state
+     Must be forsaken--strait the heavenly gate.
+     Poor silly sheep! afar you err and stray
+     From Him who is The Life, The Truth, The Way!
+     My grief chokes utterance! I see your fate,
+     As round the fold the hungry wolves of hate
+     Closer and fiercer rage: from sword and flame
+     One shelter for His flock--one only Name!
+     The Cross alone our victor over fears,
+     Not this thy strength,--thy plea--a woman's tears!
+
+     POLY.
+     I know thy heart! It is mine own--the tear
+     My pity drops hath ne'er a taint of fear!
+     Who dreads not torture, yet--to give relief
+     To her he loves, perforce must ease her grief!
+     If Heaven should claim my life, my death, my all,
+     Then Heaven will give the strength to heed the call.
+     The shepherd guides me surely to the fold,
+     There, safe with Him, 'tis He will make me bold!
+
+     NEAR.
+     Be bold! O come!
+
+     POLY.
+     Yes, let thy faith be mine!
+     There--at his feet--do I my life resign
+     If but Pauline--my love--would give consent!
+     Else heaven were hell, and home but banishment!
+
+     NEAR.
+     Come!--to return. Thrice welcome to her sight,
+     To see thee safe will double her delight:
+     As the pierced cloud unveils a brighter sun,
+     So is her joy enhanced--thy glory won!
+     O come, they wait!
+
+     POLY.
+     Appease her fear! Ah, this
+     Alone will give her rest--her lover bliss.
+     She comes!
+
+     NEAR.
+     Then fly!
+
+     POLY.
+     I cannot!
+
+     NEAR.
+     To deny would yield thine enemy the victory!
+     He loves to kill, and knows his deadliest dart
+     Finds friend within the fort--thy traitor heart!
+
+     Enter Pauline and Stratonice
+
+     POLY.
+     I needs must go, Pauline! My love, good-bye!
+     I go but to return--for thine am I!
+
+     PAUL.
+     Oh, why this haste to leave a loving wife?
+     Doth honour call?--or fear'st thou for thy life?
+
+     POLY.
+     For more, a thousandfold!
+
+     PAUL.
+     Great Gods above!
+
+     POLY.
+     Thou hast my heart! Let this content thy love!
+
+     PAUL.
+     You love and yet you leave me. What am I?
+     Not mine to solve the dreary mystery!
+
+     POLY.
+     I love thee more than self--than life--than fame
+     But----
+
+     PAUL.
+     There is something that thou dar'st not name.
+     Oh, on my knees I supplicate, I pray,
+     Remove my darkness!--turn my night to day!
+
+     POLY.
+     Oh, dreams are naught!
+
+     PAUL.
+     Yet, when they tell of thee,
+     I needs must listen, for I love! Ah, me!
+
+     POLY.
+     Take courage, dear one, 'tis but for an hour,
+     Thy love must draw me back, for love hath power
+     O'er all in earth and heaven. My soul's delight,
+     I can no more! My only safety--flight!
+
+     (Exeunt Polyeucte and Nearchus.)
+
+     PAUL.
+     Yes, go, despise my prayer--my agony;
+     Go, ruthless--meet thy fate--forewarned by me;
+     Chase thy pursuer, herald thine own doom;
+     Go, kiss the murderer's hand, and hail the tomb!
+     Ah, Stratonice! for our boasted power
+     As sovereigns o'er man's heart! Poor regents of an hour!
+     Faint, helpless, moonbeam--light was all I gave,
+     The sun breaks forth--his queen becomes his slave!
+     Wooed? Yes; as other queens I held my court
+     Won--but to lose my crown, and be the sport
+     Of proud, absorbing and imperious man!
+
+     STRAT.
+     Ah, man does what he wills--we, what we can;
+     He loves thee, lady!
+
+     PAUL.
+     Love should mate with trusts;
+     He leaves me!
+
+     STRAT.
+     Lady, 'tis because he must!
+     He loves thee with a love will never die,
+     Then, if he leave thee, reason not the why:
+     Give him thy trust! Oh, thou shalt have reward,
+     For thee he hides the secret! Let him guard
+     Thy life beloved--in fullest liberty.
+     The wife who wholly trusts alone is free!
+     One heart for thee and him--one purpose sure,
+     Yet this heart beats to dare--and to endure.
+     The wife's true heart must o'er the peril sigh
+     Which meets his heart moved but to purpose high;
+     Thy pain his pain, but not his terror thine:
+     He is Armenian, thou of Roman line.
+     We, of Armenia, mock thy dreams to scorn,
+     For they are born of night, as truth of morn;
+     While Romans hold that dreams are heaven-sent,
+     And spring from Jove for man's admonishment.
+
+     PAUL.
+     Though this thy faith--if thou my dream shouldst hear--
+     My grief must needs be thine, thy fear my fear,
+     And, that the horror thou may'st fully prove,
+     Know that I--his dear wife--did once another love!
+     Nay, start not, shrink not, 'tis no tale of shame,
+     For though in other years the heavenly flame
+     Descended, kindled, scorched--it left me pure
+     With courage to resign--with strength to endure.
+     He touched my heart, but never stained the soul
+     That gained this hardest conquest--self-control.
+     At Rome--where I was born--a soldier's eye
+     Marked this poor face, from which must Polyeucte fly;
+     Severus was his name:--Ah! memory
+     May spare love linked with death a tear, a sigh!
+
+     STRAT.
+     Say, is it he who, at the risk of life,
+     Saved Decius from his foes and endless strife?
+     Who, dying, dealt to Persia stroke of death,
+     And shouted 'Victory!' with his latest breath?
+     His whitening bones, amid the nameless brave,
+     Lie still unfound, unknown, without a grave;
+     Unburied lies his dust amid the slain,
+     While Decius rears an empty urn in vain!
+
+     PAUL.
+     Alas! 'tis he; all Rome attests his worth,
+     Hide not his memory, kindly Mother Earth!
+     'Tis but his memory that I adore
+     The past is past--and I can say no more.
+     All gifts save one had he--yes, Fortune held her hand,
+     And I, as Fortune's slave, obeyed my sire's command.
+
+     STRAT.
+     Ah! I must wish that love the day had won!
+
+     PAUL.
+     Which duty lost--then had I been undone;
+     Though duty gave, yet duty healed, my pain;
+     Yet say not that my love was weak or vain!
+     Our tears fell fast, yet ne'er bore our distress
+     The fatal fruit of strife and bitterness.
+     Then, then, I left my hero, hope and Rome,
+     And, far from him, I found another home;
+     While he, in his despair, sought sure relief
+     In death, the only end to life's long grief!
+     You know the rest:--you know that Polyeucte's eye
+     Was caught,--his fancy pleased; his wife am I.
+     Once more by counsel of my father led,
+     To Armenia's greatest noble am I wed;
+     Ambition, prudence, policy his guide
+     Yet only duty made Pauline his bride;
+     Love might have bound me to Severus' heart,
+     Had duty not enforced a sterner part.
+     Yes, let these fears attest, all trembling for his life,
+     That I am his for aye--his faithful, loving wife.
+
+     STRAT.
+     Thy new love true and tender as the old:--
+     But this thy dream? No more thy tale withhold!
+
+     PAUL.
+     Last night I saw Severus: but his eye
+     With anger blazed; his port was proud and high,
+     No suppliant he--no feeble, formless shade,
+     With dim, averted eye; no sword had made
+     My hero lifeless ghost. Nor wound, nor scar
+     Marked death his only conqueror in war.
+     Nor spoil of death, nor memory's child was he,
+     His mien triumphant, full of majesty!
+     So might victorious Caesar near his home
+     To claim the key to every heart in Rome!
+     He spoke: in nameless awe I heard his voice,--
+     'Give love, that is my due, to him--thy choice,--
+     But know, oh faithless one, ere day expires,
+     All vain these tears for him thy heart desires!'
+     Anon a Christian band (an impious horde),
+     With shameful cross in hand, attest his word;
+     They vouch Severus' truth--and, to complete
+     My doom, hurl Polyeucte beneath his feet!
+     I cried, 'O father, timely succour bear!'
+     He heard, he came, my grief was now despair!
+     He drew his dagger--plunged it in the breast
+     Of him, my husband, late his honoured guest!
+     Relief came but from agony supreme--
+     I shrieked--I writhed--I woke--it was a dream!
+     And yet my dream is true!
+
+     STRAT.
+     'Tis true your dream is sad,
+     But now you are awake, 'tis but a dream you had!
+     For horror's prey in darkness of the night
+     Is but our reason's sport in morning light.
+     How can you dread a shade? How a fond father fear,
+     Who as a son regards the man you hold so dear?
+     To phantom of the night no credence yield;
+     For him and you he chose thy strength and shield.
+
+     PAUL.
+     You say _his_ words: at all my fears he smiles,
+     But I must dread these Christians and their wiles!
+     I dread their vengeance, wreaked upon my lord,
+     For Christian blood my father has outpoured!
+
+     STRAT.
+     Their sect is impious, mad, absurd and vain,
+     Their rites repulsive, as their cult profane.
+     Deride their altar, their weak frenzy ban,
+     Yet do they war with gods and not with man!
+     Relentless wills our law that they must die:
+     Their joy--endurance; death--their ecstasy;
+     Judged--by decree, the foes of human race,
+     Meekly their heads they bow--to court disgrace!
+
+     PAUL.
+     My father comes--oh, peace!
+
+     (Enter Felix and Albin)
+
+     FELIX.
+     Nay, peace is flown!
+     Thy dream begets dull fears, till now unknown;
+     In part this dream is true, and for the rest----
+
+     PAUL.
+     By what new fear, say, is thy heart opprest?
+
+     FELIX.
+     Severus lives!
+
+     PAUL.
+     Ah! this no cause for fear!
+
+     FELIX.
+     At Decius' court, he, held in honour dear,
+     Risked life to save his Emperor from his foes,
+     'Tis to his saviour Decius honour shows!
+
+     PAUL.
+     Thus fickle Fortune bows her head to fate,
+     And pays the honour due, though all too late!
+
+     FELIX.
+     He comes! Is near----
+
+     PAUL.
+     The gods----
+
+     FELIX.
+     Do all things well.
+
+     PAUL.
+     My dream fulfilled! But how? O father, tell!
+
+     FELIX.
+     Let Albin speak, who saw him face to face
+     With tribe of courtiers; all to him give place;
+     Unscathed in battle, all extol his fame,
+     Unstained, undimmed, his glory, life and name!
+
+     ALBIN.
+     You know the issue of that glorious fight:
+     The crowning glory his--who, in despite
+     Of danger sore to life and liberty,
+     Became a slave to set his Emperor free:
+     Rome gave her honours to Severus' shade,
+     Whilst he, her ransomer, in a dungeon stayed.
+     His death they mourned above ten thousand slain,
+     While Persia held him--yes, their tears were vain,
+     But not in vain his noble sacrifice!
+     The king released him: Rome grudged not the price;
+     No Persian bribe could tempt him from his home.
+     When Decius cried--'Fight once again for Rome!'
+     Again he fights--he leads--all others hope resign;
+     But from despair's deep breast he plucks a star benign,
+     This--hope's fair fruit, contentment, plenty, ease,
+     Brings joy from grief, to crown a lasting peace.
+     The Emperor holds him as his dearest friend,
+     And doth Severus to Armenia send--
+     To offer up to Mars, and mighty Jove,
+     'Mid feast and sacrifice, his thanks and love.
+
+     FELIX.
+     Ah, Fortune, turn thy wheel, else I misfortune meet!
+
+     ALBIN.
+     This news I learn'd from one of great Severus' suite:
+     Thence, swiftly here, the tale to tell I sped.
+
+     FELIX.
+     He who once vainly wooed, hopes now to wed.
+     The sacrifice, the offering, all are feigned,
+     All but the suit, which lightly I disdained.
+
+     PAUL.
+     Yes, this may be, for ah! he loved me well!
+
+     FELIX.
+     What room for hope? Such wrath is child of hell.
+     Before his righteous ire I shrink, I cower;
+     Revenge I dread--and vengeance linked with power
+     Unnerves me quite.
+
+     PAUL.
+     Fear not, his soul is great.
+
+     FELIX.
+     Thy comfort, oh my daughter, comes too late.
+     The thought to crush me down, to turn my heart to stone,
+     This, that I prized not worth for worth's dear sake alone!
+     Too well, Pauline, thou hast thy sire obeyed;
+     Thy heart was fond, but duty love betrayed.
+     How surely thy revolt had safety won!
+     'Tis thine obedience leaves us all undone.
+     In thee, in thee alone, one hope remains,
+     Love held him fast, relax not thou love's chains.
+     O Love, my sometime foe, forgive, be mine ally,
+     And let the dart that slew now bring the remedy!
+
+     PAUL.
+     Forbid it, Heaven! One good yet mine,--_my will_,
+     The dart that wounded has the power to kill.
+     One lesson woman learns--her feebleness;
+     Shame is the only grief without redress.
+     The traitor heart shall still a prisoner be;
+     For freedom were disgrace to thee and me!
+     _I will not_ see him!
+
+     FELIX.
+     But one word! Be kind!
+
+     PAUL.
+     I will not, for I love!--and love is blind.
+     Before his kingly eye my soul to unveil
+     Were shame and failure: and I will not fail:
+     _I will not_ see him!
+
+     FELIX.
+     One word more--'Obey!'
+     Wouldst thou thy father and his weal betray?
+
+     PAUL.
+     I yield! Come woe!--come shame!--come every ill!
+     My father thou!--and I thy daughter still!
+
+     FELIX.
+     I know thee pure.
+
+     PAUL.
+     And pure I will remain,
+     But, crushed and bruised, the flower no guilt shall stain.
+     I fear the combat that I may not fly,
+     Hard-won the fight, and dear the victory.
+     Here, love, my curse! Here, dearest friend, my foe!
+     Yet will I arm me! Father, I would go
+     To steel my heart--all weapons to embrace!
+
+     FELIX.
+     I too will go, the conqueror's march to grace!
+     Restore thy strength, ere yet it be too late,
+     And know that in thy hands thou hold'st our fate!
+
+     PAUL.
+     Go, broken heart, to probe thy wound; cut deep and do not spare!
+     Herself--the crowning sacrifice--the victim shall prepare!
+
+
+
+
+ACT II--SEVERUS. FABIAN
+
+     SEV.
+     Let Felix bow to Jove and incense pour,
+     I seek a dearer shrine, for I adore
+     Nor Jove, nor Mars, nor Fortune--but Pauline.
+     This fruit now ripening late my hand would glean:
+     You know, my friend, the god who wings my way,
+     You know the only goddess I obey:
+     What reck the gods on high our sacrifice and prayer?
+     An earthly worship mine, sole refuge from despair!
+
+     FABIAN.
+     Ah! You may see her----
+
+     SEV.
+     Blessed be thy tongue!
+     O magic word, that turns my grief to song!
+     Yet, if she now forget each fair, fond vow?
+     She loved me once,--but does she love me now?
+     On that sweet face shall I but trouble see
+     Who hope for love undimmed, for ecstasy?
+     Great Decius gives her hand, but if her heart
+     Be mine no more--than let vain hope depart!
+     This mandate binds her father only; she
+     Shall give no captive hand--her heart is free:
+     No promise wrung, no king's command be mine to claim,
+     Her love the boon I crave; all else an empty name!
+
+     FABIAN.
+     Yes,--you may--see her--_see_ her--this you may--
+
+     SEV.
+     Thy speech is halting--odious thy delay!
+     She loves no more? I grope! O give me light!
+
+     FABIAN.
+     O see her not, for painful were the sight!
+     In Rome each matron's kind! In Rome all maids are fair!
+     Let lips meet other lips--seek for caresses there!
+     No stately Claudia will refuse--no Julia proud disdain;
+     A hero captures every heart, from Antioch to Spain!
+
+     SEV.
+     To wed a queen--an empress--were only loss and shame;
+     One heart for me--Pauline's! One boast--that dearest name!
+     Her love was virgin gold! O ne'er shall baser metal ring
+     From mine, who live her name to bless! her peerless praise to sing!
+     O, words are naught, till that I see her face,
+     Then doubly naught till I my love embrace.
+     In every war my hope was placed in death,
+     Her name upon my lips at every breath:
+     My rank, my fame, now hers and hers alone,
+     What is not hers, hers only--I disown!
+
+     FABIAN.
+     Once more, oh see her not, 'twere for thy peace!
+
+     SEV.
+     Thy meaning, knave, or let this babble cease!
+     Say, was she cold? My love! My only life!
+
+     FABIAN.
+     No--but--my lord----
+
+     SEV.
+     Say on!
+
+     FABIAN.
+     Another's wife!
+
+     SEV.
+     (Reels.)
+     Help!--No, I will not blench--ah, say you lie!
+     If this be true!--ye gods--can I be I?
+
+     FABIAN.
+     No, thou art changed. Where is thy courage fled?
+
+     SEV.
+     I know not, Fabian. Lost! Gone! Vanished! Dead!
+     I thought my strength was oak--'tis but a reed!
+     Pauline is wed, then am I lost indeed!
+     Hope hid beyond the cloud, yet still fond hope was there:
+     But now all hope is dead, lives only black despair!
+     Pauline another's wife?
+
+     FABIAN.
+     Yes, Polyeucte is her lord.
+     He came, he saw, he conquered thine adored.
+
+     SEV.
+     Her choice is not unworthy--his a name
+     Illustrious, from a line of kings he came
+     Cold comfort for a wound no cure can heal!
+     My cause is lost,--foredoomed without appeal!
+     Malignant Jove, to drag me back to-day!
+     Relentless Fate, to quench hope's dawning ray!
+     Take back your gifts! One boon alone I crave,
+     That only boon to none denied--the grave.
+     Yet would I see her, breathe one last good-bye,
+     Would hear once more that voice before I die!
+     My latest breath would still my homage pay,
+     That memory mine, when lost to realms of day.
+
+     FABIAN.
+     Yet think, my lord--
+
+     SEV.
+     Oh, I have thought of all;
+     What worser ill can dull despair befall?
+     She will not see me?
+
+     FABIAN.
+     Yes, my lord, but--
+
+     SEV.
+     Cease!
+
+     FABIAN.
+     'Twill but enhance the grief I would appease.
+
+     SEV.
+     For hopeless ill, good friend, I seek no cure.
+     Who welcomes death can life's short pain endure!
+
+     FABIAN.
+     O lost indeed, if round her fatal light you hover!--
+     The lover, losing all, speaks hardly like a lover!
+     While passion still is lord--the passion-swept is slave--
+     From this last bitterness would I Severus save!
+
+     SEV.
+     That word, my friend, unsay; tho' grief this bosom tear,
+     The hand that wounds I kiss--love vanquishes despair;
+     Fate only, not Pauline, the foe that I accuse,
+     No plighted faith she breaks who did this hand refuse.
+     Duty--her father--Fate--these willed, she but obeyed;
+     Not hers the woe, the strife that envious Ate made!
+     Untimely, Fortune's shower must drown me, not revive;
+     Too lavish and too late her fatal gifts arrive.
+     The golden apple falls, the gold is turned to dross:
+     When Fate at Fortune mocks, all gain is only loss!
+
+     FABIAN.
+     Yes, I will go to tell her thou hast drained
+     To the last drop the cup that Fate ordained.
+     She knows thee hero, but she feared that pain
+     Might prove thee also man--by passion slain.
+     She feared Despair, who gains the victory
+     O'er other men, might e'en thy master be!
+
+     SEV.
+     Peace! Peace! She comes!
+
+     FABIAN.
+     To thine own self be true!
+
+     SEV.
+     Nay! True to her! Shall I her life undo?
+     She loves the Armenian!
+
+     Enter Pauline
+
+     PAUL.
+     Yes, that debt I pay,
+     Hard--wrung, acquitted,--his my love alway!
+     Who has my hand, he holds--shall hold--my heart!
+     Truth is my guide,--let sophistry depart!
+     Had Fate been kind, then had Pauline been thine,
+     Heart, faith and duty, linked with bliss divine.
+     In vain had fickle Fortune barred the way,
+     Want had been wealth with thee, my guide, my stay,
+     And poverty had fallen from the wings
+     Of soaring love, who mocks the wealth of kings!
+     Not mine to choose, for he--my father's choice--
+     Must needs be mine; yes, when I heard his voice,
+     Duty must echo be: if thou couldst cast
+     Before my feet an emperor's crown,--a past
+     By worth and glory lit--beloved, adored--
+     Yet at my father's word, 'Not this thy lord;
+     Take one despised--nay, loathed--to share thy bed,'--
+     Him, and not thee, beloved, would I wed.
+     Duty, obedience, must have been the part
+     Of me, who own their sway, e'en with a broken heart!
+
+     SEV.
+     O happy thou! O easy remedy!
+     One poor faint sigh cures love's infirmity!
+     Thy heart thy tool, o'er every passion queen,
+     Beyond all change and chance thou sit'st serene!
+     In easy flow can pass thy love new-born
+     From cold indifference to colder scorn;
+     Such resolution is the equal mate
+     Of god or monster, love, aversion, hate.
+     This fine-spun adamant Ithuriel's spear
+     Could never pierce: for other stuff is here!
+     (Points to himself.)
+     No faint 'Alas!' no swift-repented sigh
+     Can heal the cureless wound from which I die.
+     Sure, reason finds that love his easy prey
+     With Lethe aye at hand to point the way;
+     With ordered fires like thine, I too could smother
+     A heart in leash, find solace in another.
+     Too fair, too dear--from whom the Fates me sever!
+     Thou hast no heart to give--thou lov'dst me never!
+
+     PAUL.
+     Too plain, Severus, I my torture show,--
+     Tho' flame leap up no more, the embers glow;
+     Far other speech and voice, and mien were mine,
+     Could I forget that once thou call'dst me thine!
+     Tho' reason rules, yes, gains the mastery
+     No queen benignant, but a tyrant she!
+     Oh, if I conquer--if the strife I gain,
+     Yet memory for aye is linked with pain!
+     I feel the charm that binds me still to thee;
+     If duty great, yet great thy worth to me:
+     I see thee still the same, who waked the fire
+     Which waked in me ineffable desire.
+     Begirt by crown of everlasting fame
+     Thou art more glorious--yet art still the same.
+     I know thy valour's worth,--well hast thou justified
+     That bounding hope of mine, though fruitage was denied,
+     Yet this same fate which did our union ban
+     Hath made me, fated--wed another man.
+     Let Duty still be queen! Yea, let her break
+     The heart she pierces, yet can never shake.
+     The virtue, once thy pride in days gone by
+     Doth that same worth now merit blasphemy?
+     Bewail her bitter fruit--but praised be
+     The rights that triumph over thee and me!
+
+     SEV.
+     Forgive, Pauline, forgive; ah! grief hath made me blind
+     To all but grief's excess, and fortune most unkind.
+     Forgive that I mistook--nay, treated as a crime
+     Thy constancy of soul, unequalled and sublime;
+     In pity for my life forlorn, my peace denied,
+     Ah! show thyself less fair,--one least perfection hide!
+     Let some alloy be seen, some saving weakness left,
+     Take pity on a heart of thee and Heaven bereft!
+     One faintest flaw reveal, to give my soul relief!
+     Else, how to bear the love that only mates with grief?
+
+     PAUL.
+     Alas! the rents in armour donned and proved
+     Too well my fight proclaim; yes, I have loved;
+     The traitor sigh, the tear unbid, attest
+     The combat fierce--the warrior sore distrest.
+     Say, who can stanch these wounds, that armour mend?
+     Thou who hast pierced, thou, thou alone defend!
+     Ah, if thou honourest my victory
+     Depart, that thou may'st still defender be!
+     So dry the tears that, to my shame, still flow--
+     So quench the fire would work my overthrow!
+     Yes, go, my only friend, with me combine
+     To end my torture, for thy pain is mine!
+
+     SEV.
+     This last poor drop of comfort may not be?
+
+     PAUL.
+     The cup is poisoned both for me and thee!
+
+     SEV.
+     The flower is gone--I cherish but the root!
+
+     PAUL.
+     Untimely blossom bears a fated fruit!
+
+     SEV.
+     My grief be mine! Let memory remain!
+
+     PAUL.
+     That grief might hope beget, so leave a stain!
+
+     SEV.
+     Not mine to stain what Heaven hath made so pure!
+     For me one offering left: 'tis this: Endure!
+     Thy glory shall be mine, my load I bear,
+     So, spotless, thou thy peerless crown shalt wear!
+     Farewell, my love, farewell; I go to prove my faith,
+     To bless, to save thy life, so will I mate with death!
+     If prostrate from the blow, there yet remains of life
+     Enough to summon death, and end the piteous strife!
+
+     PAUL.
+     My grief, too deep for voice, shall silent be,
+     There, in my chamber, will I pray for thee!
+     When thou art gone, great Heaven shall hear my cry;
+     Grief's fruit for thee be hope--death--immortality!
+
+     SEV.
+     Now with my loss alone let Fate contented be.
+     May Heaven shower bliss and peace on Polyeucte and thee!
+
+     PAUL.
+     Stern Fate obeyed, end, Death, his agony,
+     And Jove receive my hero--to the sky!
+
+     SEV.
+     _Thou wast_ my heaven!
+
+     PAUL.
+     My father I obeyed--
+
+     SEV.
+     O victim pure, obedient, undismayed!
+     Pauline--too fair--too dear--I can no more!
+
+     PAUL.
+     So must I say--depart--where I adore!
+
+     (Exit Severus.)
+
+     STRAT.
+     Yes, it is hard--most sad--behold my tears!
+     But now, at least, there is no cause for fears:
+     Thy dream is but a dream--is naught, is vain;
+     Severus pardons. Gone that cause for pain!
+
+     PAUL.
+     Oh, if from pity start thy easy tear,
+     Add not that other woe--forgotten fear!
+     Ah! let me breathe, some respite give from trouble,
+     Those fears, half-dead, thou dost revive, redouble!
+
+     STRAT.
+     What dost thou dread?
+
+     PAUL.
+     Heaven--hell--earth--empty air!
+     All, all is food for dread to my despair,
+     As thou unveil'st, begirt in lurid light,
+     The pallid ghost that slew me in the night!
+
+     STRAT.
+     Severus he by name, yet noble in his heart!
+
+     PAUL.
+     Ah, Polyeucte bathed in blood! Depart! depart!
+
+     STRAT.
+     For Polyeucte's welfare did Severus pray!
+
+     PAUL.
+     Yes, yes, his heart is great; be that my stay!
+     Yet, tho' his truth, his faith, well-proved be,
+     Most baleful is his presence here to me;
+     Yea, tho' he would all ill for me undo
+     Yet he hath power, he loves--he came to woo.
+
+     (Enter Polyeucte and Nearchus.)
+
+     POLY.
+     The source of tears is dry, oh, weep no more,
+     Thy grief lay down, thy fearful heart restore!
+     Let night's dark dream with superstition die,
+     The dream is past, for here in life am I!
+
+     PAUL.
+     The day is young, and oh, the day is long,--
+     And half the dream is true, and Fate is strong;
+     Severus have I seen, who thought him dead!
+
+     POLY.
+     I know it! Let no tear for this be shed!
+     Secure with thee am I! Tho' great the knight,
+     Thy father will command to do me right;
+     The general is a man of honour,--he
+     Would ne'er that honour dim by treachery!
+     He comes in amity, our friend, our guest;
+     To greet his worth and valour now my quest.
+
+     PAUL.
+     Radiant he came, who left me hopeless, sad,
+     But he will come no more,--this grace I had.
+
+     POLY.
+     What? Thinkest thou that I can jealous be?
+
+     PAUL.
+     An outrage this on him, on thee, on me!
+     He came in peace, who all my peace hath marred.
+     Who would run safely, every step must guard;
+     The wife who danger courts but courts her fall
+     My husband, aid me!--I would tell thee all!
+     His worth, his charm, do my weak hearth enflame
+     A traitor here! And he is aye the same!
+     If I should gaze, and long--'gainst virtue, honour, sense,
+     The citadel I yield, and mine my own defence!
+     I know my virtues sure, and fair my fame,
+     But struggle is defeat,--and combat shame!
+
+     POLY.
+     Oh, true thy shield, thy victory is won,
+     He only who has lost thee is undone;
+     His noble grief the cost of all my bliss,
+     Ah, Cleopatra's pearl was naught to this!
+     The more my faults I see, the more thy truth I learn,
+     The more do I admire----
+
+     (Enter Cleon.)
+
+     CLEON.
+     My lord, the altars burn
+     With holy fire. The victim they prepare;
+     On thee alone they wait, our rites to share.
+
+     POLY.
+     Go, we do follow thee!
+
+     PAUL.
+     I cannot go;
+     Severus flies my sight; to him I owe
+     My absence--not, alas! to him alone!
+     Go thou, and oh, remember he is great;
+     In his sole hands Severus holds thy fate!
+
+     POLY.
+     A foe so great, so noble, is a friend,
+     Oh, not from him the lance that Heaven will send!
+
+     Exeunt Pauline, Stratonice and Cleon.
+
+     NEAR.
+     Where go'st thou?
+
+     POLY.
+     To the temple is the call.
+
+     NEAR.
+     What! Wouldst thou mingle in their heathen brawl?
+     Thou art a Christian, and canst thou forget?
+
+     POLY.
+     Canst _thou_, who fore mine eyes the cross didst set?
+
+     NEAR.
+     Not mine their gods!
+
+     POLY.
+     He calls me! I must go!
+
+     NEAR.
+     I fly their altars!
+
+     POLY.
+     I would overthrow!
+     Not mine to fly a worship I disown,
+     By me Jehovah, King of kings, be known!
+     Not mine to tremble as I kiss the rod!
+     I conquer by the Cross, I fight for God!
+     Thou wouldst abstain! For me another course
+     From Heaven the call, and Heaven will give the force!
+     What! Yield to evil! His Cross on my brow!
+     His freemen we! O fight, Nearchus, now!
+     For us our Lord was scourged, pierced, tortured, slain!
+     For us He bled! Say, has He died in vain?
+
+     NEAR.
+     Let timely moderation temper zeal!
+
+     POLY.
+     His--His alone am I! His woe my weal!
+
+     NEAR.
+     In love with death?
+
+     POLY.
+     For Him I love I die!
+     He died for me! So death is victory!
+
+     NEAR.
+     Thy flesh is weak!
+
+     POLY.
+     Yet He will make me bold!
+
+     NEAR.
+     And if thou waver?
+
+     POLY.
+     He will me uphold!
+
+     NEAR.
+     To tempt the Lord thy God were an offence.
+
+     POLY.
+     He is my shield--hence! cursed tempter, hence!
+
+     NEAR.
+     In time of need the faith must be confessed.
+
+     POLY.
+     The offering grudged is sacrifice unblessed.
+
+     NEAR.
+     Seek thou the death thine own self-will prepares!
+
+     POLY.
+     A crown I seek, which every martyr shares!
+
+     NEAR.
+     A life of duty well that crown can win.
+
+     POLY.
+     The purest life on earth is stained with sin.
+     Why yield to time and chance what death assures?
+     Death but the gate of life that aye endures.
+     If I be His--let me be His alone!
+     The faith that soars shall full fruition own;
+     Who trusts, yet fears and doubts, his faith is dead!
+
+     NEAR.
+     Not death the Christian's prayer, but daily bread.
+     Live to protect the flock, so sore oppressed.
+
+     POLY.
+     Example be their friend, most sure, most blessed!
+
+     NEAR.
+     Thou woo'st thy death!
+
+     POLY.
+     Is this poor life so dear?
+
+     NEAR.
+     Ah, I must own my heart is slave to fear.
+     The rack! The cross! I might my Lord disown!
+
+     POLY.
+     From Him our help, our strength, from Him alone!
+     Who fears denial does at heart deny;
+     Who doubts the power of faith makes faith a lie!
+
+     NEAR.
+     Who leans upon a reed shall find distress.
+
+     POLY.
+     His staff will guide, support my feebleness.
+     Thou wert my staff, to show the Truth, the Way,
+     Must I now urge thee to the realms of day?
+     Thou fearest death?
+
+     NEAR.
+     The Christ once feared to die!
+
+     POLY.
+     Yet drained the bitter cup of agony!
+     The way that thou hast shown--that way He trod;
+     His way be ours to lead man's soul to God--
+     For heathen shrine--to rear His altar fair,--
+     The deathless hope alone can kill despair!
+     Thou said'st: 'If Him thou wilt for pattern take,
+     Then leave wife, wealth, home, all for His dear sake!'
+     Alas, that love of thine, now weak and poor,
+     Glows yet within my breast--and shall endure;
+     Ah, must the dawn of this my perfect day
+     Find thy full light beclouded, dimmed, astray?
+
+     NEAR.
+     Baptismal waters yet bedew thy brow;
+     The grace that once was mine, that grace hast thou.
+     No worldly thought has checked the flow, no guilty act has stained;
+     Thy wings are strong, while mine are weak; thy love is fresh,
+          ungeigned,--
+     To these, thy heights, I cannot soar, held down by sense and sin,
+     How can I storm the citadel?--the traitor lurks within!
+     Forsake me not, my God! Thy spirit pour!
+     Oh, make me true to Him whom I adore!
+     With Thee I rise,--the flesh, the world, defy,
+     Thou, who hast died for me, for Thee I die!
+     Yes, I will go! With heaven-born zeal I burn,
+     I will be free,--all Satan's lures I spurn;
+     Death, torture, outrage, these will I embrace,
+     To nerve my heart and arm, Heaven grant me grace!
+
+     POLY.
+     On eagle wings of faith and hope ascend!
+     I hail my master--recognise my friend;
+     The old faith wanes,--we light her funeral pyre,
+     Her ashes fall before our holy fire;
+     Come, trample under foot the gods that men have wrought;
+     The rotten, helpless staff is broke, is gone--is naught.
+     Their darkness felt they own, but let them see the light!
+     Their gods of stone, of clay, but vampires of the night!
+     Their dust shall turn to dust,--shall moulder with the sod,
+     Ours for His name to fight:--the issue is with God.
+
+     NEAR.
+     The cause is just, is true--O coward heart, be still!
+     I lived to doubt His word--I die to do His Will!
+
+
+
+
+ACT III--PAULINE
+
+     PAUL.
+     Cares--clouded and confused--oppress, obscure
+     In changeful forms, my eye, my heart, my mind:
+     My soul finds room for every guest save one;
+     Fair hope has flown,--no star can pierce my night:
+     Each tyrant rages 'gainst opposing foe
+     In deadly fight--yet brings to light no friend:
+     In travail sore hope comes not to the birth--
+     Fear hydra-headed terror still begets;--
+     All fancies grim I see, and straight embrace,
+     At hope I clutch, who still eludes my grasp;
+     Her rainbow hues adored are but a frame
+     That serve by contrast to make fear more dark.
+     Severus haunts me--oh, I know his love,
+     Yet hopeless love must mate with jealousy,--
+     While Polyeucte, who has won what he has lost,
+     Can meet no rival with an equal eye.
+     The fruit of rivalry is ever hate
+     And envy; both must still engender strife:
+     One sees that rival hand has grasped his prize,
+     The other yearns for prize himself has missed.
+     Weak reason naught, when headlong passion reigns,
+     For valour seeks a sword, and love--revenge.
+     One fears to see the prize he gained impaired,
+     The other would that wrested prize regain;
+     While patience, duty, conscience, vail their heads
+     'Fore obstinate defence and fierce attack.
+     Such steeds no charioteer controls--for they
+     Mistake both curb and reign for maddening whip.
+     Ah! what a base, unworthy fear is mine!
+     How ill I read these fair, these noble souls,
+     Whose virtue must all common snares o'erleap!
+     Their gold unstained by dross or mean alloy!
+     As generous foes so will they--must they meet!
+     Yet are they rivals--this the thought that kills!
+     Not even here--at home--is Polyeucte safe,
+     The eagle wings of Rome reach over all.
+     Oh, if my father bow to Roman might,
+     If he repent the choice that he hath made,--
+     At this one thought hope's flame leaps up to die!
+     Or--if new-born--dies ere she see the light.
+     Hope but deceived,--my fear alone I trust,
+     Heaven grant such confidence be false--be vain!
+
+     (Enter Stratonice.)
+
+     Nay, let me know the worst! What, girl!--no word?
+     The rites are o'er? What hast thou seen--what heard?
+     They met in amity?--In peace they part?
+
+     STRAT.
+     Alas! Alas!
+
+     PAUL.
+     Nay, soothe my aching heart!
+     I would have comfort,--but this face of woe--
+     A quarrel?
+
+     STRAT.
+     Polyeucte--Nearchus--go--
+     The Christians--
+
+     PAUL.
+     What of them?
+
+     STRAT.
+     Ah, how to speak--
+
+     PAUL.
+     They on my father would their vengeance wreak?
+
+     STRAT.
+     Oh, fear whate'er thou wilt--that fear too small!
+
+     PAUL.
+     The Christians rise?
+
+     STRAT.
+     Oh, would that this were all!
+     Thy dream, Pauline, is true; Polyeucte is----
+
+     PAUL.
+     Dead?
+
+     STRAT.
+     Ah, no, he lives--yet every hope is fled;
+     That courage once so high, that noble name
+     Sunk in the mire of everlasting shame!
+     He lives,--who once was lovely in thy sight--
+     As monster foul--his every breath a blight;
+     The foe of Heaven, of Jove, of all our race,
+     His kisses poison, and his love--disgrace!
+     Wretch, coward, miscreant, steeped in infamy,
+     O worse than every name!--a Christian he!
+
+     PAUL.
+     Nay, that one word's enough! There needed not abuse.
+
+     STRAT.
+     My words fit well their guilt;--with evil make no truce.
+
+     PAUL.
+     If _he_ be _Nazarene_--he must an outcast be!
+     But insult to my lord is insult unto me!
+
+     STRAT.
+     Think only that he hails the Cross, the badge of shame.
+
+     PAUL.
+     My plighted faith, my troth, my duty still the same!
+
+     STRAT.
+     When twined about thy breast, the hideous serpent slay!
+     Who mocks the Gods on high will his own wife betray!
+
+     PAUL.
+     If he be false, yet I will still be true,
+     The ties that bind me I will ne'er undo:
+     Let fate--Severus--passion--all combine
+     Against him!--I am his, and he is mine.
+     Yes, mine to guide, lead, win, forgive, and save!
+     I seek his honour tho' he court the grave.
+     Let Polyeucte be Christ's slave!--For woe, for weal,
+     He is my lord; the bond I owe I seal;
+     I fear my father,--all his vengeance, dread.
+
+     STRAT.
+     Fierce burns his rage o'er that devoted head;
+     Yet embers of old love still faintly glow,
+     And through his wrath some weak compassion show;
+     'Gainst Polyeucte biting words alone he speaks
+     But on Nearchus fullest vengeance wreaks!
+
+     PAUL.
+     Nearchus lured him on?
+
+     STRAT.
+     The tempter he;
+     Such friendship leads to death, or infamy.
+     Oh, cursed friend, who, in dear love's despite,
+     Has torn him from thine arms--his neophyte!
+     He dragged him to the front;--baptized, annealed--
+     He fights for Christ!--The secret is revealed.
+
+     PAUL.
+     Which I would know--and straightway had thy blame!
+
+     STRAT.
+     Ah! I foresaw not this--their deed of shame!
+
+     PAUL.
+     Ere dull despair o'ermaster all my fears,
+     Oh, let me gauge the worth of woman's tears!
+     For, if the daughter lose, the wife may gain,--
+     Or Felix may relent, if Polyeucte mock my pain;
+     If both are adamant unto my prayer,
+     Then--then alone--take counsel from despair!
+     How passed the temple sacrifice? Hide naught, my friend, tell all!
+
+     STRAT.
+     The horror and the sacrilege must I, perforce, recall?
+     To say the words, to think the thoughts, seems blasphemy and shame;
+     Yet will I tell their infamy,--their deed without a name.
+     To silence hushed, the people knelt, and turned them to the East;
+     Then impious Polyeucte and his friend mock sacrifice and priest.
+     They every holy name invoked jeer with unbridled tongue,
+     To laughter vile the incense rose--'tis thus our hymn was sung;
+     Both loud and deep the murmurs rang, and Felix' face grew pale,
+     Then Polyeucte mad defiance hurls, while all the people quail.
+     'Vain are your gods of wood and stone!' his voice was stern
+          and high--
+     'Vain every rite, prayer, sacrifice' so ran his blasphemy.
+     'Your Jupiter is parricide, adulterer, demon, knave,
+     'He cannot listen to your cry, not his to bless or save.
+     'One God--Jehovah--rules alone, supreme o'er earth and heaven,
+     'And ye are His--yes, only His--to Him your prayers be given!
+     'He is our source, our life, our end,--no other god adore,
+     'To Him alone all prayer is due, then serve Him evermore!
+     'Who kneels before a meaner shrine, by devil's power enticed,
+     'Denies his Maker and his King, denies the Saviour Christ.
+     'He is our source, our guide, our end, our prophet, priest and
+          king;
+     'Twas He that nerved Severus' arm,--His praise let Decius sing.
+     'Jehovah rules the battle-field ye call the field of Mars,
+     'He only grants a glorious peace, 'tis He guides all our wars.
+     'He casts the mighty from his seat, He doth the proud abase,--
+     'They only peace and blessing know who love and seek His face.
+     'His sword alone is strong to strike, His shield our only guard.
+     'He will His bleeding saints avenge, He is their sure reward.
+     'In vain to Jove and feeble Mars your full libations pour--
+     'Oh, kneel before the might ye spurn, the God ye mock--adore!'
+     Then Polyeucte the shrine o'erthrows, the holy vessels breaks,
+     Nor wrath of Jove, nor Felix' ire, his fatal purpose shakes.
+     Foredoomed by Fate, the Furies' prey--they rush, they rend,
+          they tear,
+     The vessels all to fragments fly--all prone the offerings fair;
+     And on the front of awful Jove they set their impious feet,
+     And order fair to chaos turn, and thus their work complete.
+     Our hallowed mysteries disturbed, our temple dear profaned,
+     Mad flight and tumult dire let loose, proclaim a God disdained.
+     Thus pallid fear broods over all, presaging wrath to come,
+     While Felix--but I mark his step!--'tis he shall speak the doom.
+
+     PAUL.
+     How threatening, how dark his mien! How lightning-fraught his eye!
+     Where wrath and grief, revenge and pain, do strive for mastery!
+
+     (Enter Felix.)
+
+     FELIX.
+     O insolence undreamed!--Before my very eyes!--
+     Before the people's gaze! It is too much!--he dies!
+
+     PAUL.
+     O father!--on my knees!
+     (Kneels.)
+     Unsay that word!
+
+     FELIX.
+     Nearchus' doom I speak,--not his, thy lord.
+     Though all unworthy he to be my son,
+     Yet still he bears the name that he hath won;
+     Nor crime of his nor wrath of mine shall ever move
+     Thy father's heart to hate the man thou crown'st with love!
+
+     PAUL.
+     Ne'er vainly have I sued for pity from my sire!
+
+     FELIX.
+     And yet meet food were he for righteous ire!
+     To recount an act so fell my feeble words too weak,
+     But thou has heard the tale my lips refuse to speak
+     From her, thy maiden; she hath told thee all.
+
+     PAUL.
+     Nearchus goaded--planned--and he shall fall!
+
+     FELIX.
+     So taught by torture of his vilest friend,
+     Shall Polyeucte mark of guilt the certain end,
+     When of the frenzied race he sees the goal,
+     The dread of torture shall subdue his soul!
+     Who mocked the thought of death, when death he views,
+     Will choose an easier mate--and rightly choose.
+     That shadowy guest, that doth his soul entice,
+     Once master, glues all ardour into ice,
+     And that proud heart, which never meekness knew,
+     When face to face with Death--will learn to sue!
+
+     PAUL.
+     What! Thinkest thou his soul can ever blench?
+
+     FELIX.
+     Death's mighty flood must every furnace quench!
+
+     PAUL.
+     It might! It may!--I know such things can be!
+     A Polyeucte changed--debased--forsworn I see!
+     O, changeful Fortune! changeless Polyeucte move,
+     And grant a boon denied by father's love!
+
+     FELIX.
+     My love too plain--myself too weakly kind,
+     Let him repent and he shall pardon find;
+     Nearchus' sin is his,--and yet the grace
+     He shall not win, thy Polyeucte may embrace!
+     My duty--to a father's love betrayed
+     Hath of thy sire a fond accomplice made;
+     A healing balm I bring for all thy fears,
+     I look for thanks, and lo--thou giv'st me tears!
+
+     PAUL.
+     I give no thanks--no cause for thanks I find;
+     I know the Christian temper--know their mind,
+     They can blaspheme, but ah, they cannot lie!
+     They know not how to yield--but they can die!
+
+     FELIX.
+     As bird in hand, he holds his pardon still.
+
+     PAUL.
+     The bird escapes, when 'tis the owner's will.
+
+     FELIX.
+     He death escapes--if so he do elect.
+
+     PAUL.
+     He death embraces--as doth all his sect.
+     Is't thus a father pleads for his own son?
+
+     FELIX.
+     Who wills his death is by himself undone.
+
+     PAUL.
+     He cannot see!
+
+     FELIX.
+     Because he chooses night.
+     Who loves the darkness hateth still the light.
+
+     PAUL.
+     O, by the Gods--
+
+     FELIX.
+     Nay, daughter, save thy breath;
+     Spurned--outraged--'tis the Gods demand his death.
+
+     PAUL.
+     They hear our prayers--
+
+     FELIX.
+     Nay, then let Polyeucte pray!
+
+     PAUL.
+     Since Decius gives thee power,--that word unsay!
+
+     FELIX.
+     He gives me power, Pauline, to do his will
+     Against his foes--'gainst all who work him ill.
+
+     PAUL.
+     Is Polyeucte his foe?
+
+     FELIX.
+     All Christians rebels are.
+
+     PAUL.
+     Thy son shall plead more loud than policy or war.
+     For mine is thine; O father, save thine own--
+
+     FELIX.
+     The son who is a traitor I disown!
+     For treason is a crime without redress,
+     'Gainst which all else sinks into nothingness.
+
+     PAUL.
+     Too great thy rigour!
+
+     FELIX.
+     Yet more great his guilt.
+
+     PAUL.
+     Too true my dream! Must his dear blood be spilt?
+     With Polyeucte, I too--thy child--shall fall!
+
+     FELIX.
+     The Gods--the Emperor--rule over all.
+
+     PAUL.
+     O hear our dying supplication--hear!
+
+     FELIX.
+     Not Jove alone, but Decius I fear:--
+     But why anticipate a doom so sad?
+     Shall this--his blindness--make thy Polyeucte mad?
+     Fresh Christian zeal remains not always new,
+     The sight of death compels a saner view.
+
+     PAUL.
+     O, if thou lov'st him still, all hope forsake!
+     In one day can he two conversions make?
+     Not this the Christians' mould: they never change;
+     His heart is fixed--past power of man to estrange.
+     This is no poison quaffed all unawares,
+     What martyrs do and dare--that Polyeucte dares;
+     He saw the lure by which he was enticed,
+     He thinks the universe well lost for Christ.
+     I know the breed; I know their courage high,
+     They love the cross,--so, for the cross, they die.
+     We see two stakes of wood, the felon's shame,
+     They see a halo round one matchless Name.
+     To powers of earth, and hell, and torture blind,
+     In death, for Him they love, they rapture find.
+     They joy in agony,--our gain their loss,
+     To die for Christ they count the world but dross:
+     Our rack their crown, our pain their highest pleasure,
+     And in the world's contempt they find their treasure.
+     Their cherished heritage is--martyrdom!
+
+     FELIX.
+     Let then this heir into his kingdom come! No more!--
+
+     PAUL.
+     O father!
+
+     (Enter Albin.)
+
+     FELIX.
+     Albin, is it done?
+
+     ALBIN.
+     It is,--Nearchus' frantic race is run!
+
+     FELIX.
+     And with what eye saw Polyeucte the sight?
+
+     ALBIN.
+     With envious eye,--as one who sees a light
+     That lures him, moth-like, to devouring flame.
+     His heart is fixed, his mind is still the same.
+
+     PAUL.
+     'Tis as I said--oh, father, yet once more
+     If thou hast ever loved me,--I implore!
+     Let filial duty and obedience plead
+     For his dear life! To my last prayer give heed!
+
+     FELIX.
+     Too much thou lovest an unworthy lord!
+
+     PAUL.
+     Thou gavest him my hand, 'twas at thy word
+     I gave both love and duty; what I give
+     I take not back; oh, Polyeucte must live!
+     For his dear sake I quenched another flame
+     Most pure. Is he my lord alone in name?
+     O, by my blind and swift obedience paid
+     To thy command--be thy hard words unsaid!
+     I gave thee all a daughter had to give,
+     Grant, father, this one prayer--Let Polyeucte live!
+     By thy stern power, which now I only fear,
+     Make thou that power benignant, honoured, dear!
+     Thou gav'st that gift unsought,--that gift restore!
+     I claim it at the giver's hand once more!
+
+     FELIX.
+     Importunate! Although my heart is soft,
+     It is not wax,--and these entreaties oft
+     Repeated waste thy breath, and vex mine ear,
+     For man is deaf to what he will not hear.
+     _I am the master!_ This let all men know,
+     And if thou force that note thou'lt find 'tis so.
+     Prepare to see thy cursed Christian fool,
+     Do thou caress when I have scourged the mule,--
+     Go! vex no more a loving father's ear,
+     From Polyeucte's self win what thou hold'st so dear.
+
+     PAUL.
+     In pity!----
+
+     FELIX.
+     Leave me, leave me here alone!--
+     Say more--my goaded heart will turn to stone;
+     Vex me no more--I will not be denied!
+     Go, save thy madman from his suicide!
+
+     (Exit Pauline.)
+
+     How met Nearchus death?
+
+     ALBIN.
+     The fiend abhorred
+     He hailed,--embraced: 'For Christ!' his latest word;
+     No sigh, no tear,--he passed without amaze
+     Adown the narrow vale with upward gaze.
+
+     FELIX.
+     And he--his friend?
+
+     ALBIN.
+     Is, as I said, unmoved
+     He looks on death but as a friend beloved,
+     He clasped the scaffold as a guide most sure,
+     And, in his prison, he can still endure.
+
+     FELIX.
+     Oh, wretched that I am!
+
+     ALBIN.
+     All pity thee.
+
+     FELIX.
+     With reason greater than they know. Ah, me!
+     Thought surges upon thought, and has its will,
+     Care, gnawing upon care, my soul must kill;
+     Love--hate--fear--pain: I am of each the prey,
+     I grope for light, but never find the day!
+     Oh, what I suffer thou canst not conceive,
+     Each passion rages, but can ne'er relieve;
+     For I have noble thoughts that die still-born,
+     And I have thoughts so base my soul I scorn.
+     I love the foolish wretch who is my son,
+     I hate the folly which hath all undone;
+     I mourn his death,--yet, if I Polyeucte save,
+     I see of all my hopes the cruel grave!
+     'Gainst Gods and Emperor too sore the strife,
+     For my renown I fear,--fear for my life.
+     I must myself undo to save my son,
+     For, should I spare him, then am I undone!
+
+     ALBIN.
+     Decius a father is, and must excuse
+     A father's love--oh, he will not refuse!
+
+     FELIX.
+     His edict is most clear:--'All Christians are my foes.'
+     The higher be their rank the more the evil grows.
+     If birth and state be high, their crime shows more notorious,
+     If he who shield be great, his fall the more inglorious;
+     And if I give Nearchus to the flame
+     Yet stoop to shield my own--thrice damned my name!
+
+     ALBIN.
+     If by thy fiat he cannot escape the grave,
+     Implore of Decius' grace the life thou canst not save.
+
+     FELIX.
+     So would Severus work my ruin quite--
+     I fear his power, his wrath,--for might is right--
+     If crime with punishment I do not mate.
+     How high soe'er, worth what it may, I fear his hate,
+     For he is man, and feels as man, and I
+     Once spurned his suit with base indignity.
+     Yes, he at Decius' ear would work may woe,
+     He loves Pauline, thus Polyeucte is his foe:
+     All weapons possible to love and war,
+     And those who let them rust but laggards are.
+     I fear--and fear doth give our vision scope--
+     E'en now he cherisheth a tender hope;
+     He sees his rival prostrate in the dust,
+     So, as a man he hopes--because he must.
+     Can dark despair to love and hope give place
+     To save the guilty from deserved disgrace?
+     And were his worth so matchless, so divine,
+     As to forbear all ill to me and mine
+     Still I must own the base, the coward hope,
+     'Gainst which my strength is all too weak to cope,
+     That hope whose phoenix ashes yet enthrall
+     The wretch who rises but once more to fall;
+     Ambition is my master, iron Fate,
+     I feel, obey, adore thee, while I hate!
+     Polyeucte was once my guard, my pride, my shield,
+     Yet can I, by Severus, weapons wield,
+     Should he my daughter wed, more tried, more true:
+     What wills Severus--that will Decius do.
+     Upheld by him, e'en Fortune I defy
+     And yet I shrink!--for them, thrice base were I!
+
+     ALBIN.
+     Perish the word! It ne'er was made for thee,
+     But wilt thou deal just meed to treachery?
+
+     FELIX.
+     I go to Polyeucte's cell,--though my poor breath
+     Should there be spent in vain to avert his death;
+     Then, then my fated child her strength shall try.
+
+     ALBIN.
+     What wilt thou do if both he still defy?
+
+     FELIX.
+     O, press me not in agony so great!
+     To thee alone I turn--resistless Fate!
+
+
+
+
+ACT IV--POLYEUCTE. CLEON. THREE OTHER GUARDS
+
+     POLY.
+     What is thy will?
+
+     CLEON.
+     Pauline would see my lord.
+
+     POLY.
+     Ah, how my heart quails at that single word!
+     Thee, Felix, I o'ercame within my cell,
+     Laughed at thy threats if death and torture fell;
+     Yet hast thou still one arm to rouse my fears,
+     The rest I scorn, but dread thy daughter's tears!
+     One only talisman remains; great God, 'tis mine,
+     Sufficient for my every need His strength divine!
+     O thou, dear saint, thy scars all healed, white-robed, in
+          glory crowned,
+     Plead that I too may victory win, thou who hast victory found!
+     Nearchus, who hast clasped in Heaven that dear, that pierced hand,
+     Plead that thy friend, who wrestles here, may safely by thee stand!
+     Ye Guards, one last kind service, I would ask,
+     Well may ye grant it, 'tis an easy task:
+     I do not seek deliverance from these thralls,
+     (Looks at his chains.)
+     I do not care to scale my prison walls,
+     But, since three warriors armed can surely guard
+     One fettered man in safest watch and ward,
+     Go one, and beg of great Severus' grace
+     That he would deign to meet me face to face;
+     To him would I a secret now impart,
+     Which much concerns his joy and peace of heart.
+
+     CLEON.
+     On willing foot, my lord, do I obey.
+
+     POLY.
+     Severus must this kindly service pay;
+     Ah, lose no time, time now has fleetest wings.
+
+     CLEON.
+     Full soon to thee thy prayer Severus brings.
+
+     (Exit Cleon. Guardsmen retire to background.)
+
+     POLY.
+     The fount is pure, yet bitter waters flow,
+     Sin taints--men poison what was made all fair.
+     They will not choose immortal streams: they go
+     To seek for pleasure--but find only care:
+     Their pleasure wed to strife--ah, death the gate of life,--
+     Christ's servants, none but they His crown shall wear!
+     So pain
+     Is gain:
+     Count not the cost!
+     The world well lost,
+     His Heaven to share!
+     O Pleasure, think not that I sigh for thee,
+     Thy charms, that once enslaved, no more delight;
+     In Christ's dear name I bid the tempter flee,
+     His foes are mine,--unlovely in my sight.
+     The mighty from their seat He hurls beneath His feet,
+     His fan is in His hand, His vengeful sword is bright.
+     Their crown
+     Cast down.
+     All hopes most dear
+     They cherish here
+     Shall end in night.
+     O Decius! Tiger! Pitiless! Athirst
+     With quenchless rage, for blood of Christ's redeemed--
+     Armenia shall arise, by thee accursed,
+     On her at last has Light of Asia beamed,
+     And our Deliverer from the holy east
+     Shall dash the cup from thy Belshazzar feast!
+     Secure,
+     And pure,
+     Christ's saints shall reign,
+     And, purged by pain,
+     For aye endure!
+     Let Felix sacrifice me to thine ire,
+     Yea, let my rival captivate the soul
+     Of her who now with Decius doth conspire
+     To chain immortal hope to earthly goal;
+     Let earth-bound men pursue the world's desire,
+     Sense charms not him who doth to Heaven aspire!
+     Hail pain!
+     Disdain
+     All Earthly love,
+     To seek above
+     A holier fire!
+     Oh, Love that passeth knowledge be my stay,
+     And fire my heart to beat alone for thee!
+     Sun of my soul?--oh, flash one purest ray
+     In that last hour supreme--to comfort me,
+     So life's brief night shall merge in endless day!
+     Come, Death!
+     Last breath
+     Shall praise thy name,
+     The same, the same,
+     For aye! For aye!
+     O heavenly fire, most pure, embracing all,
+     Come, shield me from Pauline, else must I fall!
+     I see her, but no more as once I saw--
+     I am encased in armour without flaw:
+     To eyes that gaze alone on heavenly light,
+     Naught else is pure, or dear, or fair, or bright!
+
+     (Enter Pauline)
+
+     With what intent, Pauline, hast thou come here?
+     Have I a friend to aid, or foe to fear?
+     Is it Christ's soldier that thou com'st to greet?
+     Or wouldst thou sink my triumph in defeat?
+     If thou wouldst bid me spurn the debt I owe,
+     Not Decius, but Pauline, my deadliest foe!
+
+     PAUL.
+     All, save thyself, to thee, my love, are friends:
+     Love but thyself, love me,--thy torment ends.
+     Alone thou seal'st thy doom, alone wouldst shed
+     That blood by all Armenia honoured.
+     Yes, thou art saved, if thou for mercy plead;
+     Demand thy death, and thou are lost indeed.
+     Think of the worth of this self-hated life,
+     And think in pity of Pauline,--thy wife!
+     Think of the people that their prince adores,
+     Think of the honours Felix on thee pours!
+     Oh, I am nothing, nothing unto thee,
+     But, husband, think how dear thou art to me!
+     Think how the path of glory on thee opes,
+     Thou dearest lodestar of a nation's hopes!
+     Shall blood of kings be but the headsman's sport?
+     Is life a toy wherewith thy death to court?
+
+     POLY.
+     I think of more than this; I know what thou wouldst say.
+     Our life is ours to use, and we that debt must pay.
+     What life is this men love? An idle, empty dream,
+     Where nothing can endure,--where all things only seem.
+     Death ends their every joy which fickle Fortune leaves,
+     They gain a royal throne to learn how pomp deceives;
+     They gather wealth that men may envy their estate,
+     They clear a path by blood, so envy turns to hate.
+     Such vast ambition mine as Caesar never knew,
+     Death bounds it not, for death is but its servant true.
+     Peace that the world ne'er gave, and cannot take away,
+     That peace, Pauline, is mine, mine wholly, mine for aye!
+     Nor time, nor fate, nor chance, nor cruel war,
+     Can touch this peace, or this my kingdom mar.
+     Is this poor life--the creature of a day
+     For endless peace too great a price to pay?
+
+     PAUL.
+     'Out on these Christian dreams!' my reason cries;
+     Whene'er they speak of truth, they utter lies.
+     Thou say'st: 'To win such prize my life is naught!'
+     But is thy life thine own? How was it bought?
+     Our life an heirloom to our country due;
+     What gave thee birth, demands thy service too?
+     Pay, then thy debt to her who has the right!
+
+     POLY.
+     Ah, for my country I would gladly fight!
+     I know the glory of a hero's name,
+     I feel the thrill,--I recognise the claim.
+     My life I owe to whom I owe my sword--
+     But most to Him who gave it--to the Lord!
+     Oh, if to die for fatherland be sweet,
+     To die for Him--my God--what word is meet?
+
+     PAUL.
+     Which God?
+
+     POLY.
+     Hush! hush! Pauline; the God who hears
+     And answers prayers,--gives hopes, assuages fears.
+     Thy gods are deaf and senseless, maimed and weak,
+     Tongues, mouths they have, and yet they cannot speak.
+     The Christians' God alone is mine,--is thine,
+     Jehovah only rules--supreme--divine!
+
+     PAUL.
+     Adore Him in thy heart, but say no word!
+
+     POLY.
+     What! Can I call Jove and Jehovah--Lord?
+
+     PAUL.
+     One moment feign. Ah, let Severus go!
+     Let but my father all his kindness show!
+
+     POLY.
+     Another Father mine! His love most dear
+     Removes me from a world begirt with fear.
+     For life's stern race too weak, too frail am I,
+     So, by kind death, He gives me Victory.
+     Pure from the holy font--(His mercies never fail!)
+     He brings His barque to port, when it hath scarce set sail.
+     Couldst thou but understand how poor this earth,
+     Couldst thou but grasp how great this second birth!
+     And yet, why speak of treasure rare concealed
+     From one to whom light is yet unrevealed?
+
+     PAUL.
+     O cruel! I can strangle pain no more!
+     Is this the fruit of all thy heavenly lore?
+     They say thy Christ His enemies did bless,
+     Thou addest insult to my deep distress.
+     How is my soul so dark--which was so fair?--
+     Thou call'dst me 'lovely'--'dear'--'beyond compare!'--
+     Of my bereavement have I said no word,
+     I stilled my grief that I might soothe my lord!
+     They say that love has wings, and all they say is true,
+     For all thy love has flown; yet can I ne'er undo
+     The vows I made, the troth I plighted binds me still!
+     Thou fain wouldst quit thy wife, and thou shalt have thy will.
+     Oh, but to leave my side with rapture, ecstasy,
+     No jealous Christ can will: why grudge me one poor sigh?
+     This joy, this transport fierce, endeavour to conceal.
+     I do not share thy creed, but I, at least, can feel!
+     Why gloat o'er heavenly gain, crowns, palms, I know not what--
+     Where Polyeucte is blest, but where Pauline is not?
+     Soul, body, spirit, I am thy true wife, to own
+     That I am but a bar to happiness unknown!
+
+     POLY.
+     Alas!
+
+     PAUL.
+     O! that 'Alas!'--so faint, so tame!
+     Yet, if repentant from thy heart it came,
+     'Twould waken hope, still brief, and banish fears:
+     I wait the birth of thy reluctant tears.
+
+     POLY.
+     These tears I shed! O, might the Spirit pour
+     Through them the light, the light that I adore--
+     Then were my only grief all swept away,
+     For thou wouldst join me in the realms of day!
+     Else Heaven itself would have its bitterness,
+     Should I look down to witness thy distress!
+     O God, who lov'st the dust on which Thy breath
+     Hath stamped Thine image true--save her from death!
+     The only death that kills, and let my love
+     From Heaven woo her to the realms above!
+     Lord, hear my call! My inmost heart now see,
+     Who lives a Christian life must Christian be!
+     Her nature god-like, stamped from print divine;
+     She must be sealed Thine own, yes, only Thine!
+     Say, must she burn, condemned to depths of hell?--
+     Thy Will be done--Who doest all things well!
+
+     PAUL.
+     O wretch, what words are these? Thou dost desire----
+
+     POLY.
+     To snatch thee from a never-ending fire.
+
+     PAUL.
+     Or else?
+
+     POLY.
+     O God, I trust to Thy control,
+     Who when we think not, canst illume the soul!
+     The when--the how--is His--here am I dumb,--
+     I wait--I wait--That blessed hour will come!
+
+     PAUL.
+     Oh, leave illusions! Love me!
+
+     POLY.
+     Thee I love
+     Far more than self, but less than God above!
+
+     PAUL.
+     For love's dear sake, ah, listen to my prayer!
+
+     POLY.
+     For love's dear sake--await the answer _there_!
+
+     PAUL.
+     To leave me here is naught! Thou wouldst seduce my soul!
+
+     POLY.
+     Heaven is scarce Heaven for me, if thou reach not the goal.
+
+     PAUL.
+     O fancy-fooled!
+
+     POLY.
+     Nay, led by heavenly light!
+
+     PAUL.
+     Thy faith is blindness!
+
+     POLY.
+     Faith is more than sight!
+
+     PAUL.
+     Ah, death, strange rival to a wife's pure love!
+
+     POLY.
+     This world our rival with the joys above!
+
+     PAUL.
+     Go, monster! woo thy death! Thou lov'dst me never!
+
+     POLY.
+     Go, seek the world! and yet I love thee ever!
+
+     PAUL.
+     Yes, I will go--if absence bring relief--
+
+     (Enter Severus, Fabian and Guards)
+
+     Who comes to invade, ah, not to cure my grief?
+     Severus! Who could guess that thou wouldst show
+     Revenge unworthy o'er a prostrate foe?
+
+     POLY.
+     Unworthy thee the thought, Pauline, for I
+     Severus called, and he hath heard my cry.
+     My importunity he will excuse,
+     My prayer I know that he will not refuse.
+     Severus--this--the treasure that was mine
+     To thy most tender care I now resign:
+     To thee, as noblest man that I have known;--
+     Since earthly ties and joys I must disown.
+     The gift is worthy thee,--I know thy worth
+     Is great, but she no equal hath on earth.
+     My life, the bar,--my death the link shall be,--
+     Oh, grudge me not my dear brief ecstasy!
+     Oh, ease the heart that once was hers,--and guide
+     Her doubting footsteps to the Crucified!
+     This my last benison! All else is poor!
+     Await the promised light! Believe! Endure!
+     But words are vain!
+
+     (Polyeucte signs to Guards to conduct him back to prison. Exeunt
+     Polyeucte and Guards.)
+
+     SEV.
+     Most vain! No word have I
+     Such blindness must amaze! must stupefy!
+     Nay, this is frenzy! I cannot conceive
+     A mind so strange! Mine ears cannot believe
+     That one who loved thee--yet, who would not love
+     A face that must the great immortals move?--
+     Blessed by thy heart!--Thy sweetest lips to taste!--
+     Then leave, refuse, spurn--yield with clamorous haste,
+     To yield a girl so dear--so pure--so fair!
+     And of that gift to make thy rival heir--
+     This beggars madness! Or the Christian bliss
+     Beyond man's soul to grasp! To spurn thy kiss!--
+     We treasure barter for a just exchange,
+     But to buy pain for thee! Pauline, 'tis strange!
+     Not thus, ye Gods! Severus had been blind
+     To perfect bliss--had Fortune been more kind
+     The only heaven for me is in thine eyes,
+     These are my kings, these my divinities!
+     To me--for thee--were death with torture dear;
+     But to renounce thee!
+
+     PAUL.
+     Nay, I must not hear!
+     Thy words bring back the dear, the bygone days,
+     When I, a maid, might listen to thy praise:
+     Severus, thou must know my inmost heart;
+     I hear the knell bids Polyeucte depart.
+     He dies,--the victim of thine Emperor's laws,
+     And thou, though innocent, art yet the cause.
+     Oh, if thy soul, to thy desires a slave,
+     See hope emerging from my husband's grave
+     Then will I wed with pain--despair embrace,--
+     But wed Severus? Never! 'Twere disgrace!
+     To light fresh torch from that pale, flickering fire--
+     Oh, bliss too monstrous! Thrice abhorred desire!
+     Back, hope! Back, happiness! The mate for me
+     When Polyeucte leaves my side--is Constancy!
+     Were this my will, were this, ye Gods, my fate--
+     To shame would memory turn, as love must yield to hate!
+     But generous art thou--most generous be!
+     His pardon will my father grant to thee.
+     He fears thee: more, if Polyeucte's life he take,
+     For thee he slays him--yes, 'tis for thy sake.
+     Christ died for man--let pagan virtue dim
+     His fame: plead for thy foe! so rival him!
+     No easy boon I ask, there needs a soul most rare;
+     But when the fight is fierce--then is the victory fair.
+     To help a man to be what thou wouldst be
+     Is triumph that belongs alone to thee!
+     Let this suffice thee: she, whom thou hast loved,
+     She, who by thy great love was not unmoved,
+     Of thee, and of no other dares to crave
+     That thou, Severus, shouldst my husband save!
+     Farewell! of this thy labour gauge the scope:
+     If thou art less than I yet dare to hope,
+     Then tell me not! all else Pauline can bear!
+
+     (Exit Pauline.)
+
+     SEV.
+     Where am I, Fabian? Has the crack of doom
+     Turned heaven to hell? made life a living tomb?
+     Nearer and dearer ever--but to go!
+     The prize within my grasp must I o'erthrow?
+     This--Fortune's brimming cup, with poison filled,
+     She bids me drain;--so new-born hope is killed.
+     Before I proffer aught, I am refused;
+     Thus sad, amazed, ashamed, in doubt, abused,
+     I see the ghost I laid, to life revive,
+     The more seductive still the more I strive.
+     Ah! must a woman, sunk in deep despair,
+     Teach me that shame is base, and honour fair?
+     And while I madly shriek, 'O love, be kind!'
+     Pauline, death-stricken, keeps an equal mind!
+     O generous, but stern! Must these dear eyes,
+     Because I love them, o'er love tyrannise?
+     'Tis not enough to lose thee, I must give
+     My aid--to make my faithless rival live!
+     'Tis not enough: his death I would not plan,
+     But I must save him! bless where I would ban!
+
+     FABIAN.
+     Ah, let the whole crew light one funeral pyre;
+     Yes, let the daughter perish with her sire!
+     This curs'd Armenian is one hornet's nest--
+     Crush all, then sail for Rome, ah! this were best!
+     She loves thee not. What canst thou hope to gain?
+
+     SEV.
+     A glory that shall triumph over pain;
+     'Tis hers, and, by the Gods, it shall be mine!
+     Nor God nor fiend can sully such a shrine!
+
+     FABIAN.
+     Speak low, for Jove has bolts, and Hell has ears!
+     The dangers of this course arouse my fears.
+     What? Decius implore a Nazarene to save!
+     'Tis death that hath thy heart; thou woo'st a grave.
+     His rage against the sect thou knowest well,
+     His power unbridled--his revenge is fell.
+     To plead for Christians is a task too great,
+     For man or God: thou rushest on thy fate.
+
+     SEV.
+     Yes, such advice, I know, is much approved,
+     Yet not thus can Severus' soul be moved.
+     To Fate unequal--equal to myself--
+     In duty's path I go. For power and pelf
+     I never swerve where honour leads the way;
+     Come weal, come woe, her call I must obey.
+     Let fate depress an all unequal scale,
+     Let Clothe hold her distaff--I'll not fail!
+     Yet one more word--this to thy private ear--
+     The fables that thou dost of Christians hear
+     Are fables only, coined, I know not why,
+     Distorted are they seen in Decius' eye.
+     They practice the black art,--so all men say.
+     I sought to learn the laws that they obey,
+     And to discover what the secret guilt
+     The which to expiate their blood is spilt.
+     Yet priests of Cybele dark rites pursue
+     At Rome--untrammelled--this is nothing new:
+     To thousand gods men build, unchecked, their fanes,
+     The Christians' God alone our state disdains.
+     Each foul Egyptian beast his temple rears,
+     Caligula a god to Roman ears--
+     Tiberius is enshrined--a Nero deified--
+     To Christ--to Christ alone--a temple is denied!
+     Such metamorphoses confuse the mind
+     As gods in cats, and saints in fiends we find;
+     As Ruler absolute Jehovah stands,
+     Alone o'er heaven and earth and hell commands,
+     While pagan gods each 'gainst the other strive,
+     And ne'er one queen is found o'er all the hive,
+     Now--(strike me dead, Jove's tarrying thunderbolt!)
+     So many masters must provoke revolt.
+     And ah! where Christians live--there life is pure,
+     Vice dies untended, virtues all endure.
+     We give these men to rack, and cord, and flame,
+     While they forgive us--in their Pardoner's name.
+     They no sedition raise, they ne'er rebel,
+     Rome makes them soldiers, and they serve her well.
+     They rage in battle, faithful ward they keep,
+     They fight like lions, but they die like sheep.
+     They serve the State: Rome's servant must defend
+     Those who to might of Rome such succour lend.
+     Pauline, I will obey, whate'er befall;
+     The man who loseth honour loseth all.
+
+
+
+
+ACT V--FELIX. ALBIN. CLEON
+
+     FELIX.
+     Caught in Severus' net thy Felix see!
+     He hates and holds me--oh, the misery!
+
+     ALBIN.
+     I see a generous man, who cries, 'Forgive,
+     Let Pauline smile once more--let Polyeucte live!'
+
+     FELIX.
+     His soul thou canst not read--tho' noble heart he feigns.
+     The father he abhors,--the daughter he disdains!
+     What Polyeucte won he sought: his suit denied,
+     Severus sues no more,--I know his pride.
+     His words, his prayers, his threats for Polyeucte plead,
+     His _tongue_ says, 'Listen, or be lost indeed!'
+     Unskilled the fowler who his snare reveals:
+     If at the bait I snatch--my doom is sealed:
+     Too plain, too coarse, this web for any fly--
+     Shall I this spider hail in my fatuity?
+     His wrath is wrath arranged, his generous fire is nursed,
+     That I, at Decius' hand, may meet the doom accurst,
+     If I should pardon grant--that grace my crime would be,
+     For he the spoil would reap of my credulity.
+     No simpleton am I, each promise to believe,
+     Words--oaths--are but the tools wherewith all men deceive;
+     Too oft escaped am I to be so lightly caught;
+     I know that words are wind. I know that wind is naught.
+     The trapper shall be trapped,--the biter shall be bit,
+     Unravelled is the web that he, poor fool, hath knit!
+
+     ALBIN.
+     Jove! What a plague to thee is this mistrust!
+
+     FELIX.
+     Nay, those at court must fence; their weapons never rust,
+     If once thou yield the clue to thread the maze,
+     The sequence is most plain--the man betrayed betrays;
+     Severus, and his gifts, alike I fear!
+     If Polyeucte still to reason close his ear,
+     Severus' love is hate--his peace is strife--
+     First law of nature this, 'Preserve thy life!'
+
+     ALBIN.
+     Ah, let Pauline at least thy grace obtain!
+
+     FELIX.
+     If Decius grace withhold, my pardon vain!
+     And--far from saving this rebellious son--
+     Behold us all alike entrapped, undone!
+
+     ALBIN.
+     Severus' promise----
+
+     FELIX.
+     He can never keep!
+     For Decius' rage and hatred never sleep:
+     If for that sect abhorred Severus plead,
+     He trebles loss--so are we lost indeed!
+     One only way is ours,--that way I try:
+     (To Guards)
+     Bring Polyeucte and if he still defy,
+     Self-doomed, insensate, this my proffered grace,
+     He shall the death he wooes forthwith embrace!
+
+     ALBIN.
+     Ah, this is stern!
+
+     FELIX.
+     'Tis stern, 'tis just--as fate;
+     When justice drags a halting foot, too late,
+     She is not justice--for the vengeful mob
+     (Whose hearts for Polyeucte ne'er cease to throb),
+     Usurps her place, and, spurning curb and rein,
+     The felon crowns, and all our work is vain.
+     My sceptre trembles, and all insecure
+     Totters my crown,--a prey for every boor.
+     Then, swift, Severus hears the welcome news,
+     The jaundiced mind of Decius to abuse.
+     Shall I, the rabble's lord, obey the rabble's will?
+
+     ALBIN.
+     Who ill in all around foresees,--but doubles ill.
+     Each prop thou hast is but a sword to pierce;
+     If Polyeucte hold their heart, the people fierce
+     Will gather fiercer courage from despair.
+
+     FELIX.
+     Death settles all; they'll find no helper there,
+     And if--without a head--the body should rebel,
+     Convulsive throes I mock, and nerveless fury quell.
+     Whate'er ensues the Emperor must approve,
+     I shall have done my part, and win his love.
+     Here comes the man
+
+     (Enter Polyeucte and Soldiers)
+
+     I still must try to save;
+     If he repent--'tis well! If not--the grave!
+     (To Polyeucte)
+     Is life still hateful? Doth death still allure?
+     Is earth still naught? Do heavenly joys endure?
+     Doth Christ still counsel thee to hate thy wife;--
+     To sheathe thy sword,--to cast away thy life?
+
+     POLY.
+     I never hated life, or wooed a grave,
+     To life I am a servant--not a slave.
+     Here service free I give upon this earth below,--
+     For higher service changed when to His Home I go.
+     Eternal life is this: to tread the path He trod;
+     To Him your body yield! Then trust your soul to God!
+
+     FELIX.
+     Yes, trust to an abyss of depth unknown!
+
+     POLY.
+     No, trust to Holy Cross! That Cross my own!
+
+     FELIX.
+     The steep ascent, my son, I too would climb,
+     Yes, I would Christian be,--but--give me time,--
+     By Jove! I'll tread thy path! This my desire.
+     Else at thy hand the judge may me require!
+
+     POLY.
+     Nay, laugh not, Felix! He thy Judge will be,
+     No refuge there for impious blasphemy!
+     Nor kings nor clowns can 'scape His righteous ire,
+     His slaughtered Saints of thee will He require!
+
+     FELIX.
+     I'll slay no more;--by Hercules I swear!
+     So I a Christian crown perchance may wear;
+     I will protect the flock!
+
+     POLY.
+     Nay, rather be
+     A goad, a scourge, for their felicity!
+     Let suffering purify each Christian soul,
+     Cross, rack, and flame but lead them to their goal;
+     What here they lose--in Heaven an hundredfold they find.
+     Be cruel,--persecute!--and so alone be kind!
+     My words thou canst not read; thine eyes are blinded here,
+     Wait the unveiling _There_! Then understand and fear!
+
+     FELIX.
+     Nay, nay, in truth I would a Christian be!
+
+     POLY.
+     In thy hard heart alone a bar I see.
+
+     FELIX (whispering).
+     This Roman knight----
+
+     POLY (aloud).
+     Severus, thou wouldst say.
+
+     FELIX.
+     Once let him sail, I will no more delay,
+     For this I anger feign;--let him depart!
+
+     POLY.
+     'Tis thus thou wouldst reveal a Christian heart?
+     To idols dumb--to Pagans blind, thy sugared poison bear,
+     Christ's servants quaff another cup, sure refuge from despair.
+
+     FELIX.
+     What is this deadly draught that thou wouldst drain?
+     I'll drink thy wine.--Till then, from death refrain!
+
+     POLY.
+     To swine no more my holy pearls I cast,
+     Faith,--_faith_--not reason, shall see light at last;
+     Soon--when I see my God--yes, face to face,
+     I will implore that Felix may find grace.
+
+     FELIX.
+     O dearest son, thy loss were death to me!
+
+     POLY.
+     This loss can be repaired--the remedy
+     Find in Severus; he will take my place;
+     By Decius honoured he will not disgrace
+     Thy house: my death will an advantage win
+     For thee, for her, for me.--The work begin!
+
+     FELIX.
+     Such my reward! Yes, insult is the child
+     Of injury. The grace I grant, reviled,
+     Shall turn to swift revenge. The gods defied
+     May do their will and speed the suicide!
+
+     POLY.
+     I thought the gods were dead, but they revive
+     With human passion; Felix, do not strive
+     Against thy nature; lay aside thy ruth;
+     Who loves a lie can never follow truth.
+
+     FELIX.
+     I humoured madness, but the mood is o'er,
+     I am myself again; I did implore,--
+     'Twas vain; the dark abyss that yawns for thee
+     May hold thee now, tomb to thy constancy.
+     The hope I cherished--fondled--now is flown
+     Severus will be king, and I o'erthrown;--
+     Shall I the gods by incense pacify?
+     Or by thy death? for thou, at last, must die!
+
+     POLY.
+     Incense might but incense; I cannot tell:
+
+     (Enter Pauline)
+
+     Pauline!
+
+     PAUL.
+     That word broke from thee like a knell;
+     Who seeks my doom to-day? Thou--or my sire?
+     Who fires the brand? Who lights the funeral pyre?
+     My father should, by nature, be my friend,
+     And lover's heart to love an ear should lend.
+     Who here is mine ally, and who my foe?
+     Who has a heart to feel?--this would I know.
+
+     FELIX.
+     Nay, to thy lord appeal.
+
+     (Pauline turns to Polyeucte)
+
+     POLY.
+     Severus wed!
+
+     PAUL.
+     Ah, this is outrage! Rather strike me dead!
+
+     POLY.
+     Oh, dearer than myself to me thy weal!
+     My love would never wound, it seeks to heal.
+     I see thee wrestle with thy deep distress
+     Alone--unless Severus bring redress;
+     His merit, that once gained thy maiden heart,
+     Hath still that worth when I from thee must part,
+     Once loved--and loving still--his honour grows.
+
+     PAUL.
+     Thy wife's true heart another treatment owes:
+     O base reproach! For this I crushed for thee
+     My former love: that I disdained might be?
+     This my reward for dearest victory won,--
+     I did that love undo--to be myself undone!
+     Resolve, faith, abnegation, all were vain,
+     For thy return is outrage heaped on pain.
+     Oh, sunk in tomb of shame, most vile, most mean,
+     Come back to life--to honour--to Pauline!
+     (Holds out her arms.)
+     To learn from her that loyalty and faith
+     Religion are:--and all beside but death!
+     Once more Alcestis wrestles with the tomb,
+     Arise, arise from thy enthralling doom!
+     And if my invocation feeble be,
+     Regard the tears--the sighs,--shed--breathed for thee!
+     Love is too weak a word--I thee adore!
+
+     POLY.
+     Once have I said--yet now I say once more--
+     'Live with Severus, or--with Polyeucte die!'
+     Thy tears are mine, and thy pure constancy
+     I share: But--I am soldier of the Cross!
+     Take up thine own, and count all gain but loss!
+     Pauline--no more!
+     (To FELIX.)
+     Thy slumbering wrath rewake!
+     Thy fates and furies wait! Their vengeance slake!
+
+     PAUL.
+     His life is saved! These fetters all undo!--
+     For justice never yet a madman slew;
+     And he is mad,--but, father, thou art sane,
+     And thou, his father, must his friend remain.
+     A father cannot less than father be,
+     Oh, be to him what thou hast been to me!
+     But cast upon thy child a kinder eye,--
+     Slay him?--Then know that I am doomed to die!
+     But even if justly done to death were he,
+     The sentence wrong that, with him, slayeth me.
+     For double death would double wrong present,
+     And slay the guilty with the innocent.
+     'Twas thou didst link us closely hand in hand,
+     'To live in bliss together' thy command.
+     Oh, shall the will that both our lives did bless
+     Doom both these lives to death--to nothingness?
+     When lips are sealed to lips, and heart to heart,
+     'Tis tyranny, not law, such love to part.
+     Oh, not a tyrant, but a father be,
+     Forgive,--give back--restore my love to me!
+
+     FELIX.
+     Dear child, thy father is thy father still,
+     Nothing hath parted us, and nothing will.
+     My heart is tender, and it beats for thee:
+     Against this madman let us joined be.
+     O wretched man, hast thou no eyes to see, no heart to feel?
+     Thy guilt, thy crime, I would efface, thy pardon I would seal,
+     _For_ thee my daughter cannot die--say, must she die _with_ thee?
+     A victim to the only sin which ne'er can pardoned be.
+     O sight most strange! Here at thy knees as suppliant I sue!
+     (Felix kneels.)
+     The evil that thyself hast wrought--that ill thyself undo!
+
+     POLY.
+     Arise, old man, from knees unused to bend,
+     Or to another ear petition send!
+     This artifice befits nor me nor thee,
+     To beg of one twice threatened!--Mockery!
+     First, by thy hand Nearchus felt the flame,
+     Then love, forsooth, thy plea--(profaned name!)
+     The path of Christian neophyte hast thou trod,
+     And, in God's name, hast mocked Almighty God!
+     Earth, heaven, and hell in turn have been thy tool,
+     And him thou hast traduced thou wouldst befool!
+     Go,--bully-flatterer--liar!--Every part
+     Thou playest, while delay doth break my heart!
+     Enough of dallying! While thou dost dissolve
+     Thy feeble soul in doubt, hear my resolve:
+     The God who made me--Him will I adore;
+     He holds my plighted faith,--and evermore
+     He works salvation for his ransomed race--
+     Who gave His Son to death that we might life embrace;
+     And this--Christ's sacrifice--continued day by day,
+     The Christ reveals and pleads--The Life--The Truth--The Way!
+     No more His mysteries to self-stopped ears
+     Will I disclose--(he heedeth not nor hears.)
+     (Pointing to Felix.)
+     Pray then to these thy gods of wood and stone,
+     To gods who every deed of crime enthrone,
+     Who boast their malice, and their foul incest,
+     Vaunt theft and murder--all that we detest.
+     This, their example,--Pagan--follow thou!
+     To Pluto bend, to Aphrodite bow!
+     For this I broke their altars, rased their shrine,--
+     Yea, for those crimes that thou dost call divine!
+     And what I did, that would I do once more
+     Before Severus--Decius,--nay, before
+     The eyes of all men;--so would I proclaim
+     One God alone adored,--one Holiest Name!
+
+     FELIX.
+     At last my bounties yield to wrath most stern, most just.
+     Die! or the gods adore!
+
+     POLY.
+     A Christian I!
+
+     FELIX.
+     Thou must
+     Adore the gods I say! Adore, or die!
+
+     POLY.
+     I am a Christian.
+
+     FELIX.
+     This is thy reply?
+     Ye Guards, do my behest--prepare the knife!
+
+     PAUL.
+     Where goes he?
+
+     FELIX.
+     To his death!
+
+     POLY.
+     Ah, no to life!
+     (To Pauline.)
+     Remember me! Farewell, Pauline, farewell!
+
+     PAUL.
+     Nay, I will follow thee--to heaven or hell!
+
+     FELIX.
+     Begone! For all our ills this one redress!
+
+     (Exeunt Pauline, Polyeucte and Guards.)
+     (Enter Albin)
+
+     O task ungrateful to my gentle mind!
+     Well did he say, 'Be cruel to be kind!'
+     The people I defy, ah, let them rage!
+     Severus may in war of words engage.
+     Yes, I have saved myself--I mean _the State_,
+     To wilful man there comes relentless fate;
+     My conscience pure of all reproach,--for I
+     Have lied and stormed to shake his constancy.
+     To give his hot young blood due time to cool
+     I played the coward--nay, I played the fool!
+     Why did he thus assail the gods and me
+     With insult, and with horrid blasphemy?
+     But interest helped me, and resentment too.
+     Else had I found my duty hard to do!
+
+     ALBIN.
+     Soon mayst thou this thy dear-bought victory rue,
+     For thou hast done what thou canst ne'er undo!
+     Unworthy deed for Roman knight! ah, me!
+     (Aside.)
+     I would that I could add, 'unworthy _thee_!'
+
+     FELIX.
+     Manlius and Brutus both a son have slain,
+     And neither did thereby his glory stain;
+     The part that is diseased--that part we bleed,
+     So is the State from knaves and caitiffs freed.
+
+     ALBIN.
+     Revenge and pressing peril thee unman,
+     Else--couldst thou bless a deed all men must ban?
+     When she, thy widowed daughter, comes--the air
+     Of heaven will echo to her deep despair!
+
+     FELIX.
+     Thou dost remind me she with Polyeucte went--
+     I know not with what mind, with what intent:
+     But her despair awakes my fond alarm,
+     Go, Albin, go, and guard my child from harm!
+     She might the execution of the law
+     Impede: I would not that his death she saw.
+     Try to console her--Go! what dost thou fear?
+
+     (Enter Pauline)
+
+     ALBIN.
+     I need not go, for ah--Pauline is here!
+
+     PAUL.
+     Tyrant, why leave thy butchery half done?
+     Come, slay thy daughter, thou hast slain thy son!
+     For, hear!--His villainy--or worth--is mine!
+     Why stay thy hand while I my neck incline?
+     Thy sword in me shall find a kindred food,
+     I too am new baptized, baptized in blood!
+     These drops that fell from off the murderous knife,
+     Have made the martyr's widow a true wife.
+     I see!--I feel!--I know! My darkest night
+     Is o'er--to break in purest heavenly light.
+     I too, at last, am Christ's: that word says all,
+     Those hands were pierced for me--I hear His call:
+     Death--lovely death--thy beckoning hand I hail!
+     Oh, help my passage, or thy schemes may fail!
+     Dread Decius! Fear Severus! Fear thy fall!
+     Oh, speed me to my lord--my love--my all!
+     My husband calls me to his happier land--
+     See!--there Nearchus at his side doth stand!
+     Lead me to these--the gods by thee confest,
+     Some shrines spared Polyeucte, I will break the rest!
+     There, there the gods thou fearest I will brave,
+     Oh, bare thy knife!--no other gift I crave.
+     _Thou_ hast my master been: another Lord
+     Claims my obedience now; yes, raise thy sword!
+     Revolt is holy when for Christ we fight,--
+     My day has dawned, the day that knows no night!
+     Once more I cry--'Christ only has my heart!'
+     Thy bliss and mine secure! Let me depart!
+     Keep thou thy kingdom! Safe its treasure hold!
+     My kingdom there--with Christ--within the fold!
+
+     (Enter Severus)
+
+     SEV.
+     Unnatural sire, whose craft leads to the grave,
+     The slaves of fear themselves alone enslave.
+     Yes, Polyeucte is slain, and slain by thee,--
+     A sacrifice to greed and treachery.
+     I offered rescue from the opening tomb,
+     Base doubts enthralled thee, didst seal his doom;
+     I prayed, I threatened, thou wouldst not believe,
+     Deceiver thou, so must all men deceive.
+     Thou thoughtst me coward, liar--thou shalt see
+     All oaths Severus swears fulfilled shall be.
+     Poor moth! I might have saved thee--nay, I planned to save,
+     Thy perfidy the torch that marks thee for the grave.
+     Drench earth in blood,--for Jove pour forth malignant zeal,
+     The strokes that thou hast dealt redoubled shalt thou feel!
+     I go: the storm shall break o'er this devoted land,
+     From Jove the bolt?--maybe--but I direct his hand.
+
+     FELIX.
+     Why lags that hand? A willing victim I,
+     I choose to suffer for my perfidy;
+     My doubts, my fears unworthy, all I own,
+     I have offended--let my death atone.
+     Take thou my honours, their poor lustre thine,
+     I kneel before another, nobler shrine.
+     The Power that moved me, groping through the night
+     Of wrong and darkness, wafts me to The Light!
+     I slew thee, Polyeucte, but thy pardoning hand
+     Shall guide thy murderer to the better land!
+     He prays for me, and by his sacrifice,
+     New-born upon his ashes I arise.
+     (To Pauline.)
+     Raised by his death from out the grave of sin,
+     Thou tread'st the path thy father shall begin;
+     By me his martyr-crown, as all my bliss
+     By him. His Christ is mine, and I am his;
+     O, blessed Christian vengeance! All my loss
+     Is turned to gain by the redeeming Cross!
+     Now, Pauline, am I thine, a Christian I,
+     That Death gives life by which alike we die!
+     (To Severus.)
+     Then slay us both! Behold a willing prey!
+
+     PAUL.
+     (To Felix.)
+     Yes, mine for ever now! Hail, glorious day,
+     That sees earth's loss transformed to endless gain!
+
+     FELIX.
+     The gain, the glory, Christ's! By Him we reign.
+
+     SEV.
+     Now am I dumb, some miracle is here;
+     Their courage and their faith must I revere;
+     We slay them; yet, like Cadmus' seed, new-born
+     They sprout afresh, and laugh our scythe to scorn.
+     We give them cord and flame, they torture hail;
+     Friends fail them, but themselves they never fail.
+     We mow them down, fresh nurslings to unbare,
+     What moves the seed lies hid, but _it is there_.
+     They bless the world, though by the world accurst,
+     Their shield am I--let Decius do his worst.
+     I yet may own their power, though now my will
+     That each to his own gods be faithful still,
+     Let each still search for truth, and truth adore.
+     (To Felix).
+     A Christian thou? Then fear my wrath no more,
+     Thy sect I cherish; this their awful cult
+     Severus will protect, but ne'er insult.
+     Keep thou thy power from Roman sword secure,
+     So long as loyalty with faith endure;
+     I swear it: ay, the Emperor shall learn
+     The guiltless from the traitor to discern;
+     His persecution baseless as his fear.
+
+     FELIX.
+     Severus--thou who hast the hearing ear,--
+     Freeman of Rome--God's Spirit grant thee grace
+     To be Christ's Freeman, and behold His face:
+     To these--Christ's martyrs--earth's last rites be given,
+     Earth, guard their ashes as a trust for Heaven!
+     Earth hides their dust. When envious time is o'er,
+     That dust shall wake to life for evermore!
+
+
+
+
+
+End of the Project Gutenberg EBook of Polyeucte, by Pierre Corneille
+
+*** END OF THIS PROJECT GUTENBERG EBOOK POLYEUCTE ***
+
+***** This file should be named 2543.txt or 2543.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/5/4/2543/
+
+Produced by Dagny; Emma Dudding; John Bickers; David Widger
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

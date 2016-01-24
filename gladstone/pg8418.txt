@@ -1,0 +1,5319 @@
+﻿The Project Gutenberg EBook of Hippolytus and The Bacchae, by Euripides
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Hippolytus and The Bacchae
+
+Author: Euripides
+
+Translator: Gilbert Murray
+
+
+Release Date: July, 2005 [EBook #8418]
+This file was first posted on July 8, 2003
+Last Updated: May 14, 2013
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HIPPOLYTUS AND THE BACCHAE ***
+
+
+
+
+Produced by Ted Garvin, Charles Bidwell and the Online
+Distributed Proofreading Team
+
+
+
+
+
+
+
+
+
+HIPPOLYTUS and THE BACCHAE
+
+By Euripides
+
+Translated by GILBERT MURRAY
+
+
+
+Nine  Greek  Dramas
+
+By Aeschylus, Sophocles, Euripides And Aristophanes
+
+Translations By
+  E.D.A. Morshead
+  E.H. Plumptre
+  Gilbert Murray
+    And
+  B.B. Rogers
+
+
+INTRODUCTORY NOTE
+
+Euripides, the youngest of the trio of great Greek tragedians was born at
+Salamis in 480 B.C., on the day when the Greeks won their momentous naval
+victory there over the fleet of the Persians. The precise social status of
+his parents is not clear but he received a good education, was early
+distinguished as an athlete, and showed talent in painting and oratory. He
+was a fellow student of Pericles, and his dramas show the influence of the
+philosophical ideas of Anaxagoras and of Socrates, with whom he was
+personally intimate. Like Socrates, he was accused of impiety, and this,
+along with domestic infelicity, has been supposed to afford a motive for
+his withdrawal from Athens, first  to Magnesia and later to the court of
+Anchelaüs in Macedonia where he died in 406 B.C.
+
+The first tragedy of Euripides was produced when he was about twenty-five,
+and he was several times a victor in the tragic contests. In spite of the
+antagonisms which he aroused and the criticisms which were hurled upon him
+in, for example, the comedies of Aristophanes, he attained a very great
+popularity; and Plutarch tells that those Athenians who were taken captive
+in the disastrous Sicilian expedition of 413 B.C. were offered freedom by
+their captors if they could recite from the works of Euripides. Of the
+hundred and twenty dramas ascribed to Euripides, there have come down to
+us complete eighteen tragedies and one satyric drama, "Cyclops,"  beside
+numerous fragments.
+
+The works of Euripides are generally regarded as showing the beginning of
+the decline of Greek tragedy. The idea of Fate hitherto dominant in the
+plays of his predecessors, tends to be degraded by him into mere chance;
+the characters lose much of their ideal quality; and even gods and heroes
+are represented as moved by the petty motives of ordinary humanity. The
+chorus is often quite detached from the action; the poetry is florid; and
+the action is frequently tinged with sensationalism. In spite of all this,
+Euripides remains a great poet; and his picturesqueness and tendencies to
+what are now called realism and romanticism, while marking his inferiority
+to the chaste classicism of Sophocles, bring him more easily within the
+sympathetic interest of the modern reader.
+
+
+
+
+HIPPOLYTUS
+
+OF EURIPIDES
+
+
+DRAMATIS PERSONAE
+
+   THE GODDESS APHRODITE
+   THESEUS, _King of Athens and Trozên_
+   PHAEDRA, _daughter of Minos, King of Crete, wife to Theseus_
+   HIPPOLYTUS, _bastard son of Theseus and the Amazon Hippolyte_
+   THE NURSE OF PHAEDRA
+   A HENCHMAN OF HIPPOLYTUS
+   THE GODDESS ARTEMIS
+   AN OLD HUNTSMAN
+   A CHORUS OF HUNTSMEN
+   ATTENDANTS ON THE THREE ROYAL PERSONS
+   A CHORUS OF TROZENIAN WOMEN, WITH THEIR LEADER
+
+_The scene is laid in Trozên. The play was first acted when Epameinon
+was Archon, Olympiad 87, year 4 (B.C. 429). Euripides was first,
+Iophon second, Ion third._
+
+
+    APHRODITE
+  Great among men, and not unnamed am I,
+  The Cyprian, in God's inmost halls on high.
+  And wheresoe'er from Pontus to the far
+  Red West men dwell, and see the glad day-star,
+  And worship Me, the pious heart I bless,
+  And wreck that life that lives in stubbornness.
+  For that there is, even in a great God's mind,
+  That hungereth for the praise of human kind.
+
+  So runs my word; and soon the very deed
+  Shall follow. For this Prince of Theseus' seed,
+  Hippolytus, child of that dead Amazon,
+  And reared by saintly Pittheus in his own
+  Strait ways, hath dared, alone of all Trozên,
+  To hold me least of spirits and most mean,
+  And spurns my spell and seeks no woman's kiss,
+  But great Apollo's sister, Artemis,
+  He holds of all most high, gives love and praise,
+  And through the wild dark woods for ever strays,
+  He and the Maid together, with swift hounds
+  To slay all angry beasts from out these bounds,
+  To more than mortal friendship consecrate!
+
+  I grudge it not. No grudge know I, nor hate;
+  Yet, seeing he hath offended, I this day
+  Shall smite Hippolytus. Long since my way
+  Was opened, nor needs now much labour more.
+
+  For once from Pittheus' castle to the shore
+  Of Athens came Hippolytus over-seas
+  Seeking the vision of the Mysteries.
+  And Phaedra there, his father's Queen high-born;
+  Saw him, and as she saw, her heart was torn
+  With great love, by the working of my will.
+  And for his sake, long since, on Pallas' hill,
+  Deep in the rock, that Love no more might roam,
+  She built a shrine, and named it _Love-at-home_:
+  And the rock held it, but its face alway
+  Seeks Trozên o'er the seas. Then came the day
+  When Theseus, for the blood of kinsmen shed,
+  Spake doom of exile on himself, and fled,
+  Phaedra beside him, even to this Trozên.
+  And here that grievous and amazed Queen,
+  Wounded and wondering, with ne'er a word,
+  Wastes slowly; and her secret none hath heard
+  Nor dreamed.
+
+  But never thus this love shall end!
+  To Theseus' ear some whisper will I send,
+  And all be bare! And that proud Prince, my foe,
+  His sire shall slay with curses. Even so
+  Endeth that boon the great Lord of the Main
+  To Theseus gave, the Three Prayers not in vain.
+
+  And she, not in dishonour, yet shall die.
+  I would not rate this woman's pain so high
+  As not to pay mine haters in full fee
+  That vengeance that shall make all well with me.
+
+  But soft, here comes he, striding from the chase,
+  Our Prince Hippolytus!--I will go my ways.--
+  And hunters at his heels: and a loud throng
+  Glorying Artemis with praise and song!
+  Little he knows that Hell's gates opened are,
+  And this his last look on the great Day-star!
+      [APHRODITE _withdraws, unseen by_ HIPPOLYTUS
+       _and a band of huntsmen, who enter from the left, singing.
+       They pass the Statue of_ APHRODITE _without notice._]
+
+    HIPPOLYTUS
+  Follow, O follow me,
+  Singing on your ways
+  Her in whose hand are we,
+  Her whose own flock we be,
+  The Zeus-Child, the Heavenly;
+  To Artemis be praise!
+
+    HUNTSMAN
+  Hail to thee, Maiden blest,
+  Proudest and holiest:
+  God's Daughter, great in bliss,
+  Leto-born, Artemis!
+  Hail to thee, Maiden, far
+  Fairest of all that are,
+  Yea, and most high thine home,
+  Child of the Father's hall;
+  Hear, O most virginal,
+  Hear, O most fair of all,
+  In high God's golden dome.
+
+    [_The huntsmen have gathered about the altar of_ ARTEMIS.
+     HIPPOLYTUS _now advances from them, and approaches the Statue
+     with a wreath in his hand._]
+
+    HIPPOLYTUS
+  To thee this wreathed garland, from a green
+  And virgin meadow bear I, O my Queen,
+  Where never shepherd leads his grazing ewes
+  Nor scythe has touched. Only the river dews
+  Gleam, and the spring bee sings, and in the glade
+  Hath Solitude her mystic garden made.
+    No evil hand may cull it: only he
+  Whose heart hath known the heart of Purity,
+  Unlearned of man, and true whate'er befall.
+  Take therefore from pure hands this coronal,
+  O mistress loved, thy golden hair to twine.
+  For, sole of living men, this grace is mine,
+  To dwell with thee, and speak, and hear replies
+  Of voice divine, though none may see thine eyes.
+    Oh, keep me to the end in this same road!
+      [_An_ OLD HUNTSMAN, _who has stood apart from
+        the rest, here comes up to_ HIPPOLYTUS.]
+
+    HUNTSMAN
+  My Prince--for "Master" name I none but God--
+  Gave I good counsel, wouldst thou welcome it?
+
+    HIPPOLYTUS
+  Right gladly, friend; else were I poor of wit.
+
+    HUNTSMAN
+  Knowest thou one law, that through the world has won?
+
+    HIPPOLYTUS
+  What wouldst thou? And how runs thy law? Say on.
+
+    HUNTSMAN
+  It hates that Pride that speaks not all men fair!
+
+    HIPPOLYTUS
+  And rightly.   Pride breeds hatred everywhere.
+
+    HUNTSMAN
+  And good words love, and grace in all men's sight?
+
+    HIPPOLYTUS
+  Aye, and much gain withal, for trouble slight.
+
+    HUNTSMAN
+  How deem'st thou of the Gods? Are they the same?
+
+    HIPPOLYTUS
+  Surely: we are but fashioned on their frame.
+
+    HUNTSMAN
+  Why then wilt thou be proud, and worship not ...
+
+    HIPPOLYTUS
+  Whom? If the name be speakable, speak out!
+
+    HUNTSMAN
+  She stands here at thy gate: the Cyprian Queen!
+
+    HIPPOLYTUS
+  I greet her from afar: my life is clean.
+
+    HUNTSMAN
+  Clean? Nay, proud, proud; a mark for all to scan!
+
+    HIPPOLYTUS
+  Each mind hath its own bent, for God or man.
+
+    HUNTSMAN
+  God grant thee happiness ... and wiser thought!
+
+    HIPPOLYTUS
+  These Spirits that reign in darkness like me not.
+
+    HUNTSMAN
+  What the Gods ask, O Son, that man must pay!
+
+    HIPPOLYTUS (_turning from him to the others_).
+  On, huntsmen, to the Castle! Make your way
+  Straight to the feast room; 'tis a merry thing
+  After the chase, a board of banqueting.
+  And see the steeds be groomed, and in array
+  The chariot dight. I drive them forth to-day
+    [_He pauses, and makes a slight gesture of reverence to the Statue on
+     the left. Then to the_ OLD HUNTSMAN.]
+  That for thy Cyprian, friend, and nought beside!
+    [HIPPOLYTUS _follows the huntsmen, who stream by the central door in
+     the Castle. The_ OLD HUNTSMAN _remains_.]
+
+    HUNTSMAN (_approaching the Statue and kneeling_)
+  O Cyprian--for a young man in his pride
+  I will not follow!--here before thee, meek,
+  In that one language that a slave may speak,
+  I pray thee; Oh, if some wild heart in froth
+  Of youth surges against thee, be not wroth
+  For ever! Nay, be far and hear not then:
+  Gods should be gentler and more wise than men!
+    [_He rises and follows the others into the Castle_.]
+
+    _The Orchestra is empty for a moment, then there enter from right and
+    left several Trosenian women young and old. Their number eventually
+    amounts to fifteen._
+
+    CHORUS
+  There riseth a rock-born river,
+  Of Ocean's tribe, men say;
+  The crags of it gleam and quiver,
+  And pitchers dip in the spray:
+  A woman was there with raiment white
+  To bathe and spread in the warm sunlight,
+  And she told a tale to me there by the river
+  The tale of the Queen and her evil day:
+
+  How, ailing beyond allayment,
+  Within she hath bowed her head,
+  And with shadow of silken raiment
+  The bright brown hair bespread.
+  For three long days she hath lain forlorn,
+  Her lips untainted of flesh or corn,
+    For that secret sorrow beyond allayment
+      That steers to the far sad shore of the dead.
+
+    _Some Women_
+  Is this some Spirit, O child of man?
+  Doth Hecat hold thee perchance, or Pan?
+  Doth she of the Mountains work her ban,
+    Or the dread Corybantes bind thee?
+
+    _Others_
+  Nay, is it sin that upon thee lies,
+  Sin of forgotten sacrifice,
+  In thine own Dictynna's sea-wild eyes?
+    Who in Limna here can find thee;
+  For the Deep's dry floor is her easy way,
+  And she moves in the salt wet whirl of the spray.
+
+    _Other Women_
+  Or doth the Lord of Erechtheus' race,
+  Thy Theseus, watch for a fairer face,
+  For secret arms in a silent place,
+    Far from thy love or chiding?
+
+    _Others_
+  Or hath there landed, amid the loud
+  Hum of Piraeus' sailor-crowd,
+  Some Cretan venturer, weary-browed,
+    Who bears to the Queen some tiding;
+  Some far home-grief, that hath bowed her low,
+  And chained her soul to a bed of woe?
+
+    _An Older Woman_
+  Nay--know yet not?--this burden hath alway lain
+  On the devious being of woman; yea, burdens twain,
+  The burden of Wild Will and the burden of Pain.
+  Through my heart once that wind of terror sped;
+    But I, in fear confessèd,
+  Cried from the dark to Her in heavenly bliss,
+  The Helper of Pain, the Bow-Maid Artemis:
+  Whose feet I praise for ever, where they tread
+    Far off among the blessèd!
+
+    THE LEADER
+  But see, the Queen's grey nurse at the door,
+  Sad-eyed and sterner, methinks, than of yore
+    With the Queen. Doth she lead her hither
+  To the wind and sun?--Ah, fain would I know
+  What strange betiding hath blanched that brow
+    And made that young life wither.
+    [_The NURSE comes out from the central door followed by_ PHAEDRA,
+     _who is supported by two handmaids. They make ready a couch for_
+     PHAEDRA _to lie upon_.]
+
+    NURSE
+  O sick and sore are the days of men!
+  What wouldst thou?  What shall I change again
+  Here is the Sun for thee; here is the sky;
+  And thy weary pillows wind-swept lie,
+    By the castle door.
+  But the cloud of thy brow is dark, I ween;
+  And soon thou wilt back to thy bower within:
+  So swift to change is the path of thy feet,
+  And near things hateful, and far things sweet;
+    So was it before!
+
+  Oh, pain were better than tending pain!
+  For that were single, and this is twain,
+  With grief of heart and labour of limb.
+  Yet all man's life is but ailing and dim,
+    And rest upon earth comes never.
+  But if any far-off state there be,
+  Dearer than life to mortality;
+  The hand of the Dark hath hold thereof,
+  And mist is under and mist above.
+  And so we are sick of life, and cling
+  On earth to this nameless and shining thing.
+  For other life is a fountain sealed,
+  And the deeps below are unrevealed,
+    And we drift on legends for ever!
+    [PHAEDRA _during this has been laid on her couch;
+     she speaks to the handmaids_.]
+
+    PHAEDRA
+  Yes; lift me: not my head so low.
+    There, hold my arms.--Fair arms they seem!--
+  My poor limbs scarce obey me now!
+  Take off that hood that weighs my brow,
+    And let my long hair stream.
+
+    NURSE
+  Nay, toss not, Child, so feveredly.
+    The sickness best will win relief
+  By quiet rest and constancy.
+    All men have grief.
+
+    PHAEDRA (_not noticing her_)
+  Oh for a deep and dewy spring,
+    With runlets cold to draw and drink!
+  And a great meadow blossoming,
+  Long-grassed, and poplars in a ring,
+    To rest me by the brink!
+
+    NURSE
+  Nay, Child!   Shall strangers hear this tone
+  So wild, and thoughts so fever-flown?
+
+    PHAEDRA
+  Oh, take me to the Mountain! Oh,
+  Pass the great pines and through the wood,
+  Up where the lean hounds softly go,
+    A-whine for wild things' blood,
+  And madly flies the dappled roe.
+  O God, to shout and speed them there,
+  An arrow by my chestnut hair
+  Drawn tight, and one keen glimmering spear--
+      Ah! if I could!
+
+    NURSE
+  What wouldst thou with them--fancies all!--
+  Thy hunting and thy fountain brink?
+  What wouldst thou? By the city wall
+  Canst hear our own brook plash and fall
+    Downhill, if thou wouldst drink.
+
+    PHAEDRA
+  O Mistress of the Sea-lorn Mere
+    Where horse-hoofs beat the sand and sing,
+  O Artemis, that I were there
+  To tame Enetian steeds and steer
+      Swift chariots in the ring!
+
+    NURSE
+  Nay, mountainward but now thy hands
+    Yearned out, with craving for the chase;
+  And now toward the unseaswept sands
+    Thou roamest, where the coursers pace!
+    O wild young steed, what prophet knows
+  The power that holds thy curb, and throws
+    Thy swift heart from its race?
+    [_At these words PHAEDRA gradually recovers herself
+     and pays attention._]
+
+    PHAEDRA
+  What have I said? Woe's me! And where
+    Gone straying from my wholesome mind?
+  What? Did I fall in some god's snare?
+    --Nurse, veil my head again, and blind
+    Mine eyes.--There is a tear behind
+    That lash.--Oh, I am sick with shame!
+      Aye, but it hath a sting,
+    To come to reason; yet the name
+      Of madness is an awful thing.--
+  Could I but die in one swift flame
+    Unthinking, unknowing!
+
+    NURSE
+  I veil thy face, Child.--Would that so
+    Mine own were veiled for evermore,
+    So sore I love thee! ... Though the lore
+  Of long life mocks me, and I know
+  How love should be a lightsome thing
+    Not rooted in the deep o' the heart;
+    With gentle ties, to twine apart
+  If need so call, or closer cling.--
+  Why do I love thee so? O fool,
+    O fool, the heart that bleeds for twain,
+    And builds, men tell us, walls of pain,
+  To walk by love's unswerving rule
+  The same for ever, stern and true!
+    For "Thorough" is no word of peace:
+    'Tis "Naught-too-much" makes trouble cease.
+  And many a wise man bows thereto.
+    [_The_ LEADER OF THE CHORUS _here approaches the_ NURSE.]
+
+    LEADER
+  Nurse of our Queen, thou watcher old and true,
+  We see her great affliction, but no clue
+  Have we to learn the sickness. Wouldst thou tell
+  The name and sort thereof, 'twould like us well.
+
+    NURSE
+  Small leechcraft have I, and she tells no man.
+
+    LEADER
+  Thou know'st no cause? Nor when the unrest began?
+
+    NURSE
+  It all comes to the same. She will not speak.
+
+    LEADER (_turning and looking at_ PHAEDRA).
+  How she is changed and wasted! And how weak!
+
+    NURSE
+  'Tis the third day she hath fasted utterly.
+
+    LEADER
+  What, is she mad? Or doth she seek to die?
+
+    NURSE
+  I know not. But to death it sure must lead.
+
+    LEADER
+  'Tis strange that Theseus takes hereof no heed.
+
+    NURSE
+  She hides her wound, and vows it is not so.
+
+    LEADER
+  Can he not look into her face and know?
+
+    NURSE
+  Nay, he is on a journey these last days.
+
+    LEADER
+  Canst thou not force her, then? Or think of ways
+  To trap the secret of the sick heart's pain?
+
+    NURSE
+  Have I not tried all ways, and all in vain?
+  Yet will I cease not now, and thou shalt tell
+  If in her grief I serve my mistress well!
+      [_She goes across to where_ PHAEDRA _lies; and
+       presently, while speaking, kneels by her_.]
+  Dear daughter mine, all that before was said
+  Let both of us forget; and thou instead
+  Be kindlier, and unlock that prisoned brow.
+  And I, who followed then the wrong road, now
+  Will leave it and be wiser. If thou fear
+  Some secret sickness, there be women here
+  To give thee comfort. [PHAEDRA _shakes her head_.
+              No; not secret? Then
+  Is it a sickness meet for aid of men?
+  Speak, that a leech may tend thee.
+                  Silent still?
+  Nay, Child, what profits silence? If 'tis ill
+  This that I counsel, makes me see the wrong:
+  If well, then yield to me.
+              Nay, Child, I long
+  For one kind word, one look!
+      [PHAEDRA _lies motionless. The_ NURSE _rises._]
+              Oh, woe is me!
+  Women, we labour here all fruitlessly,
+  All as far off as ever from her heart!
+  She ever scorned me, and now hears no part
+  Of all my prayers! [_Turning to_ PHAEDRA _again._]
+              Nay, hear thou shalt, and be,
+  If so thou will, more wild than the wild sea;
+  But know, thou art thy little ones' betrayer!
+  If thou die now, shall child of thine be heir
+  To Theseus' castle? Nay, not thine, I ween,
+  But hers! That barbèd Amazonian Queen
+  Hath left a child to bend thy children low,
+  A bastard royal-hearted--sayst not so?--
+  Hippolytus...
+
+    PHAEDRA
+         Ah!
+    [_She starts up, sitting, and throws the veil off_.]
+
+    NURSE
+           That stings thee?
+
+    PHAEDRA
+                  Nurse, most sore
+  Thou hast hurt me! In God's name, speak that name no more.
+
+    NURSE
+  Thou seest? Thy mind is clear; but with thy mind
+  Thou wilt not save thy children, nor be kind
+  To thine own life.
+
+    PHAEDRA
+  My children?  Nay, most dear
+  I love them,--Far, far other grief is here.
+
+    NURSE (_after a pause, wondering_)
+  Thy hand is clean, O Child, from stain of blood?
+
+    PHAEDRA
+  My hand is clean; but is my heart, O God?
+
+    NURSE
+  Some enemy's spell hath made thy spirit dim?
+
+    PHAEDRA
+  He hates me not that slays me, nor I him.
+
+    NURSE
+  Theseus, the King, hath wronged thee in man's wise?
+
+    PHAEDRA
+  Ah, could but I stand guiltless in his eyes!
+
+    NURSE
+  O speak! What is this death-fraught mystery?
+
+    PHAEDRA
+  Nay, leave me to my wrong. I wrong not thee.
+
+    NURSE (_suddenly throwing herself in supplication at PHAEDRA'S feet_)
+  Not wrong me, whom thou wouldst all desolate leave?
+
+    PHAEDRA (_rising and trying to move away_)
+  What wouldst thou? Force me? Clinging to my sleeve?
+
+    NURSE
+  Yea, to thy knees; and weep; and let not go!
+
+    PHAEDRA
+  Woe to thee, Woman, if thou learn it, woe!
+
+    NURSE
+  I know no bitterer woe than losing thee.
+
+    PHAEDRA
+  Yet the deed shall honour me.
+
+    NURSE
+  Why hide what honours thee? 'Tis all I claim!
+
+    PHAEDRA
+  Why, so I build up honour out of shame!
+
+    NURSE
+  Then speak, and higher still thy fame shall stand.
+
+    PHAEDRA
+  Go, in God's name!--Nay, leave me; loose my hand!
+
+    NURSE
+  Never, until thou grant me what I pray.
+
+    PHAEDRA (_yielding, after a pause_)
+  So be it. I dare not tear that hand away.
+
+    NURSE (_rising and releasing PHAEDRA_)
+  Tell all thou wilt, Daughter. I speak no more.
+
+    PHAEDRA (_after a long pause_)
+  Mother, poor Mother, that didst love so sore!
+
+    NURSE
+  What mean'st thou, Child? The Wild Bull of the Tide?
+
+    PHAEDRA
+  And thou, sad sister, Dionysus' bride!
+
+    NURSE
+  Child! wouldst thou shame the house where thou wast born?
+
+    PHAEDRA
+  And I the third, sinking most all-forlorn!
+
+    NURSE (_to herself_)
+  I am all lost and feared. What will she say?
+
+    PHAEDRA
+  From there my grief comes, not from yesterday.
+
+    NURSE
+  I come no nearer to thy parable.
+
+    PHAEDRA
+  Oh, would that thou could'st tell what I must tell!
+
+    NURSE
+  I am no seer in things I wot not of.
+
+    PHAEDRA (_again hesitating_)
+  What is it that they mean, who say men...love?
+
+    NURSE
+  A thing most sweet, my Child, yet dolorous.
+
+    PHAEDRA
+  Only the half, belike, hath fallen on us!
+
+    NURSE  (_starting_)
+  On thee? Love?--Oh, what say'st thou? What man's son?
+
+    PHAEDRA
+  What man's? There was a Queen, an Amazon ...
+
+    NURSE
+  Hippolytus, say'st thou?
+
+    PHAEDRA (_again wrapping her face in the veil_)
+                             Nay, 'twas thou, not I!
+    [PHAEDRA _sinks back on the couch and covers her face again.
+    The_ NURSE _starts violently from her and walks up and down._]
+
+    NURSE
+  O God! what wilt thou say, Child? Wouldst thou try
+  To kill me?--Oh, 'tis more than I can bear;
+  Women. I will no more of it, this glare
+  Of hated day, this shining of the sky.
+  I will fling down my body, and let it lie
+  Till life be gone!
+              Women, God rest with you,
+  My works are over! For the pure and true
+  Are forced to evil, against their own heart's vow,
+  And love it!
+    [_She suddenly sees the Statue of_ CYPRIS, _and
+     stands with her eyes riveted upon it._]
+      Ah, Cyprian! No god art thou,
+  But more than god, and greater, that hath thrust
+  Me and my queen and all our house to dust!
+    [_She throws herself on the ground close to the statue._]
+
+    CHORUS
+
+    _Some Women_
+  O Women, have ye heard? Nay, dare ye hear
+    The desolate cry of the young Queen's misery?
+
+    _A Woman_
+  My Queen, I love thee dear,
+    Yet liefer were I dead than framed like thee.
+
+    _Others_
+  Woe, woe to me for this thy bitter bane,
+  Surely the food man feeds upon is pain!
+
+    _Others_
+  How wilt thou bear thee through this livelong day,
+    Lost, and thine evil naked to the light?
+  Strange things are close upon us--who shall say
+    How strange?--save one thing that is plain to sight,
+  The stroke of the Cyprian and the fall thereof
+  On thee, thou child of the Isle of fearful Love!
+
+    [PHAEDRA _during this has risen from the couch and comes forward
+     collectedly. As she speaks the_ NURSE _gradually rouses herself,
+     and listens more calmly._]
+
+    PHAEDRA
+  O Women, dwellers in this portal-seat
+  Of Pelops' land, gazing towards my Crete,
+  How oft, in other days than these, have I
+  Through night's long hours thought of man's misery,
+  And how this life is wrecked! And, to mine eyes,
+  Not in man's knowledge, not in wisdom, lies
+  The lack that makes for sorrow. Nay, we scan
+  And know the right--for wit hath many a man--
+  But will not to the last end strive and serve.
+  For some grow too soon weary, and some swerve
+  To other paths, setting before the Right
+  The diverse far-off image of Delight:
+  And many are delights beneath the sun!
+  Long hours of converse; and to sit alone
+  Musing--a deadly happiness!--and Shame:
+  Though two things there be hidden in one name,
+  And Shame can be slow poison if it will;
+    This is the truth I saw then, and see still;
+  Nor is there any magic that can stain
+  That white truth for me, or make me blind again.
+  Come, I will show thee how my spirit hath moved.
+  When the first stab came, and I knew I loved,
+  I cast about how best to face mine ill.
+  And the first thought that came, was to be still
+  And hide my sickness.--For no trust there is
+  In man's tongue, that so well admonishes
+  And counsels and betrays, and waxes fat
+  With griefs of its own gathering!--After that
+  I would my madness bravely bear, and try
+  To conquer by mine own heart's purity.
+    My third mind, when these two availed me naught
+  To quell love was to die--
+    [_Motion of protest among the Women._]
+           --the best, best thought--
+  --Gainsay me not--of all that man can say!
+  I would not have mine honour hidden away;
+  Why should I have my shame before men's eyes
+  Kept living? And I knew, in deadly wise,
+  Shame was the deed and shame the suffering;
+  And I a woman, too, to face the thing,
+  Despised of all!
+
+      Oh, utterly accurst
+  Be she of women, whoso dared the first
+  To cast her honour out to a strange man!
+  'Twas in some great house, surely, that began
+  This plague upon us; then the baser kind,
+  When the good led towards evil, followed blind
+  And joyous! Cursed be they whose lips are clean
+  And wise and seemly, but their hearts within
+  Rank with bad daring! How can they, O Thou
+  That walkest on the waves, great Cyprian, how
+  Smile in their husbands' faces, and not fall,
+  Not cower before the Darkness that knows all,
+  Aye, dread the dead still chambers, lest one day
+  The stones find voice, and all be finished!
+                                               Nay,
+  Friends, 'tis for this I die; lest I stand there
+  Having shamed my husband and the babes I bare.
+  In ancient Athens they shall some day dwell,
+  My babes, free men, free-spoken, honourable,
+
+    EURIPIDES
+  And when one asks their mother, proud of me!
+  For, oh, it cows a man, though bold he be,
+  To know a mother's or a father's sin.
+    'Tis written, one way is there, one, to win
+  This life's race, could man keep it from his birth,
+  A true clean spirit. And through all this earth
+  To every false man, that hour comes apace
+  When Time holds up a mirror to his face,
+  And girl-like, marvelling, there he stares to see
+  How foul his heart! Be it not so with me!
+
+    LEADER OF CHORUS
+  Ah, God, how sweet is virtue, and how wise,
+  And honour its due meed in all men's eyes!
+
+    NURSE (_who has now risen and recovered herself_)
+  Mistress, a sharp swift terror struck me low
+  A moment since, hearing of this thy woe.
+  But now--I was a coward! And men say
+  Our second thought the wiser is alway.
+    This is no monstrous thing; no grief too dire
+  To meet with quiet thinking. In her ire
+  A most strong goddess hath swept down on thee.
+  Thou lovest. Is that so strange? Many there be
+  Beside thee! ... And because thou lovest, wilt fall
+  And die! And must all lovers die, then? All
+  That are or shall be? A blithe law for them!
+  Nay, when in might she swoops, no strength can stem
+  Cypris; and if man yields him, she is sweet;
+  But is he proud and stubborn? From his feet
+  She lifts him, and--how think you?--flings to scorn!
+    She ranges with the stars of eve and morn,
+  She wanders in the heaving of the sea,
+  And all life lives from her.--Aye, this is she
+  That sows Love's seed and brings Love's fruit to birth;
+  And great Love's brethren are all we on earth!
+    Nay, they who con grey books of ancient days
+  Or dwell among the Muses, tell--and praise--
+  How Zeus himself once yearned for Semelê;
+  How maiden Eôs in her radiancy
+  Swept Kephalos to heaven away, away,
+  For sore love's sake. And there they dwell, men say,
+  And fear not, fret not; for a thing too stern
+  Hath met and crushed them!
+                          And must thou, then, turn
+  And struggle? Sprang there from thy father's blood
+  Thy little soul all lonely? Or the god
+  That rules thee, is he other than our gods?
+    Nay, yield thee to men's ways, and kiss their rods!
+  How many, deem'st thou, of men good and wise
+  Know their own home's blot, and avert their eyes?
+  How many fathers, when a son has strayed
+  And toiled beneath the Cyprian, bring him aid,
+  Not chiding? And man's wisdom e'er hath been
+  To keep what is not good to see, unseen!
+    A straight and perfect life is not for man;
+  Nay, in a shut house, let him, if he can,
+  'Mid sheltered rooms, make all lines true. But here,
+  Out in the wide sea fallen, and full of fear,
+  Hopest thou so easily to swim to land?
+    Canst thou but set thine ill days on one hand
+  And more good days on the other, verily,
+  O child of woman, life is well with thee!
+
+    [_She pauses, and then draws nearer to_ PHAEDRA.]
+
+  Nay, dear my daughter, cease thine evil mind,
+  Cease thy fierce pride! For pride it is, and blind,
+  To seek to outpass gods!--Love on and dare:
+  A god hath willed it! And, since pain is there,
+  Make the pain sleep! Songs are there to bring calm,
+  And magic words. And I shall find the balm,
+  Be sure, to heal thee. Else in sore dismay
+  Were men, could not we women find our way!
+
+    LEADER OF THE CHORUS
+  Help is there, Queen, in all this woman says,
+  To ease thy suffering. But 'tis thee I praise;
+  Albeit that praise is harder to thine ear
+  Than all her chiding was, and bitterer!
+
+    PHAEDRA
+  Oh, this it is hath flung to dogs and birds
+  Men's lives and homes and cities-fair false word!
+  Oh, why speak things to please our ears? We crave
+  Not that. Tis honour, honour, we must save!
+
+    NURSE
+  Why prate so proud! 'Tis no words, brave nor base
+  Thou cravest; 'tis a man's arms!
+
+    [PHAEDRA _moves indignantly_.]
+
+                                        Up and face
+  The truth of what thou art, and name it straight!
+  Were not thy life thrown open here for Fate
+  To beat on; hadst thou been a woman pure
+  Or wise or strong; never had I for lure
+  Of joy nor heartache led thee on to this!
+  But when a whole life one great battle is,
+  To win or lose--no man can blame me then.
+
+    PHAEDRA
+  Shame on thee! Lock those lips, and ne'er again
+  Let word nor thought so foul have harbour there!
+
+    NURSE
+  Foul, if thou wilt: but better than the fair
+  For thee and me. And better, too, the deed
+  Behind them, if it save thee in thy need,
+  Than that word Honour thou wilt die to win!
+
+    PHAEDRA
+  Nay, in God's name,--such wisdom and such sin
+  Are all about thy lips!--urge me no more.
+  For all the soul within me is wrought o'er
+  By Love; and if thou speak and speak, I may
+  Be spent, and drift where now I shrink away.
+
+    NURSE
+  Well, if thou wilt!--'Twere best never to err,
+  But, having erred, to take a counsellor
+  Is second.--Mark me now. I have within
+  love-philtres, to make peace where storm hath been,
+  That, with no shame, no scathe of mind, shall save
+  Thy life from anguish; wilt but thou be brave!
+                            [_To herself, rejecting_.]
+  Ah, but from him, the well-beloved, some sign
+  We need, or word, or raiment's hem, to twine
+  Amid the charm, and one spell knit from twain.
+
+    PHAEDRA
+  Is it a potion or a salve? Be plain.
+
+    NURSE
+  Who knows? Seek to be helped, Child, not to know.
+
+    PHAEDRA
+  Why art thou ever subtle? I dread thee, so.
+
+    NURSE
+  Thou wouldst dread everything!--What dost thou dread?
+
+    PHAEDRA
+  Least to his ear some word be whispered.
+
+    NURSE
+  Let be, Child! I will make all well with thee!
+  --Only do thou, O Cyprian of the Sea,
+  Be with me! And mine own heart, come what may,
+  Shall know what ear to seek, what word to say!
+
+    [_The_ NURSE, _having spoken these last words in prayer apart to the
+     Statue of_ CYPRIS, _turns back and goes into the house_. PHAEDRA _sits
+     pensive again on her couch till towards the end of the following Song,
+     when she rises and bends close to the door_.]
+
+    CHORUS
+
+  Erôs, Erôs, who blindest, tear by tear,
+    Men's eyes with hunger; thou swift Foe
+      that  pliest
+  Deep in our hearts joy like an edgèd spear;
+  Come  not  to  me  with  Evil  haunting  near,
+  Wrath on the wind, nor jarring of the clear
+    Wing's music as thou fliest!
+  There is no shaft that burneth, not in fire,
+  Not in wild stars, far off and flinging fear,
+  As in thine hands the shaft of All Desire,
+    Erôs, Child of the Highest!
+
+  In vain, in vain, by old Alpheüs' shore
+    The blood of many bulls doth stain the river
+  And all Greece bows on Phoebus' Pythian floor;
+  Yet bring we to the Master of Man no store
+  The Keybearer, who standeth at the door
+    Close-barred, where hideth ever
+  The heart of the shrine. Yea, though he sack
+      man's  life
+  Like a sacked city, and moveth evermore
+  Girt with calamity and strange ways of strife,
+  Him have we worshipped never!
+
+         *       *       *       *       *
+
+  There roamed a Steed in Oechalia's wild,
+    A Maid without yoke, without Master,
+  And Love she knew not, that far King's child;
+  But he came, he came, with a song in the night.
+  With fire, with blood; and she strove in flight,
+  A Torrent Spirit, a Maenad white,
+    Faster and vainly faster,
+  Sealed unto Heracles by the Cyprian's Might.
+    Alas, thou Bride of Disaster!
+
+  O Mouth of Dirce, O god-built wall,
+    That Dirce's wells run under,
+  Ye know the Cyprian's fleet footfall!
+  Ye saw the heavens around her flare,
+  When she lulled to her sleep that Mother fair
+    Of twy-born Bacchus, and decked her there
+      The Bride of the bladed Thunder.
+  For her breath is on all that hath life, and she floats in the air,
+    Bee-like, death-like, a wonder.
+    [_During the last lines_ PHAEDRA _has approached the door
+     and is listening_.]
+
+    PHAEDRA
+  Silence ye Women! Something is amiss.
+
+    LEADER
+  How? In the house?--Phaedra, what fear is this?
+
+    PHAEDRA
+  Let me but listen! There are voices. Hark!
+
+    LEADER
+  I hold my peace: yet is thy presage dark.
+
+    PHAEDRA
+      Oh, misery!
+  O God, that such a thing should fall on me!
+
+    LEADER
+      What sound, what word,
+  O Women, Friend, makes that sharp terror start
+  Out at thy lips? What ominous cry half-heard
+      Hath leapt upon thine heart?
+
+    PHAEDRA
+  I am undone!--Bend to the door and hark,
+    Hark what a tone sounds there, and sinks away!
+
+    LEADER
+  Thou art beside the bars. 'Tis thine to mark
+    The castle's floating message. Say, Oh, say
+      What thing hath come to thee?
+
+    PHAEDRA (_calmly_)
+      Why, what thing should it be?
+  The son of that proud Amazon speaks again
+  In bitter wrath: speaks to my handmaiden!
+
+    LEADER
+  I hear a noise of voices, nothing clear.
+    For thee the din hath words, as through barred locks
+      Floating, at thy heart it knocks.
+
+    PHAEDRA
+  "Pander of Sin" it says.--Now canst thou hear?--
+    And there: "Betrayer of a master's bed."
+
+    LEADER
+      Ah me, betrayed! Betrayed!
+    Sweet Princess, thou art ill bested,
+  Thy secret brought to light, and ruin near,
+    By her thou heldest dear,
+  By her that should have loved thee and obeyed!
+
+    PHAEDRA
+  Aye, I am slain. She thought to help my fall
+  With love instead of honour, and wrecked all.
+
+    LEADER
+      Where wilt thou turn thee, where?
+  And what help seek, O wounded to despair?
+
+    PHAEDRA
+  I know not, save one thing to die right soon.
+  For such as me God keeps no other boon.
+
+    [_The door in the centre bursts open, and_ HIPPOLYTUS _comes forth,
+     closely followed by the_ NURSE. PHAEDRA _cowers aside_.]
+
+    HIPPOLYTUS
+  O Mother Earth, O Sun that makest clean,
+  What poison have I heard, what speechless sin!
+
+    NURSE
+  Hush O my Prince, lest others mark, and guess ...
+
+    HIPPOLYTUS
+  I have heard horrors! Shall I hold my peace?
+
+    NURSE
+  Yea by this fair right arm, Son, by thy pledge ...
+
+    HIPPOLYTUS
+  Down with that hand! Touch not my garment's edge!
+
+    NURSE
+  Oh, by thy knees, be silent or I die!
+
+    HIPPOLYTUS
+  Why, when thy speech was all so guiltless? Why?
+
+    NURSE
+  It is not meet, fair Son, for every ear!
+
+    HIPPOLYTUS
+  Good words can bravely forth, and have no fear.
+
+    NURSE
+  Thine oath, thine oath! I took thine oath before!
+
+    HIPPOLYTUS
+  'Twas but my tongue, 'twas not my soul that swore.
+
+    NURSE
+  O Son, what wilt thou? Wilt thou slay thy kin?
+
+    HIPPOLYTUS
+  I own no kindred with the spawn of sin!
+                    [_He flings her from him_.]
+
+    NURSE
+  Nay, spare me! Man was born to err; oh, spare!
+
+    HIPPOLYTUS
+  O God, why hast Thou made this gleaming snare,
+  Woman, to dog us on the happy earth?
+  Was it Thy will to make Man, why his birth
+  Through Love and Woman? Could we not have rolled
+  Our store of prayer and offering, royal gold
+  Silver and weight of bronze before Thy feet,
+  And bought of God new child souls, as were meet
+  For each man's sacrifice, and dwelt in homes
+  Free, where nor Love nor Woman goes and comes
+   How, is that daughter not a bane confessed,
+  Whom her own sire sends forth--(He knows her best!)--
+  And, will some man but take her, pays a dower!
+  And he, poor fool, takes home the poison-flower;
+  Laughs to hang jewels on the deadly thing
+  He joys in; labours for her robe-wearing,
+  Till wealth and peace are dead. He smarts the less
+  In whose high seat is set a Nothingness,
+  A woman naught availing. Worst of all
+  The wise deep-thoughted! Never in my hall
+  May she sit throned who thinks and waits and sighs!
+  For Cypris breeds most evil in the wise,
+  And least in her whose heart has naught within;
+  For puny wit can work but puny sin.
+    Why do we let their handmaids pass the gate?
+  Wild beasts were best, voiceless and fanged, to wait
+  About their rooms, that they might speak with none,
+  Nor ever hear one answering human tone!
+  But now dark women in still chambers lay
+  Plans that creep out into light of day
+  On handmaids' lips--[_Turning to the_ NURSE.]
+          As thine accursèd head
+  Braved the high honour of my Father's bed.
+  And came to traffic ... Our white torrent's spray
+  Shall drench mine ears to wash those words away!
+  And couldst thou dream that _I_ ...? I feel impure
+  Still at the very hearing! Know for sure,
+  Woman, naught but mine honour saves ye both.
+  Hadst thou not trapped me with that guileful oath,
+  No power had held me secret till the King
+  Knew all! But now, while he is journeying,
+  I too will go my ways and make no sound.
+  And when he comes again, I shall be found
+  Beside him, silent, watching with what grace
+  Thou and thy mistress shall greet him face to face!
+  Then shall I have the taste of it, and know
+  What woman's guile is.--Woe upon you, woe!
+  How can I too much hate you, while the ill
+  Ye work upon the world grows deadlier still?
+  Too much? Make woman pure, and wild Love tame,
+  Or let me cry for ever on their shame!
+    [_He goes off in fury to the left_.
+     PHAEDRA _still cowering in her place begins to sob_.]
+
+    PHAEDRA
+  Sad, sad and evil-starred is Woman's state.
+    What shelter now is left or guard?
+  What spell to loose the iron knot of fate?
+    And this thing, O my God,
+  O thou sweet Sunlight, is but my desert!
+  I cannot fly before the avenging rod
+    Falls, cannot hide my hurt.
+  What help, O ye who love me, can come near,
+    What god or man appear,
+  To aid a thing so evil and so lost?
+  Lost, for this anguish presses, soon or late,
+  To that swift river that no life hath crossed.
+  No woman ever lived so desolate!
+
+    LEADER OF THE CHORUS
+  Ah me, the time for deeds is gone; the boast
+  Proved vain that spake thine handmaid; and all lost!
+    [_At these words_ PHAEDRA _suddenly remembers the_ NURSE, _who is
+     cowering silently where_ HIPPOLYTUS _had thrown her from him.
+     She turns upon her_.]
+
+    PHAEDRA
+  O wicked, wicked, wicked! Murderess heart
+  To them that loved thee! Hast thou played thy part?
+  Am I enough trod down?
+                              May Zeus, my sire,
+  Blast and uproot thee! Stab thee dead with fire!
+  Said I not--Knew I not thine heart?--to name
+  To no one soul this that is now my shame?
+  And thou couldst not be silent! So no more
+  I die in honour. But enough; a store
+  Of new words must be spoke and new things thought.
+  This man's whole being to one blade is wrought
+  Of rage against me. Even now he speeds
+  To abase me to the King with thy misdeeds;
+  Tell Pittheus; fill the land with talk of sin!
+    Cursèd be thou, and whoso else leaps in
+  To bring bad aid to friends that want it not.
+    [_The_ NURSE _has raised herself, and faces_ PHAEDRA,
+     _downcast but calm_.]
+
+    NURSE
+  Mistress, thou blamest me; and all thy lot
+  So bitter sore is, and the sting so wild,
+  I bear with all. Yet, if I would, my Child,
+  I have mine answer, couldst thou hearken aught.
+    I nursed thee, and I love thee; and I sought
+  Only some balm to heal thy deep despair,
+  And found--not what I sought for. Else I were
+  Wise, and thy friend, and good, had all sped right.
+  So fares it with us all in the world's sight.
+
+    PHAEDRA
+  First stab me to the heart, then humour me
+  With words! 'Tis fair; 'tis all as it should be!
+
+    NURSE
+  We talk too long, Child. I did ill; but, oh,
+  There is a way to save thee, even so!
+
+    PHAEDRA
+  A way? No more ways! One way hast thou trod
+  Already, foul and false and loathed of god!
+  Begone out of my sight; and ponder how
+  Thine own life stands! I need no helpers now.
+    [_She turns from the_ NURSE, _who creeps abashed away into the Castle_.]
+
+  Only do ye, high Daughters of Trozên,
+  Let all ye hear be as it had not been;
+  Know naught, and speak of naught! 'Tis my last prayer.
+
+    LEADER
+  By God's pure daughter, Artemis, I swear,
+  No word will I of these thy griefs reveal!
+
+    PHAEDRA
+  'Tis well. But now, yea, even while I reel
+  And falter, one poor hope, as hope now is,
+  I clutch at in this coil of miseries;
+  To save some honour for my children's sake;
+  Yea, for myself some fragment, though things break
+  In ruin around me. Nay, I will not shame
+  The old proud Cretan castle whence I came,
+  I will not cower before King Theseus' eyes,
+  Abased, for want of one life's sacrifice!
+
+    LEADER
+  What wilt thou?   Some dire deed beyond recall?
+
+    PHAEDRA (_musing_)
+  Die; but how die?
+
+    LEADER
+        Let not such wild words fall!
+
+    PHAEDRA (_turning upon her_)
+  Give thou not such light counsel! Let me be
+  To sate the Cyprian that is murdering me!
+  To-day shall be her day; and, all strife past
+  Her bitter Love shall quell me at the last.
+    Yet, dying, shall I die another's bane!
+  He shall not stand so proud where I have lain
+  Bent in the dust! Oh, he shall stoop to share
+  The life I live in, and learn mercy there!
+    [_She goes off wildly into the Castle_.]
+
+    CHORUS
+
+  Could I take me to some cavern for mine hiding,
+    In the hill-tops where the Sun scarce hath trod;
+  Or a cloud make the home of mine abiding,
+    As a bird among the bird-droves of God!
+      Could I wing me to my rest amid the roar
+      Of the deep Adriatic on the shore,
+  Where the waters of Eridanus are clear,
+  And Phaëthon's sad sisters by his grave
+  Weep into the river, and each tear
+    Gleams, a drop of amber, in the wave.
+
+  To the strand of the Daughters of the Sunset,
+    The Apple-tree, the singing and the gold;
+  Where the mariner must stay him from his onset,
+  And the red wave is tranquil as of old;
+    Yea, beyond that Pillar of the End
+    That Atlas guardeth, would I wend;
+  Where a voice of living waters never ceaseth
+    In God's quiet garden by the sea,
+  And Earth, the ancient life-giver, increaseth
+    Joy among the meadows, like a tree.
+
+         *       *       *       *       *
+
+  O shallop of Crete, whose milk-white wing
+  Through the swell and the storm-beating,
+    Bore us thy Prince's daughter,
+  Was it well she came from a joyous home
+  To a far King's bridal across the foam?
+    What joy hath her bridal brought her?
+  Sure some spell upon either hand
+  Flew with thee from the Cretan strand,
+  Seeking Athena's tower divine;
+  And there, where Munychus fronts the brine,
+  Crept by the shore-flung cables' line,
+    The curse from the Cretan water!
+
+  And for that dark spell that about her clings,
+  Sick desires of forbidden things
+    The soul of her rend and sever;
+  The bitter tide of calamity
+  Hath risen above her lips; and she,
+    Where bends she her last endeavour?
+  She will hie her alone to her bridal room,
+  And a rope swing slow in the rafters' gloom;
+  And a fair white neck shall creep to the noose,
+  A-shudder with dread, yet firm to choose
+  The one strait way for fame, and lose
+    The Love and the pain for ever.
+
+    [_The Voice of the_ NURSE _is heard from within, crying,
+     at first inarticulately, then clearly_.]
+
+    VOICE
+  Help ho! The Queen! Help, whoso hearkeneth!
+  Help! Theseus' spouse caught in a noose of death!
+
+    A WOMAN
+  God, is it so soon finished? That bright head
+  Swinging beneath the rafters! Phaedra dead!
+
+    VOICE
+  O haste! This knot about her throat is made
+  So fast! Will no one bring me a swift blade?
+
+    A WOMAN
+  Say, friends, what think ye? Should we haste within,
+  And from her own hand's knotting loose the Queen?
+
+    ANOTHER
+  Nay, are there not men there? 'Tis an ill road
+  In life, to finger at another's load.
+
+    VOICE
+  Let it lie straight! Alas! the cold white thing
+  That guards his empty castle for the King!
+
+    A WOMAN
+  Ah! "Let it lie straight!" Heard ye what she said?
+  No need for helpers now; the Queen is dead!
+    [_The Women, intent upon the voices from the Castle, have not noticed
+     the approach of_ THESEUS. _He enters from the left; his dress and the
+     garland on his head show that he has returned from some oracle or
+     special abode of a God. He stands for a moment perplexed_.]
+
+    THESEUS
+  Ho, Women, and what means this loud acclaim
+  Within the house? The vassals' outcry came
+  To smite mine ears far off. It were more meet
+  To fling out wide the Castle gates, and greet
+  With a joy held from God's Presence!
+    [_The confusion and horror of the Women's faces gradually affects him.
+     A dirge-cry comes from the Castle_.]
+
+                                            How?
+  Not Pittheus? Hath Time struck that hoary brow?
+  Old is he, old, I know. But sore it were,
+  Returning thus, to find his empty chair!
+    [_The Women hesitate; then the Leader comes forward_.]
+
+    LEADER
+  O Theseus, not on any old man's head
+  This stroke falls. Young and tender is the dead.
+
+    THESEUS
+  Ye Gods! One of my children torn from me?
+
+    LEADER
+  Thy motherless children live, most grievously.
+
+    THESEUS
+  How sayst thou? What? My wife? ...
+                                 Say how she died.
+    LEADER
+  In a high death-knot that her own hands tied.
+
+    THESEUS
+  A fit of the old cold anguish? Tell me all--
+  That held her?   Or did some fresh thing befall?
+
+    LEADER
+  We know no more. But now arrived we be,
+  Theseus, to mourn for thy calamity.
+    [THESEUS _stays for a moment silent, and puts his hand on his brow.
+     He notices the wreath_.]
+
+    THESEUS
+  What? And all garlanded I come to her
+  With flowers, most evil-starred God's-messenger!
+    Ho, varlets, loose the portal bars; undo
+  The bolts; and let me see the bitter view
+  Of her whose death hath brought me to mine own.
+    [_The great central door of the Castle is thrown open wide, and the body
+     of_ PHAEDRA _is seen lying on a bier, surrounded by a group of
+     Handmaids, wailing_.]
+
+    THE HANDMAIDS
+  Ah me, what thou hast suffered and hast done:
+    A deed to wrap this roof in flame!
+  Why was thine hand so strong, thine heart so bold?
+  Wherefore. O dead in anger, dead in shame,
+  The long, long wrestling ere thy breath was cold?
+          O ill-starred Wife,
+  What brought this blackness over all thy life?
+    [_A throng of Men and Women has gradually collected_.]
+
+    THESEUS
+          Ah me, this is the last
+  --Hear, O my countrymen!--and bitterest
+  Of Theseus' labours! Fortune all unblest,
+  How hath thine heavy heel across me passed!
+  Is it the stain of sins done long ago,
+          Some fell God still remembereth,
+  That must so dim and fret my life with death?
+  I cannot win to shore; and the waves flow
+  Above mine eyes, to be surmounted not.
+          Ah wife, sweet wife, what name
+          Can fit thine heavy lot?
+  Gone like a wild bird, like a blowing flame,
+  In one swift gust, where all things are forgot!
+          Alas! this misery!
+  Sure 'tis some stroke of God's great anger rolled
+          From age to age on me,
+  For some dire sin wrought by dim kings of old.
+
+    LEADER
+  Sire, this great grief hath come to many an one,
+  A true wife lost. Thou art not all alone.
+
+    THESEUS
+          Deep, deep beneath the Earth,
+          Dark may my dwelling be,
+  And night my heart's one comrade, in the dearth,
+  O Love, of thy most sweet society.
+  This is my death, O Phaedra, more than thine.
+    [_He turns suddenly on the Attendants_.]
+  Speak who speak can! What was it? What malign
+  Swift stroke, O heart discounselled, leapt on thee?
+    [_He bends over_ PHAEDRA; _then, as no one speaks looks fiercely up_.]
+  What, will ye speak? Or are they dumb as death,
+  This herd of thralls, my high house harboureth?
+    [_There is no answer. He bends again over_ PHAEDRA.]
+
+    SOME WOMEN
+          Woe, woe! God brings to birth
+  A new grief here, close on the other's tread!
+          My life hath lost its worth.
+  May all go now with what is finishèd!
+  The castle of my King is overthrown,
+  A house no more, a house vanished and gone!
+
+    OTHER WOMEN
+  O God, if it may be in any way,
+  Let not this house be wrecked! Help us who pray!
+  I know not what is here: some unseen thing
+  That shows the Bird of Evil on the wing.
+   [THESEUS _has read the tablet and breaks out in uncontrollable emotion_.]
+
+    THESEUS
+  Oh, horror piled on horror!--Here is writ...
+  Nay, who could bear it, who could speak of it?
+
+    LEADER
+  What, O my King? If I may hear it, speak!
+
+    THESEUS
+  Doth not the tablet cry aloud, yea, shriek,
+  Things not to be forgotten?--Oh, to fly
+  And hide mine head! No more a man am I.
+      God what ghastly music echoes here!
+
+    LEADER
+  How wild thy voice! Some terrible thing is near.
+
+    THESEUS
+  No; my lips' gates will hold it back no more;
+  This deadly word,
+  That struggles on the brink and will not o'er,
+  Yet will not stay unheard.
+    [_He raises his hand, to make proclamation to all present_.]
+  Ho, hearken all this land!
+    [_The people gather expectantly about him_.]
+  Hippolytus by violence hath laid hand
+  On this my wife, forgetting God's great eye.
+    [_Murmurs of amazement and horror; THESEUS, apparently calm,
+     raises both arms to heaven._]
+  Therefore, O Thou my Father, hear my cry,
+  Poseidon! Thou didst grant me for mine own
+  Three prayers; for one of these, slay now my son,
+  Hippolytus; let him not outlive this day,
+  If true thy promise was! Lo, thus I pray.
+
+    LEADER
+  Oh, call that wild prayer back! O King, take heed!
+  I know that thou wilt live to rue this deed.
+
+    THESEUS
+  It may not be.--And more, I cast him out
+  From all my realms. He shall be held about
+  By two great dooms. Or by Poseidon's breath
+  He shall fall swiftly to the house of Death;
+  Or wandering, outcast, o'er strange land and sea,
+  Shall live and drain the cup of misery.
+
+    LEADER
+  Ah; see! here comes he at the point of need.
+  Shake off that evil mood, O King; have heed
+  For all thine house and folk--Great Theseus, hear!
+    [THESEUS _stands silent in fierce gloom._
+     HIPPOLYTUS _comes in from the right._]
+
+    HIPPOLYTUS
+  Father, I heard thy cry, and sped in fear
+  To help thee, but I see not yet the cause
+  That racked thee so. Say, Father, what it was.
+    [_The murmurs in the crowd, the silent gloom of his Father,
+     and the horror of the Chorus-women gradually work on_ HIPPOLYTUS
+    _and bewilder him. He catches sight of the bier._]
+  Ah, what is that! Nay, Father, not the Queen
+  Dead!
+    [_Murmurs in the crowd._]
+  'Tis most strange. 'Tis passing strange, I ween.
+  'Twas here I left her. Scarce an hour hath run
+  Since here she stood and looked on this same sun.
+  What is it with her? Wherefore did she die?
+    [THESEUS _remains silent. The murmurs increase._]
+  Father, to thee I speak. Oh, tell me, why,
+  Why art thou silent? What doth silence know
+  Of skill to stem the bitter flood of woe?
+  And human hearts in sorrow crave the more,
+  For knowledge, though the knowledge grieve them sore.
+  It is not love, to veil thy sorrows in
+  From one most near to thee, and more than kin.
+
+    THESEUS (_to himself_)
+  Fond race of men, so striving and so blind,
+  Ten thousand arts and wisdoms can ye find,
+  Desiring all and all imagining:
+  But ne'er have reached nor understood one thing,
+  To make a true heart there where no heart is!
+
+    HIPPOLYTUS
+  That were indeed beyond man's mysteries,
+  To make a false heart true against his will.
+  But why this subtle talk? It likes me ill,
+  Father; thy speech runs wild beneath this blow.
+
+    THESEUS (_as before_)
+  O would that God had given us here below
+  Some test of love, some sifting of the soul,
+  To tell the false and true! Or through the whole
+  Of men two voices ran, one true and right,
+  The other as chance willed it; that we might
+  Convict the liar by the true man's tone,
+  And not live duped forever, every one!
+
+    HIPPOLYTUS (_misunderstanding him; then guessing at something
+                of the truth_)
+  What? Hath some friend proved false?
+                                Or in thine ear
+  Whispered some slander? Stand I tainted here,
+  Though utterly innocent?   [_Murmurs from the crowd_.]
+                            Yea, dazed am I;
+  'Tis thy words daze me, falling all awry,
+  Away from reason, by fell fancies vexed!
+
+    THESEUS
+  O heart of man, what height wilt venture next?
+  What end comes to thy daring and thy crime?
+  For if with each man's life 'twill higher climb,
+  And every age break out in blood and lies
+  Beyond its fathers, must not God devise
+  Some new world far from ours, to hold therein
+  Such brood of all unfaithfulness and sin?
+    Look, all, upon this man, my son, his life
+  Sprung forth from mine! He hath defiled my wife;
+  And standeth here convicted by the dead,
+  A most black villain!
+    [HIPPOLYTUS _falls back with a cry and covers his face with his robe_.]
+                       Nay, hide not thine head!
+  Pollution, is it? Thee it will not stain.
+  Look up, and face thy Father's eyes again!
+    Thou friend of Gods, of all mankind elect;
+  Thou the pure heart, by thoughts of ill unflecked!
+  I care not for thy boasts. I am not mad,
+  To deem that Gods love best the base and bad.
+    Now is thy day! Now vaunt thee; thou so pure,
+  No flesh of life may pass thy lips! Now lure
+  Fools after thee; call Orpheus King and Lord;
+  Make ecstasies and wonders! Thumb thine hoard
+  Of ancient scrolls and ghostly mysteries--
+  Now thou art caught and known!
+                         Shun men like these,
+  I charge ye all! With solemn words they chase
+  their prey, and in their hearts plot foul disgrace.
+  My wife is dead.--"Ha, so that saves thee now,"
+  That is what grips thee worst, thou caitiff, thou!
+  What oaths, what subtle words, shall stronger be
+  Than this dead hand, to clear the guilt from thee?
+    "She hated thee," thou sayest; "the bastard born
+  Is ever sore and bitter as a thorn
+  To the true brood."--A sorry bargainer
+  In the ills and goods of life thou makest her,
+  If all her best-beloved she cast away
+  To wreck blind hate on thee!--What, wilt thou say
+  "Through every woman's nature one blind strand
+  Of passion winds, that men scarce understand?"--
+  Are we so different? Know I not the fire
+  And perilous flood of a young man's desire,
+  Desperate as any woman, and as blind,
+  When Cypris stings? Save that the man behind
+  Has all men's strength to aid him. Nay, 'twas thou...
+    But what avail to wrangle with thee now,
+  When the dead speaks for all to understand,
+  A perfect witness!
+                     Hie thee from this land
+  To exile with all speed. Come never more
+  To god-built Athens, not to the utmost shore
+  Of any realm where Theseus' arm is strong!
+  What? Shall I bow my head beneath this wrong,
+  And cower to thee? Not Isthmian Sinis so
+  Will bear men witness that I laid him low,
+  Nor Skiron's rocks, that share the salt sea's prey,
+  Grant that my hand hath weight vile things to slay!
+
+    LEADER
+  Alas! whom shall I call of mortal men
+  Happy? The highest are cast down again.
+
+    HIPPOLYTUS
+  Father, the hot strained fury of thy heart
+  Is terrible. Yet, albeit so swift thou art
+  Of speech, if all this matter were laid bare,
+  Speech were not then so swift; nay, nor so fair...
+    [_Murmurs again in the crowd_.]
+  I have no skill before a crowd to tell
+  My thoughts. 'Twere best with few, that know me well.--
+  Nay that is natural; tongues that sound but rude
+  In wise men's ears, speak to the multitude
+  With music.
+             None the less, since there is come
+  This stroke upon me, I must not be dumb,
+  But speak perforce... And there will I begin
+  Where thou beganst, as though to strip my sin
+  Naked, and I not speak a word!
+                                  Dost see
+  This sunlight and this earth? I swear to thee
+  There dwelleth not in these one man--deny
+  All that thou wilt!--more pure of sin than I.
+    Two things I know on earth: God's worship first;
+  Next to win friends about me, few, that thirst
+  To hold them clean of all unrighteousness.
+  Our rule doth curse the tempters, and no less
+  Who yieldeth to the tempters.--How, thou say'st,
+  "Dupes that I jest at?" Nay; I make a jest
+  Of no man. I am honest to the end,
+  Near or far off, with him I call my friend.
+  And most in that one thing, where now thy mesh
+  Would grip me, stainless quite! No woman's flesh
+  Hath e'er this body touched. Of all such deed
+  Naught wot I, save what things a man may read
+  In pictures or hear spoke; nor am I fain,
+  Being virgin-souled, to read or hear again.
+    My life of innocence moves thee not; so be it.
+  Show then what hath seduced me; let me see it.
+  Was that poor flesh so passing fair, beyond
+  All woman's loveliness?
+                         Was I some fond
+  False plotter, that I schemed to win through her
+  Thy castle's heirdom? Fond indeed I were!
+  Nay, a stark madman! "But a crown," thou sayest,
+  "Usurped, is sweet." Nay, rather most unblest
+  To all wise-hearted; sweet to fools and them
+  Whose eyes are blinded by the diadem.
+  In contests of all valour fain would I
+  Lead Hellas; but in rank and majesty
+  Not lead, but be at ease, with good men near
+  To love me, free to work and not to fear.
+  That brings more joy than any crown or throne.
+    [_He sees from the demeanor of_ THESEUS _and of the crowd that his words
+     are not winning them, but rather making them bitterer than before.
+     It comes to his lips to speak the whole truth_.]
+  I have said my say; save one thing...one alone
+    O had I here some witness in my need,
+  As I was witness! Could she hear me plead,
+  Face me and face the sunlight; well I know,
+  Our deeds would search us out for thee, and show
+  Who lies!
+          But now, I swear--so hear me both,
+  The Earth beneath and Zeus who Guards the Oath--
+  I never touched this woman that was thine!
+  No words could win me to it, nor incline
+  My heart to dream it. May God strike me down,
+  Nameless and fameless, without home or town,
+  An outcast and a wanderer of the world;
+  May my dead bones rest never, but be hurled
+  From sea to land, from land to angry sea,
+  If evil is my heart and false to thee!
+    [_He waits a moment; but sees that his Father is unmoved.
+     The truth again comes to his lips_.]
+  If 'twas some fear that made her cast away
+  Her life ... I know not. More I must not say.
+  Right hath she done when in her was no right;
+  And Right I follow to mine own despite!
+
+    LEADER
+  It is enough! God's name is witness large,
+  And thy great oath, to assoil thee of this charge,
+
+    THESEUS
+  Is not the man a juggler and a mage,
+  Cool wits and one right oath--what more?--to assuage
+  Sin and the wrath of injured fatherhood!
+
+    HIPPOLYTUS
+  Am I so cool? Nay, Father, 'tis thy mood
+  That makes me marvel! By my faith, wert thou
+  The son, and I the sire; and deemed I now
+  In very truth thou hadst my wife assailed,
+  I had not exiled thee, nor stood and railed,
+  But lifted once mine arm, and struck thee dead!
+
+    THESEUS
+  Thou gentle judge! Thou shalt not so be sped
+  To simple death, nor by thine own decree.
+  Swift death is bliss to men in misery.
+  Far off, friendless forever, thou shalt drain
+  Amid strange cities the last dregs of pain!
+
+    HIPPOLYTUS
+  Wilt verily cast me now beyond thy pale,
+  Not wait for Time, the lifter of the veil?
+
+    THESEUS
+  Aye, if I could, past Pontus, and the red
+  Atlantic marge! So do I hate thine head.
+
+    HIPPOLYTUS
+  Wilt weigh nor oath nor faith nor prophet's word
+  To prove me? Drive me from thy sight unheard?
+
+    THESEUS
+  This tablet here, that needs no prophet's lot
+  To speak from, tells me all. I ponder not
+  Thy fowls that fly above us! Let them fly.
+
+    HIPPOLYTUS
+  O ye great Gods, wherefore unlock not I
+  My lips, ere yet ye have slain me utterly,
+  Ye whom I love most? No. It may not be!
+  The one heart that I need I ne'er should gain
+  To trust me. I should break mine oath in vain.
+
+    THESEUS
+  Death! but he chokes me with his saintly tone!--
+  Up, get thee from this land! Begone! Begone!
+
+    HIPPOLYTUS
+  Where shall I turn me? Think. To what friend's door
+  Betake me, banished on a charge so sore?
+
+    THESEUS
+  Whoso delights to welcome to his hall
+  Vile ravishers ... to guard his hearth withal!
+
+    HIPPOLYTUS
+  Thou seekst my heart, my tears? Aye, let it be
+  Thus! I am vile to all men, and to thee!
+
+    THESEUS
+  There was a time for tears and thought; the time
+  Ere thou didst up and gird thee to thy crime.
+
+    HIPPOLYTUS
+  Ye stones, will ye not speak? Ye castle walls!
+  Bear witness if I be so vile, so false!
+
+    THESEUS
+  Aye, fly to voiceless witnesses! Yet here
+  A dumb deed speaks against thee, and speaks clear!
+
+    HIPPOLYTUS
+  Alas!
+  Would I could stand and watch this thing, and see
+  My face, and weep for very pity of me!
+
+    THESEUS
+  Full of thyself, as ever! Not a thought
+  For them that gave thee birth; nay, they are naught!
+
+    HIPPOLYTUS
+  O my wronged Mother! O my birth of shame!
+  May none I love e'er bear a bastard's name!
+
+    THESEUS (_in a sudden blaze of rage_)
+  Up, thralls, and drag him from my presence! What,
+  'Tis but a foreign felon! Heard ye not?
+    [_The thralls still hesitate in spite of his fury._]
+
+    HIPPOLYTUS
+  They touch me at their peril! Thine own hand
+  Lift, if thou canst, to drive me from the land.
+
+    THESEUS
+  That will I straight, unless my will be done!
+    [HIPPOLYTUS _comes close to him and kneels._]
+  Nay! Not for thee my pity! Get thee gone!
+    [HIPPOLYTUS _rises, makes a sign of submission, and slowly moves away._
+     THESEUS, _as soon as he sees him going, turns rapidly and enters the
+     Castle.  The door is closed again._ HIPPOLYTUS _has stopped for a
+     moment before the Statue of _ARTEMIS, _and, as _THESEUS_ departs,
+     breaks out in prayer._]
+
+    HIPPOLYTUS
+  So; it is done! O dark and miserable!
+  I see it all, but see not how to tell
+  The tale.--O thou belovèd, Leto's Maid,
+  Chase-comrade, fellow-rester in the glade,
+  Lo, I am driven with a caitiff's brand
+  Forth from great Athens! Fare ye well, O land
+  And city of old Erechtheus! Thou, Trozên,
+  What riches of glad youth mine eyes have seen
+  In thy broad plain! Farewell! This is the end;
+  The last word, the last look!
+                             Come, every friend
+  And fellow of my youth that still may stay,
+  Give me god-speed and cheer me on my way.
+  Ne'er shall ye see a man more pure of spot
+  Than me, though mine own Father loves me not!
+    [HIPPOLYTUS _goes away to the right, followed by many Huntsmen and other
+     young men. The rest of the crowd has by this time dispersed, except the
+     Women of the Chorus and some Men of the Chorus of Huntsmen_.]
+
+      CHORUS
+
+    _Men_
+  Surely the thought of the Gods hath balm in it alway, to win me
+  Far from my griefs; and a thought, deep in the dark of my mind,
+  Clings to a great Understanding. Yet all the spirit within me
+  Faints, when I watch men's deeds matched with the guerdon they find.
+              For Good comes in Evil's traces,
+              And the Evil the Good replaces;
+              And Life, 'mid the changing faces,
+                Wandereth weak and blind.
+
+    _Women_
+  What wilt thou grant me, O God? Lo, this is the prayer of my travail--
+  Some well-being; and chance not very bitter thereby;
+  Spirit uncrippled by pain; and a mind not deep to unravel
+  Truth unseen, nor yet dark with the brand of a lie.
+              With a veering mood to borrow
+              Its light from every morrow,
+              Fair friends and no deep sorrow,
+                Well could man live and die!
+
+    _Men_
+  Yet my spirit is no more clean,
+      And the weft of my hope is torn,
+  For the deed of wrong that mine eyes have seen,
+      The lie and the rage and the scorn;
+    A Star among men, yea, a Star
+      That in Hellas was bright,
+    By a Father's wrath driven far
+      To the wilds and the night.
+    Oh, alas for the sands of the shore!
+      Alas for the brakes of the hill,
+    Where the wolves shall fear thee no more,
+      And thy cry to Dictynna is still!
+
+    _Women_
+  No more in the yoke of thy car
+      Shall the colts of Enetia fleet;
+  Nor Limna's echoes quiver afar
+      To the clatter of galloping feet.
+    The sleepless music of old,
+      That leaped in the lyre,
+    Ceaseth now, and is cold,
+      In the halls of thy sire.
+    The bowers are discrowned and unladen
+      Where Artemis lay on the lea;
+    And the love-dream of many a maiden
+      Lost, in the losing of thee.
+
+    _A Maiden_
+  And I, even I,
+  For thy fall, O Friend,
+    Amid tears and tears,
+  Endure to the end
+    Of the empty years,
+          Of a life run dry.
+  In vain didst thou bear him,
+    Thou Mother forlorn!
+  Ye Gods that did snare him,
+    Lo, I cast in your faces
+  My hate and my scorn!
+    Ye love-linkèd Graces,
+      (Alas for the day!)
+         Was he naught, then, to you,
+       That ye cast him away,
+         The stainless and true,
+           From the old happy places?
+
+    LEADER
+  Look yonder! 'Tis the Prince's man, I ween
+  Speeding toward this gate, most dark of mien.
+    [A HENCHMAN _enters in haste_.]
+
+    HENCHMAN
+  Ye women, whither shall I go to seek
+  King Theseus? Is he in this dwelling? Speak!
+
+    LEADER
+  Lo, where he cometh through the Castle gate!
+    [THESEUS _comes out from the Castle_.]
+
+    HENCHMAN
+  O King, I bear thee tidings of dire weight
+  To thee, aye, and to every man, I ween,
+  From Athens to the marches of Trozên.
+
+    THESEUS
+  What? Some new stroke hath touched, unknown to me,
+  The sister cities of my sovranty?
+
+    HENCHMAN
+  Hippolytus is...Nay, not dead; but stark
+  Outstretched, a hairsbreadth this side of the dark.
+
+    THESEUS (_as though unmoved_)
+  How slain? Was there some other man, whose wife
+  He had like mine denied, that sought his life?
+
+    HENCHMAN
+  His own wild team destroyed him, and the dire
+  Curse of thy lips.
+                    The boon of thy great Sire
+  Is granted thee, O King, and thy son slain.
+
+    THESEUS
+  Ye Gods! And thou, Poseidon! Not in vain
+  I called thee Father; thou hast heard my prayer!
+  How did he die? Speak on. How closed the snare
+  Of Heaven to slay the shamer of my blood?
+
+    HENCHMAN
+  'Twas by the bank of beating sea we stood,
+  We thralls, and decked the steeds, and combed each mane;
+  Weeping; for word had come that ne'er again
+  The foot of our Hippolytus should roam
+  This land, but waste in exile by thy doom.
+    So stood we till he came, and in his tone
+  No music now save sorrow's, like our own,
+  And in his train a concourse without end
+  Of many a chase-fellow and many a friend.
+  At last he brushed his sobs away, and spake:
+  "Why this fond loitering? I would not break
+  My Father's law--Ho, there! My coursers four
+  And chariot, quick! This land is mine no more."
+    Thereat, be sure, each man of us made speed.
+  Swifter than speech we brought them up, each steed
+  Well dight and shining, at our Prince's side.
+  He grasped the reins upon the rail: one stride
+  And there he stood, a perfect charioteer,
+  Each foot in its own station set. Then clear
+  His voice rose, and his arms to heaven were spread:
+  "O Zeus, if I be false, strike thou me dead!
+  But, dead or living, let my Father see
+  One day, how falsely he hath hated me!"
+    Even as he spake, he lifted up the goad
+  And smote; and the steeds sprang. And down the road
+  We henchmen followed, hard beside the rein,
+  Each hand, to speed him, toward the Argive plain
+  And Epidaurus.
+                    So we made our way
+  Up toward the desert region, where the bay
+  Curls to a promontory near the verge
+  Of our Trozên, facing the southward surge
+  Of Saron's gulf. Just there an angry sound,
+  Slow-swelling, like God's thunder underground
+  Broke on us, and we trembled. And the steeds
+  Pricked their ears skyward, and threw back their heads.
+  And wonder came on all men, and affright,
+  Whence rose that awful voice. And swift our sight
+  Turned seaward, down the salt and roaring sand.
+    And there, above the horizon, seemed to stand
+  A wave unearthly, crested in the sky;
+  Till Skiron's Cape first vanished from mine eye,
+  Then sank the Isthmus hidden, then the rock
+  Of Epidaurus. Then it broke, one shock
+  And roar of gasping sea and spray flung far,
+  And shoreward swept, where stood the Prince's car.
+    Three lines of wave together raced, and, full
+  In the white crest of them, a wild Sea-Bull
+  Flung to the shore, a fell and marvellous Thing.
+  The whole land held his voice, and answering
+  Roared in each echo. And all we, gazing there,
+  Gazed seeing not; 'twas more than eyes could bear.
+    Then straight upon the team wild terror fell.
+  Howbeit, the Prince, cool-eyed and knowing well
+  Each changing mood a horse has, gripped the reins
+  Hard in both hands; then as an oarsman strains
+  Up from his bench, so strained he on the thong,
+  Back in the chariot swinging. But the young
+  Wild steeds bit hard the curb, and fled afar;
+  Nor rein nor guiding hand nor morticed car
+  Stayed them at all. For when he veered them round,
+  And aimed their flying feet to grassy ground,
+  In front uprose that Thing, and turned again
+  The four great coursers, terror-mad. But when
+  Their blind rage drove them toward the rocky places,
+  Silent and ever nearer to the traces,
+  It followed rockward, till one wheel-edge grazed.
+    The chariot tript and flew, and all was mazed
+  In turmoil. Up went wheel-box with a din,
+  Where the rock jagged, and nave and axle-pin.
+  And there--the long reins round him--there was he
+  Dragging, entangled irretrievably.
+  A dear head battering at the chariot side,
+  Sharp rocks, and rippled flesh, and a voice that cried:
+  "Stay, stay, O ye who fattened at my stalls,
+  Dash me not into nothing!--O thou false
+  Curse of my Father!--Help! Help, whoso can,
+  An innocent, innocent and stainless man!"
+    Many there were that laboured then, I wot,
+  To bear him succour, but could reach him not,
+  Till--who knows how?--at last the tangled rein
+  Unclasped him, and he fell, some little vein
+  Of life still pulsing in him.
+                                All beside,
+  The steeds, the hornèd Horror of the Tide,
+  Had vanished--who knows where?--in that wild land.
+    O King, I am a bondsman of thine hand;
+  Yet love nor fear nor duty me shall win
+  To say thine innocent son hath died in sin.
+  All women born may hang themselves, for me,
+  And swing their dying words from every tree
+  On Ida! For I know that he was true!
+
+    LEADER
+  O God, so cometh new disaster, new
+  Despair! And no escape from what must be!
+
+    THESEUS
+  Hate of the man thus stricken lifted me
+  At first to joy at hearing of thy tale;
+  But now, some shame before the Gods, some pale
+  Pity for mine own blood, hath o'er me come.
+  I laugh not, neither weep, at this fell doom.
+
+    HENCHMAN
+  How then? Behoves it bear him here, or how
+  Best do thy pleasure?--Speak, Lord. Yet if thou
+  Wilt mark at all my word, thou wilt not be
+  Fierce-hearted to thy child in misery.
+
+    THESEUS
+  Aye, bring him hither. Let me see the face
+  Of him who durst deny my deep disgrace
+  And his own sin; yea, speak with him, and prove
+  His clear guilt by God's judgments from above.
+    [_The_ HENCHMAN _departs to fetch_ HIPPOLYTUS; THESEUS _sits waiting in
+     stern gloom, while the_ CHORUS _sing. At the close of their song a
+     Divine Figure is seen approaching on a cloud in the air and the voice
+     of_ ARTEMIS _speaks_.]
+
+      CHORUS
+          Thou comest to bend the pride
+            Of the hearts of God and man,
+          Cypris; and by thy side,
+            In earth-encircling span,
+          He of the changing plumes,
+          The Wing that the world illumes,
+          As over the leagues of land flies he,
+          Over the salt and sounding sea.
+
+          For mad is the heart of Love,
+            And gold the gleam of his wing;
+          And all to the spell thereof
+            Bend, when he makes his spring;
+          All life that is wild and young
+            In mountain and wave and stream,
+          All that of earth is sprung,
+            Or breathes in the red sunbeam;
+          Yea, and Mankind. O'er all a royal throne,
+          Cyprian, Cyprian, is thine alone!
+
+    A VOICE FROM THE CLOUD
+  O thou that rulest in Aegeus' Hall,
+  I charge thee, hearken!
+                         Yea, it is I,
+  Artemis, Virgin of God most High.
+  Thou bitter King, art thou glad withal
+      For thy murdered son?
+  For thine ear bent low to a lying Queen,
+  For thine heart so swift amid things unseen?
+  Lo, all may see what end thou hast won!
+  Go, sink thine head in the waste abyss;
+  Or aloft to another world than this,
+      Birdwise with wings,
+      Fly far to thine hiding,
+  Far over this blood that clots and clings;
+  For in righteous men and in holy things
+      No rest is thine nor abiding!
+    [_The cloud has become stationary in the air._]
+  Hear, Theseus, all the story of thy grief!
+  Verily, I bring but anguish, not relief;
+  Yet, 'twas for this I came, to show how high
+  And clean was thy son's heart, that he may die
+  Honoured of men; aye, and to tell no less
+  The frenzy, or in some sort the nobleness,
+  Of thy dead wife. One Spirit there is, whom we
+  That know the joy of white virginity,
+  Most hate in heaven. She sent her fire to run
+  In Phaedra's veins, so that she loved thy son.
+  Yet strove she long with love, and in the stress
+  Fell not, till by her Nurse's craftiness
+  Betrayed, who stole, with oaths of secrecy,
+  To entreat thy son. And he, most righteously,
+  Nor did her will, nor, when thy railing scorn
+  Beat on him, broke the oath that he had sworn,
+  For God's sake. And thy Phaedra, panic-eyed,
+  Wrote a false writ, and slew thy son, and died,
+  Lying; but thou wast nimble to believe!
+    [THESEUS, _at first bewildered, then dumfounded,
+     now utters a deep groan._]
+  It stings thee, Theseus?--Nay, hear on and grieve
+  Yet sorer. Wottest thou three prayers were thine
+  Of sure fulfilment, from thy Sire divine?
+  Hast thou no foes about thee, then, that one--
+  Thou vile King!--must be turned against thy son?
+  The deed was thine. Thy Sea-born Sire but heard
+  The call of prayer, and bowed him to his word.
+  But thou in his eyes and in mine art found
+  Evil, who wouldst not think, nor probe, nor sound
+  The deeps of prophet's lore, nor day by day
+  Leave Time to search; but swifter than man may,
+  Let loose the curse to slay thine innocent son!
+
+    THESEUS
+  O Goddess, let me die!
+
+    ARTEMIS
+                      Nay; thou hast done
+  A heavy wrong; yet even beyond this ill
+  Abides for thee forgiveness. 'Twas the will
+  Of Cypris that these evil things should be,
+  Sating her wrath. And this immutably
+  Hath Zeus ordained in heaven: no God may thwart
+  A God's fixed will; we grieve but stand apart.
+  Else, but for fear of the Great Father's blame,
+  Never had I to such extreme of shame
+  Bowed me, be sure, as here to stand and see
+  Slain him I loved best of mortality!
+    Thy fault, O King, its ignorance sunders wide
+  From very wickedness; and she who died
+  By death the more disarmed thee, making dumb
+  The voice of question. And the storm has come
+  Most bitterly of all on thee! Yet I
+  Have mine own sorrow, too. When good men die,
+  There is no joy in heaven, albeit our ire
+  On child and house of the evil falls like fire.
+    [_A throng is seen approaching;_ HIPPOLYTUS _enters,
+     supported by his attendants._]
+
+    CHORUS
+    Lo, it is he! The bright young head
+        Yet upright there!
+    Ah the torn flesh and the blood-stained hair;
+      Alas for the kindred's trouble!
+    It falls as fire from a God's hand sped,
+      Two deaths, and mourning double.
+
+    HIPPOLYTUS
+        Ah, pain, pain, pain!
+  O unrighteous curse!   O unrighteous sire!
+  No hope.--My head is stabbed with fire,
+  And a leaping spasm about my brain.
+    Stay, let me rest. I can no more.
+  O fell, fell steeds that my own hand fed,
+  Have ye maimed me and slain, that loved me of yore?
+  --Soft there, ye thralls!   No trembling hands
+  As ye lift me, now!--Who is that that stands
+  At the right?--Now firm, and with measured tread,
+  Lift one accursèd and stricken sore
+          By a father's sinning.
+
+  Thou, Zeus, dost see me? Yea, it is I;
+  The proud and pure, the server of God,
+  The white and shining in sanctity!
+  To a visible death, to an open sod,
+              I walk my ways;
+  And all the labour of saintly days
+              Lost, lost, without meaning!
+
+              Ah God, it crawls
+                This agony, over me!
+              Let be, ye thralls!
+                Come, Death, and cover me:
+            Come, O thou Healer blest!
+
+              But a little more,
+                And my soul is clear,
+              And the anguish o'er!
+            Oh, a spear, a spear!
+          To rend my soul to its rest!
+
+  Oh, strange, false Curse! Was there some blood-stained head,
+  Some father of my line, unpunishèd,
+             Whose guilt lived in his kin,
+  And passed, and slept, till after this long day
+  It lights... Oh, why on me? Me, far away
+             And innocent of sin?
+
+             O words that cannot save!
+           When will this breathing end in that last deep
+  Pain that is painlessness? 'Tis sleep I crave.
+           When wilt thou bring me sleep,
+  Thou dark and midnight magic of the grave!
+
+    ARTEMIS
+  Sore-stricken man, bethink thee in this stress,
+  Thou dost but die for thine own nobleness.
+
+    HIPPOLYTUS
+  Ah!
+  O breath of heavenly fragrance! Though my pain
+  Burns, I can feel thee and find rest again.
+  The Goddess Artemis is with me here.
+
+    ARTEMIS
+  With thee and loving thee, poor sufferer!
+
+    HIPPOLYTUS
+  Dost see me, Mistress, nearing my last sleep?
+
+    ARTEMIS
+  Aye, and would weep for thee, if Gods could weep.
+
+    HIPPOLYTUS
+  Who now shall hunt with thee or hold thy quiver?
+
+    ARTEMIS
+  He dies but my love cleaves to him for ever.
+
+    HIPPOLYTUS
+  Who guide thy chariot, keep thy shrine-flowers fresh?
+
+    ARTEMIS
+  The accursed Cyprian caught him in her mesh!
+
+    HIPPOLYTUS
+  The Cyprian? Now I see it!--Aye, 'twas she.
+
+    ARTEMIS
+  She missed her worship, loathed thy chastity!
+
+    HIPPOLYTUS
+  Three lives by her one hand! 'Tis all clear now.
+
+    ARTEMIS
+  Yea, three; thy father and his Queen and thou.
+
+    HIPPOLYTUS
+  My father; yea, he too is pitiable!
+
+    ARTEMIS
+  A plotting Goddess tripped him, and he fell.
+
+    HIPPOLYTUS
+  Father, where art thou? ... Oh, thou sufferest sore!
+
+    THESEUS
+  Even unto death, child. There is joy no more.
+
+    HIPPOLYTUS
+  I pity thee in this coil; aye, more than me.
+
+    THESEUS
+  Would I could lie there dead instead of thee!
+
+    HIPPOLYTUS
+  Oh, bitter bounty of Poseidon's love!
+
+    THESEUS
+  Would God my lips had never breathed thereof!
+
+    HIPPOLYTUS (_gently_)
+  Nay, thine own rage had slain me then, some wise!
+
+    THESEUS
+  A lying spirit had made blind mine eyes!
+
+    HIPPOLYTUS
+  Ah me!
+  Would that a mortal's curse could reach to God!
+
+    ARTEMIS
+  Let be! For not, though deep beneath the sod
+  Thou liest, not unrequited nor unsung
+  Shall this fell stroke, from Cypris' rancour sprung,
+  Quell thee, mine own, the saintly and the true!
+    My hand shall win its vengeance through and through,
+  Piercing with flawless shaft what heart soe'er
+  Of all men living is most dear to Her.
+  Yea, and to thee, for this sore travail's sake,
+  Honours most high in Trozên will I make;
+  For yokeless maids before their bridal night
+  Shall shear for thee their tresses; and a rite
+  Of honouring tears be thine in ceaseless store;
+  And virgin's thoughts in music evermore
+  Turn toward thee, and praise thee in the Song
+  Of Phaedra's far-famed love and thy great wrong.
+    O seed of ancient Aegeus, bend thee now
+  And clasp thy son. Aye, hold and fear not thou!
+  Not knowingly hast thou slain him; and man's way,
+  When Gods send error, needs must fall astray.
+    And thou, Hippolytus, shrink not from the King,
+  Thy father. Thou wast born to bear this thing.
+    Farewell! I may not watch man's fleeting breath,
+  Nor strain mine eyes with the effluence of death.
+  And sure that Terror now is very near.
+    [_The cloud slowly rises and floats away_.]
+
+    HIPPOLYTUS
+  Farewell, farewell, most Blessèd! Lift thee clear
+  Of soiling men! Thou wilt not grieve in heaven
+  For my long love! ...Father, thou art forgiven.
+  It was Her will. I am not wroth with thee...
+  I have obeyed Her all my days! ...
+                                      Ah me,
+  The dark is drawing down upon mine eyes;
+  It hath me! ... Father! ... Hold me! Help me rise!
+
+    THESEUS (_supporting him in his arms_)
+  Ah, woe! How dost thou torture me, my son!
+
+    HIPPOLYTUS
+  I see the Great Gates opening. I am gone.
+
+    THESEUS
+  Gone? And my hand red-reeking from this thing!
+
+    HIPPOLYTUS
+  Nay, nay; thou art assoiled of manslaying.
+
+    THESEUS
+  Thou leav'st me clear of murder? Sayst thou so?
+
+    HIPPOLYTUS
+  Yea, by the Virgin of the Stainless Bow!
+
+    THESEUS
+  Dear Son! Ah, now I see thy nobleness!
+
+    HIPPOLYTUS
+  Pray that a true-born child may fill my place.
+
+    THESEUS
+  Ah me, thy righteous and god-fearing heart!
+
+    HIPPOLYTUS
+  Farewell;
+  A long farewell, dear Father, ere we part!
+    [THESEUS _bends down and embraces him passionately_.]
+
+    THESEUS
+  Not yet!--O hope and bear while thou hast breath!
+
+    HIPPOLYTUS
+  Lo, I have borne my burden. This is death...
+  Quick, Father; lay the mantle on my face.
+    [THESEUS _covers his face with a mantle and rises._]
+
+    THESEUS
+  Ye bounds of Pallas and of Pelops' race,
+  What greatness have ye lost!
+                               Woe, woe is me!
+  Thou Cyprian, long shall I remember thee!
+
+      CHORUS
+        On all this folk, both low and high,
+        A grief hath fallen beyond men's fears.
+        There cometh a throbbing of many tears,
+          A sound as of waters falling.
+            For when great men die,
+          A mighty name and a bitter cry
+          Rise up from a nation calling.
+       [_They move into the Castle, carrying the body of_ HIPPOLYTUS.]
+
+
+
+
+
+
+THE BACCHAE
+
+OF EURIPIDES
+
+
+DRAMATIS PERSONAE
+
+  DIONYSUS, THE GOD; _son of Zeus and of the Theban princess Semelê_.
+  CADMUS, _formerly King of Thebes, father of Semelê_.
+  PENTHEUS, _King of Thebes, grandson of Cadmus_.
+  AGAVE, _daughter of Cadmus, mother of Pentheus_.
+  TEIRESIAS, _an aged Theban prophet_.
+  A SOLDIER OF PENTHEUS' GUARD.
+  TWO MESSENGERS.
+  A CHORUS OF INSPIRED DAMSELS, _following Dionysus from the East_.
+
+_"The play was first produced after the death of Euripides by his son who
+bore the same name, together with the Iphigenia in Aulis and the Alcmaeon,
+probably in the year 405 B.C."_
+
+_The background represents the front of the Castle of_ PENTHEUS, _King of
+Thebes. At one side is visible the sacred Tomb of Semelê, a little
+enclosure overgrown with wild vines, with a cleft in the rocky floor of it
+from which there issues at times steam or smoke. The God_ DIONYSUS _is
+discovered alone._
+
+
+     DIONYSUS
+   Behold, God's Son is come unto this land
+   Of heaven's hot splendour lit to life, when she
+   Of Thebes, even I, Dionysus, whom the brand
+   Who bore me, Cadmus' daughter Semelê,
+   Died here. So, changed in shape from God to man,
+   I walk again by Dirce's streams and scan
+   Ismenus' shore. There by the castle side
+   I see her place, the Tomb of the Lightning's Bride,
+   The wreck of smouldering chambers, and the great
+   Faint wreaths of fire undying--as the hate
+   Dies not, that Hera held for Semelê.
+     Aye, Cadmus hath done well; in purity
+   He keeps this place apart, inviolate,
+   His daughter's sanctuary; and I have set
+   My green and clustered vines to robe it round
+     Far now behind me lies the golden ground
+   Of Lydian and of Phrygian; far away
+   The wide hot plains where Persian sunbeams play,
+   The Bactrian war-holds, and the storm-oppressed
+   Clime of the Mede, and Araby the Blest,
+   And Asia all, that by the salt sea lies
+   In proud embattled cities, motley-wise
+   Of Hellene and Barbarian interwrought;
+   And now I come to Hellas--having taught
+   All the world else my dances and my rite
+   Of mysteries, to show me in men's sight
+   Manifest God.
+                   And first of Helene lands
+   I cry this Thebes to waken; set her hands
+   To clasp my wand, mine ivied javelin,
+   And round her shoulders hang my wild fawn-skin.
+   For they have scorned me whom it least beseemed,
+   Semelê's sisters; mocked by birth, nor deemed
+   That Dionysus sprang from Dian seed.
+   My mother sinned, said they; and in her need,
+   With Cadmus plotting, cloaked her human shame
+   With the dread name of Zeus; for that the flame
+   From heaven consumed her, seeing she lied to God.
+     Thus must they vaunt; and therefore hath my rod
+   On them first fallen, and stung them forth wild-eyed
+   From empty chambers; the bare mountain side
+   Is made their home, and all their hearts are flame.
+   Yea, I have bound upon the necks of them
+   The harness of my rites. And with them all
+   The seed of womankind from hut and hall
+   Of Thebes, hath this my magic goaded out.
+   And there, with the old King's daughters, in a rout
+   Confused, they make their dwelling-place between
+   The roofless rocks and shadowy pine trees green.
+   Thus shall this Thebes, how sore soe'er it smart,
+   Learn and forget not, till she crave her part
+   In mine adoring; thus must I speak clear
+   To save my mother's fame, and crown me here,
+   As true God, born by Semelê to Zeus.
+
+   Now Cadmus yieldeth up his throne and use
+   Of royal honour to his daughter's son
+   Pentheus; who on my body hath begun
+   A war with God. He thrusteth me away
+   From due drink-offering, and, when men pray,
+   My name entreats not. Therefore on his own
+   Head and his people's shall my power be shown.
+   Then to another land, when all things here
+   Are well, must I fare onward, making clear
+   My godhead's might. But should this Theban town
+   Essay with wrath and battle to drag down
+   My maids, lo, in their path myself shall be,
+   And maniac armies battled after me!
+   For this I veil my godhead with the wan
+   Form of the things that die, and walk as Man.
+
+   O Brood of Tmolus o'er the wide world flown,
+   O Lydian band, my chosen and mine own,
+   Damsels uplifted o'er the orient deep
+   To wander where I wander, and to sleep
+   Where I sleep; up, and wake the old sweet sound,
+   The clang that I and mystic Rhea found,
+   The Timbrel of the Mountain! Gather all
+   Thebes to your song round Pentheus' royal hall.
+   I seek my new-made worshippers, to guide
+   Their dances up Kithaeron's pine clad side.
+
+     [_As he departs, there comes stealing in from the left a band of fifteen
+      Eastern Women, the light of the sunrise streaming upon their long white
+      robes and ivy-bound hair. They wear fawn-skins over the robes, and
+      carry some of them timbrels, some pipes and other instruments. Many
+      bear the thyrsus, or sacred Wand, made of reed ringed with ivy. They
+      enter stealthily till they see that the place is empty, and then begin
+      their mystic song of worship._]
+
+       CHORUS
+
+     _A Maiden_
+   From Asia, from the dayspring that uprises
+     To Bromios ever glorying we came.
+   We laboured for our Lord in many guises;
+   We toiled, but the toil is as the prize is;
+     Thou Mystery, we hail thee by thy name!
+
+     _Another_
+   Who lingers in the road? Who espies us?
+     We shall hide him in his house nor be bold.
+   Let the heart keep silence that defies us;
+   For I sing this day to Dionysus
+     The song that is appointed from of old.
+
+     _All the Maidens_
+   Oh, blessèd he in all wise,
+     Who hath drunk the Living Fountain,
+       Whose life no folly staineth,
+         And his soul is near to God;
+   Whose sins are lifted, pall-wise,
+     As he worships on the Mountain,
+       And where Cybele ordaineth,
+         Our Mother, he has trod:
+
+       His head with ivy laden
+         And his thyrsus tossing high,
+           For our God he lifts his cry;
+       "Up, O Bacchae, wife and maiden,
+         Come, O ye Bacchae, come;
+       Oh, bring the Joy-bestower,
+       God-seed of God the Sower,
+       Bring Bromios in his power
+           From Phrygia's mountain dome;
+       To street and town and tower,
+           Oh, bring ye Bromios home."
+
+   Whom erst in anguish lying
+     For an unborn life's desire,
+       As a dead thing in the Thunder
+         His mother cast to earth;
+   For her heart was dying, dying,
+     In the white heart of the fire;
+       Till Zeus, the Lord of Wonder,
+         Devised new lairs of birth;
+
+          Yea, his own flesh tore to hide him,
+            And with clasps of bitter gold
+            Did a secret son enfold,
+         And the Queen knew not beside him;
+            Till the perfect hour was there;
+         Then a hornèd God was found,
+         And a God of serpents crowned;
+         And for that are serpents wound
+            In the wands his maidens bear,
+         And the songs of serpents sound
+            In the mazes of their hair.
+
+     _Some Maidens_
+   All hail, O Thebes, thou nurse of Semelê!
+     With Semelê's wild ivy crown thy towers;
+   Oh, burst in bloom of wreathing bryony,
+        Berries and leaves and flowers;
+      Uplift the dark divine wand,
+      The oak-wand and the pine-wand,
+   And don thy fawn-skin, fringed in purity
+      With fleecy white, like ours.
+
+   Oh, cleanse thee in the wands' waving pride!
+     Yea, all men shall dance with us and pray,
+   When Bromios his companies shall guide
+     Hillward, ever hillward, where they stay,
+       The flock of the Believing,
+       The maids from loom and weaving
+     By the magic of his breath borne away.
+
+     _Others_
+   Hail thou, O Nurse of Zeus, O Caverned Haunt
+       Where fierce arms clanged to guard God's cradle rare,
+     For thee of old crested Corybant
+       First woke in Cretan air
+     The wild orb of our orgies,
+     The Timbrel; and thy gorges
+   Rang with this strain; and blended Phrygian chant
+      And sweet keen pipes were there.
+
+     But the Timbrel, the Timbrel was another's,
+       And away to Mother Rhea it must wend;
+     And to our holy singing from the Mother's
+       The mad Satyrs carried it, to blend
+         In the dancing and the cheer
+         Of our third and perfect Year;
+     And it serves Dionysus in the end!
+
+     _A Maiden_
+   O glad, glad on the mountains
+     To swoon in the race outworn,
+       When the holy fawn-skin clings,
+         And all else sweeps away,
+   To the joy of the red quick fountains,
+     The blood of the hill-goat torn,
+       The glory of wild-beast ravenings,
+         Where the hill-tops catch the day;
+   To the Phrygian, Lydian, mountains!
+     'Tis Bromios leads the way.
+
+     _Another Maiden_
+   Then streams the earth with milk, yea, streams
+   With wine and nectar of the bee,
+   And through the air dim perfume steams
+   Of Syrian frankincense; and He,
+   Our leader, from his thyrsus spray
+   A torchlight tosses high and higher,
+   A torchlight like a beacon-fire,
+   To waken all that faint and stray;
+   And sets them leaping as he sings,
+   His tresses rippling to the sky,
+   And deep beneath the Maenad cry
+   His proud voice rings:
+         "Come, O ye Bacchae, come!"
+
+     _All the Maidens_
+   Hither, O fragrant of Tmolus the Golden,
+     Come with the voice of timbrel and drum;
+   Let the cry of your joyance uplift and embolden
+     The God of the joy-cry; O Bacchanals, come!
+   With pealing of pipes and with Phrygian clamour,
+     On, where the vision of holiness thrills,
+   And the music climbs and the maddening glamour,
+     With the wild White Maids, to the hills, to the hills!
+   Oh, then, like a colt as he runs by a river,
+     A colt by his dam, when the heart of him sings,
+   With the keen limbs drawn and the fleet foot a-quiver,
+            Away the Bacchanal springs!
+
+     [_Enter_ TEIRESIAS. _He is an old man and blind, leaning upon a staff
+      and moving with slow stateliness, though wearing the Ivy and the
+      Bacchic fawn-skin_.]
+
+     TEIRESIAS
+   Ho, there, who keeps the gate?--Go, summon me
+   Cadmus, Agênor's son, who crossed the sea
+   From Sidon and upreared this Theban hold.
+   Go, whosoe'er thou art. See he be told
+   Teiresias seeketh him. Himself will gauge
+   Mine errand, and the compact, age with age,
+   I vowed with him, grey hair with snow-white hair,
+   To deck the new God's thyrsus, and to wear
+   His fawn-skin, and with ivy crown our brows.
+
+     [_Enter_ CADMUS _from the Castle. He is even older than_
+       TEIRESIAS, _and wears the same attire_.]
+
+     CADMUS
+   True friend! I knew that voice of thine, that flows
+   Like mellow wisdom from a fountain wise.
+   And, lo, I come prepared, in all the guise
+   And harness of this God. Are we not told
+   His is the soul of that dead life of old
+   That sprang from mine own daughter? Surely then
+   Must thou and I with all the strength of men
+   Exalt him.
+               Where then shall I stand, where tread
+   The dance and toss this bowed and hoary head?
+   O friend, in thee is wisdom; guide my grey
+   And eld-worn steps, eld-worn Teiresias.--Nay;
+   I am not weak.
+     [_At the first movement of worship his manner begins to change;
+      a mysterious strength and exaltation enter into him._]
+
+                Surely this arm could smite
+   The wild earth with its thyrsus, day and night,
+   And faint not! Sweetly and forgetfully
+   The dim years fall from off me!
+
+     TEIRESIAS
+                         As with thee,
+   With me 'tis likewise. Light am I and young,
+   And will essay the dancing and the song.
+
+     CADMUS
+   Quick, then, our chariots to the mountain road.
+
+     TEIRESIAS
+   Nay; to take steeds were to mistrust the God.
+
+     CADMUS
+   So be it.   Mine old arms shall guide thee there.
+
+     TEIRESIAS
+   The God himself shall guide! Have thou no care.
+
+     CADMUS
+   And in all Thebes shall no man dance but we?
+
+     TEIRESIAS
+   Aye, Thebes is blinded. Thou and I can see.
+
+     CADMUS
+   'Tis weary waiting; hold my hand, friend; so.
+
+     TEIRESIAS
+   Lo, there is mine. So linkèd let us go.
+
+     CADMUS
+   Shall things of dust the Gods' dark ways despise?
+
+     TEIRESIAS
+   Or prove our wit on Heaven's high mysteries?
+   Not thou and I! That heritage sublime
+   Our sires have left us, wisdom old as time,
+   No word of man, how deep soe'er his thought
+   And won of subtlest toil, may bring to naught.
+     Aye, men will rail that I forgot my years,
+   To dance and wreath with ivy these white hairs;
+   What recks it? Seeing the God no line hath told
+   To mark what man shall dance, or young or old;
+   But craves his honours from mortality
+   All, no man marked apart; and great shall be!
+
+     CADMUS (_after looking away toward the Mountain_).
+   Teiresias, since this light thou canst not read,
+   I must be seer for thee. Here comes in speed
+   Pentheus, Echîon's son, whom I have raised
+   To rule my people in my stead.--Amazed
+   He seems. Stand close, and mark what we shall hear.
+
+     [_The two stand back, partially concealed, while there enters in hot
+      haste_ PENTHEUS, _followed by a bodyguard. He is speaking to the_
+      SOLDIER _in command._]
+
+     PENTHEUS
+   Scarce had I crossed our borders, when mine ear
+   Was caught by this strange rumour, that our own
+   Wives, our own sisters, from their hearths are flown
+   To wild and secret rites; and cluster there
+   High on the shadowy hills, with dance and prayer
+   To adore this new-made God, this Dionyse,
+   Whate'er he be!--And in their companies
+   Deep wine-jars stand, and ever and anon
+   Away into the loneliness now one
+   Steals forth, and now a second, maid or dame
+   Where love lies waiting, not of God! The flame
+   They say, of Bacchios wraps them. Bacchios! Nay,
+   'Tis more to Aphrodite that they pray.
+   Howbeit, all that I have found, my men
+   Hold bound and shackled in our dungeon den;
+   The rest, I will go hunt them! Aye, and snare
+   My birds with nets of iron, to quell their prayer
+   And mountain song and rites of rascaldom!
+   They tell me, too, there is a stranger come,
+   A man of charm and spell, from Lydian seas,
+   A head all gold and cloudy fragrancies,
+   A wine-red cheek, and eyes that hold the light
+   Of the very Cyprian. Day and livelong night
+   He haunts amid the damsels, o'er each lip
+   Dangling his cup of joyance! Let me grip
+   Him once, but once, within these walls, right swift
+   That wand shall cease its music, and that drift
+   Of tossing curls lie still--when my rude sword
+   Falls between neck and trunk! 'Tis all his word,
+   This tale of Dionysus; how that same
+   Babe that was blasted by the lightning flame
+   With his dead mother, for that mother's lie,
+   Was re-conceived, born perfect from the thigh
+   Of Zeus, and now is God! What call ye these?
+   Dreams? Gibes of the unknown wanderer? Blasphemies
+   That crave the very gibbet?
+                              Stay! God wot,
+   Here is another marvel! See I not
+   In motley fawn-skins robed the vision-seer
+   Teiresias? And my mother's father here--
+   O depth of scorn!--adoring with the wand
+   Of Bacchios?--Father!--Nay, mine eyes are fond;
+   It is not your white heads so fancy-flown!
+   It cannot be! Cast off that ivy crown,
+   O mine own mother's sire! Set free that hand
+   That cowers about its staff.
+                           'Tis thou hast planned
+   This work, Teiresias! 'Tis thou must set
+   Another altar and another yet
+   Amongst us, watch new birds, and win more hire
+   Of gold, interpreting new signs of fire!
+   But for thy silver hairs, I tell thee true,
+   Thou now wert sitting chained amid thy crew
+   Of raving damsels, for this evil dream
+   Thou hast brought us, of new Gods! When once the gleam
+   Of grapes hath lit a Woman's Festival,
+   In all their prayers is no more health at all!
+
+     LEADER OF THE CHORUS (_the words are not heard by_ PENTHEUS)
+   Injurious King, hast thou no fear of God,
+   Nor Cadmus, sower of the Giants' Sod,
+   Life-spring to great Echîon and to thee?
+
+     TEIRESIAS
+   Good words my son, come easily, when he
+   That speaks is wise, and speaks but for the right.
+   Else come they never! Swift are thine, and bright
+   As though with thought, yet have no thought at all
+     Lo this new God, whom thou dost flout withal,
+   I cannot speak the greatness wherewith He
+   In Hellas shall be great! Two spirits there be,
+   Young Prince, that in man's world are first of worth.
+   Dêmêtêr one is named; she is the Earth--
+   Call her which name thou will!--who feeds man's frame
+   With sustenance of things dry. And that which came
+   Her work to perfect, second, is the Power
+   From Semelê born. He found the liquid show
+   Hid in the grape. He rests man's spirit dim
+   From grieving, when the vine exalteth him.
+   He giveth sleep to sink the fretful day
+   In cool forgetting. Is there any way
+   With man's sore heart, save only to forget?
+     Yea, being God, the blood of him is set
+   Before the Gods in sacrifice, that we
+   For his sake may be blest.--And so, to thee,
+   That fable shames him, how this God was knit
+   Into God's flesh? Nay, learn the truth of it
+   Cleared from the false.--When from that deadly light
+   Zeus saved the babe, and up to Olympus' height
+   Raised him, and Hera's wrath would cast him thence
+   Then Zeus devised him a divine defence.
+   A fragment of the world-encircling fire
+   He rent apart, and wrought to his desire
+   Of shape and hue, in the image of the child,
+   And gave to Hera's rage. And so, beguiled
+   By change and passing time, this tale was born,
+   How the babe-god was hidden in the torn
+   Flesh of his sire. He hath no shame thereby.
+     A prophet is he likewise. Prophecy
+   Cleaves to all frenzy, but beyond all else
+   To frenzy of prayer. Then in us verily dwells
+   The God himself, and speaks the thing to be.
+   Yea, and of Ares' realm a part hath he.
+   When mortal armies, mailêd and arrayed,
+   Have in strange fear, or ever blade met blade,
+   Fled maddened, 'tis this God hath palsied them.
+   Aye, over Delphi's rock-built diadem
+   Thou yet shalt see him leaping with his train
+   Of fire across the twin-peaked mountain-plain,
+   Flaming the darkness with his mystic wand,
+   And great in Hellas.--List and understand,
+   King Pentheus! Dream not thou that force is power;
+   Nor, if thou hast a thought, and that thought sour
+   And sick, oh, dream not thought is wisdom!--Up,
+   Receive this God to Thebes; pour forth the cup
+   Of sacrifice, and pray, and wreathe thy brow.
+     Thou fearest for the damsels? Think thee now;
+   How toucheth this the part of Dionyse
+   To hold maids pure perforce? In them it lies,
+   And their own hearts; and in the wildest rite
+   Cometh no stain to her whose heart is white.
+     Nay, mark me! Thou hast thy joy, when the Gate
+   Stands thronged, and Pentheus' name is lifted great
+   And high by Thebes in clamour; shall not He
+   Rejoice in his due meed of majesty?
+     Howbeit, this Cadmus whom thou scorn'st and I
+   Will wear His crown, and tread His dances! Aye,
+   Our hairs are white, yet shall that dance be trod!
+   I will not lift mine arm to war with God
+   For thee nor all thy words. Madness most fell
+   Is on thee, madness wrought by some dread spell,
+   But not by spell nor leechcraft to be cured!
+
+     CHORUS
+   Grey prophet, worthy of Phoebus is thy word,
+   And wise in honouring Bromios, our great God.
+
+     CADMUS
+   My son, right well Teiresias points thy road.
+   Oh, make thine habitation here with us,
+   Not lonely, against men's uses. Hazardous
+   Is this quick bird-like beating of thy thought
+   Where no thought dwells.--Grant that this God be naught,
+   Yet let that Naught be Somewhat in thy mouth;
+   Lie boldly, and say He is! So north and south
+   Shall marvel, how there sprang a thing divine
+   From Semelê's flesh, and honour all our line.
+                     [_Drawing nearer to_ PENTHEUS.]
+     Is there not blood before thine eyes even now?
+   Our lost Actaeon's blood, whom long ago
+   His own red hounds through yonder forest dim
+   Tore unto death, because he vaunted him
+   Against most holy Artemis? Oh, beware
+   And let me wreathe thy temples. Make thy prayer
+   With us, and walk thee humbly in God's sight.
+     [_He makes as if to set the wreath on_ PENTHEUS _head_.]
+
+     PENTHEUS
+   Down with that hand! Aroint thee to thy rite
+   Nor smear on me thy foul contagion!
+                     [Turning upon TEIRESIAS.]
+               This
+   Thy folly's head and prompter shall not miss
+   The justice that he needs!--Go, half my guard
+   Forth to the rock-seat where he dwells in ward
+   O'er birds and wonders; rend the stone with crown
+   And trident; make one wreck of high and low
+   And toss his bands to all the winds of air!
+     Ha, have I found the way to sting thee, there?
+   The rest, forth through the town! And seek amain
+   This girl-faced stranger, that hath wrought such bane
+   To all Thebes, preying on our maids and wives
+   Seek till ye find; and lead him here in gyves,
+   Till he be judged and stoned and weep in blood
+   The day he troubled Pentheus with his God!
+     [_The guards set forth in two bodies_; PENTHEUS _goes into the Castle._]
+
+     TEIRESIAS
+   Hard heart, how little dost thou know what seed
+   Thou sowest! Blind before, and now indeed
+   Most mad!--Come, Cadmus, let us go our way,
+   And pray for this our persecutor, pray
+   For this poor city, that the righteous God
+   Move not in anger.--Take thine ivy rod
+   And help my steps, as I help thine. 'Twere ill,
+   If two old men should fall by the roadway. Still,
+   Come what come may, our service shall be done
+   To Bacchios, the All-Father's mystic son
+     O Pentheus, named of sorrow! Shall he claim
+   From all thy house fulfilment of his name,
+   Old Cadmus?--Nay, I speak not from mine art,
+   But as I see--blind words and a blind heart!
+     [_The two Old Men go off towards the Mountain._]
+
+       CHORUS
+
+     _Some Maidens_
+   Thou Immaculate on high;
+   Thou Recording Purity;
+   Thou that stoopest, Golden Wing,
+   Earthward, manward, pitying,
+   Hearest thou this angry King?
+   Hearest thou the rage and scorn
+     'Gainst the Lord of Many Voices,
+   Him of mortal mother born,
+   Him in whom man's heart rejoices,
+   Girt with garlands and with glee,
+   First in Heaven's sovranty?
+     For his kingdom, it is there,
+     In the dancing and the prayer,
+   In the music and the laughter,
+     In the vanishing of care,
+   And of all before and after;
+   In the Gods' high banquet, when
+     Gleams the graperflood, flashed to heaven;
+   Yea, and in the feasts of men
+   Comes his crownèd slumber; then
+     Pain is dead and hate forgiven!
+
+     _Others_
+   Loose thy lips from out the rein;
+   Lift thy wisdom to disdain;
+   Whatso law thou canst not see,
+   Scorning; so the end shall be
+   Uttermost calamity!
+   'Tis the life of quiet breath,
+     'Tis the simple and the true,
+   Storm nor earthquake shattereth,
+     Nor shall aught the house undo
+
+   Where they dwell. For, far away,
+   Hidden from the eyes of day,
+     Watchers are there in the skies,
+     That can see man's life, and prize
+   Deeds well done by things of clay.
+     But the world's Wise are not wise,
+   Claiming more than mortal may.
+   Life is such a little thing;
+     Lo, their present is departed,
+   And the dreams to which they cling
+   Come not. Mad imagining
+     Theirs, I ween, and empty-hearted!
+
+     _Divers Maidens_
+   Where is the Home for me?
+     O Cyprus, set in the sea,
+   Aphrodite's home In the soft sea-foam,
+     Would I could wend to thee;
+   Where the wings of the Loves are furled,
+   And faint the heart of the world.
+
+     Aye, unto Paphos' isle,
+     Where the rainless meadows smile
+   With riches rolled From the hundred-fold
+     Mouths of the far-off Nile,
+   Streaming beneath the waves
+   To the roots of the seaward caves.
+
+     But a better land is there
+     Where Olympus cleaves the air,
+   The high still dell Where the Muses dwell,
+     Fairest of all things fair!
+   O there is Grace, and there is the Heart's Desire,
+   And peace to adore thee, thou Spirit of Guiding Fire!
+
+          *       *       *       *       *
+
+   A God of Heaven is he,
+   And born in majesty;
+   Yet hath he mirth
+   In the joy of the Earth,
+
+   And he loveth constantly
+   Her who brings increase,
+   The Feeder of Children, Peace.
+     No grudge hath he of the great;
+     No scorn of the mean estate;
+   But to all that liveth His wine he giveth,
+     Griefless, immaculate;
+   Only on them that spurn
+   Joy, may his anger burn.
+
+     Love thou the Day and the Night;
+     Be glad of the Dark and the Light;
+   And avert thine eyes From the lore of the wise,
+     That have honour in proud men's sight.
+   The simple nameless herd of Humanity
+   Hath deeds and faith that are truth enough for me!
+
+     [_As the Chorus ceases, a party of the guards return, leading in the
+      midst of them_ DIONYSUS, _bound. The_ SOLDIER _in command stands forth,
+      as_ PENTHEUS, _hearing the tramp of feet, comes out from the Castle._]
+
+     SOLDIER
+   Our quest is finished, and thy prey, O King,
+   Caught; for the chase was swift, and this wild thing
+   Most tame; yet never flinched, nor thought to flee,
+   But held both hands out unresistingly--
+   No change, no blanching of the wine-red cheek.
+   He waited while we came, and bade us wreak
+   All thy decree; yea, laughed, and made my best
+   Easy, till I for very shame confessed
+   And said: "O stranger, not of mine own will
+   I bind thee, but his bidding to fulfil
+   Who sent me."
+
+                 And those prisoned Maids withal
+   Whom thou didst seize and bind within the wall
+   Of thy great dungeon, they are fled, O King.
+   Free in the woods, a-dance and glorying
+   To Bromios. Of their own impulse fell
+   To earth, men say, fetter and manacle,
+   And bars slid back untouched of mortal hand
+   Yea, full of many wonders to thy land
+   Is this man come.... Howbeit, it lies with thee!
+
+     PENTHEUS
+   Ye are mad!--Unhand him. Howso swift he be,
+   My toils are round him and he shall not fly.
+     [_The guards loose the arms of_ DIONYSUS; PENTHEUS _studies him for a
+      while in silence then speaks jeeringly._   DIONYSUS _remains gentle
+      and unafraid._]
+   Marry, a fair shape for a woman's eye,
+   Sir stranger! And thou seek'st no more, I ween!
+   Long curls, withal! That shows thou ne'er hast been
+   A wrestler!--down both cheeks so softly tossed
+   And winsome! And a white skin! It hath cost
+   Thee pains, to please thy damsels with this white
+   And red of cheeks that never face the light!
+     [_DIONYSUS is silent._]
+   Speak, sirrah; tell me first thy name and race.
+
+     DIONYSUS
+   No glory is therein, nor yet disgrace.
+   Thou hast heard of Tmolus, the bright hill of flowers?
+
+     PENTHEUS
+   Surely, the ridge that winds by Sardis towers.
+
+     DIONYSUS
+   Thence am I; Lydia was my fatherland.
+
+     PENTHEUS
+   And whence these revelations, that thy band
+   Spreadeth in Hellas?
+
+     DIONYSUS
+                    Their intent and use
+   Dionysus oped to me, the Child of Zeus.
+
+     PENTHEUS (_brutally_)
+   Is there a Zeus there, that can still beget
+   Young Gods?
+
+     DIONYSUS
+                Nay, only He whose seal was set
+   Here in thy Thebes on Semele.
+
+     PENTHEUS
+                               What way
+   Descended he upon thee? In full day
+   Or vision of night?
+
+     DIONYSUS
+                       Most clear he stood, and scanned
+   My soul, and gave his emblems to mine hand.
+
+     PENTHEUS
+   What like be they, these emblems?
+
+     DIONYSUS
+                                    That may none
+   Reveal, nor know, save his Elect alone.
+
+     PENTHEUS
+   And what good bring they to the worshipper?
+
+     DIONYSUS
+   Good beyond price, but not for thee to hear.
+
+     PENTHEUS
+   Thou trickster? Thou wouldst prick me on the more
+   To seek them out!
+
+     DIONYSUS
+                    His mysteries abhor
+   The touch of sin-lovers.
+
+     PENTHEUS
+                           And so thine eyes
+   Saw this God plain; what guise had he?
+
+     DIONYSUS
+                                            What guise
+   It liked him. 'Twas not I ordained his shape.
+
+     PENTHEUS
+   Aye, deftly turned again.   An idle jape,
+   And nothing answered!
+
+     DIONYSUS
+                          Wise words being brought
+   To blinded eyes will seem as things of nought.
+
+     PENTHEUS
+   And comest thou first to Thebes, to have thy God
+   Established?
+
+     DIONYSUS
+               Nay; all Barbary hath trod
+   His dance ere this.
+
+     PENTHEUS
+                         A low blind folk, I ween,
+   Beside our Hellenes!
+
+     DIONYSUS
+                         Higher and more keen
+   In this thing, though their ways are not thy way.
+
+     PENTHEUS
+   How is thy worship held, by night or day?
+
+     DIONYSUS
+   Most oft by night; 'tis a majestic thing,
+   The darkness.
+
+     PENTHEUS
+                 Ha! with women worshipping?
+   'Tis craft and rottenness!
+
+     DIONYSUS
+                             By day no less,
+   Whoso will seek may find unholiness--
+
+     PENTHEUS
+   Enough!   Thy doom is fixed, for false pretence
+   Corrupting Thebes.
+
+     DIONYSUS
+                       Not mine; but thine, for dense
+   Blindness of heart, and for blaspheming God!
+
+     PENTHEUS
+   A ready knave it is, and brazen-browed,
+   This mystery-priest!
+
+     DIONYSUS
+                        Come, say what it shall be,
+   My doom; what dire thing wilt thou do to me?
+
+     PENTHEUS
+   First, shear that delicate curl that dangles there.
+     [_He beckons to the soldiers, who approach_ DIONYSUS.]
+
+     DIONYSUS
+   I have vowed it to my God; 'tis holy hair.
+     [_The soldiers cut off the tress_.]
+
+     PENTHEUS
+   Next, yield me up thy staff!
+
+     DIONYSUS
+                    Raise thine own hand
+   To take it.   This is Dionysus' wand.
+     [PENTHEUS _takes the staff_.]
+
+     PENTHEUS
+   Last, I will hold thee prisoned here.
+
+     DIONYSUS
+                                      My Lord
+   God will unloose me, when I speak the word.
+
+     PENTHEUS
+   He may, if e'er again amid his bands
+   Of saints he hears thy voice!
+
+     DIONYSUS
+                                   Even now he stands
+   Close here, and sees all that I suffer.
+
+     PENTHEUS
+                                           What?
+   Where is he?   For mine eyes discern him not.
+
+     DIONYSUS
+   Where I am!   'Tis thine own impurity
+   That veils him from thee.
+
+     PENTHEUS
+                              The dog jeers at me!
+   At me and Thebes!    Bind him!
+     [_The soldiers begin to bind him_.]
+
+     DIONYSUS
+                        I charge ye, bind
+   Me not! I having vision and ye blind!
+
+     PENTHEUS
+   And I, with better right, say bind the more!
+     [_The soldiers obey_.]
+
+     DIONYSUS
+   Thou knowest not what end thou seekest, nor
+   What deed thou doest, nor what man thou art!
+
+     PENTHEUS (_mocking_)
+   Agâvê's son, and on the father's part
+   Echion's, hight Pentheus!
+
+     DIONYSUS
+                       So let it be,
+   A name fore-written to calamity!
+
+     PENTHEUS
+   Away, and tie him where the steeds are tied;
+   Aye, let him lie in the manger!--There abide
+   And stare into the darkness!--And this rout
+   Of womankind that clusters thee about,
+   Thy ministers of worship, are my slaves!
+   It may be I will sell them o'er the waves,
+   Hither and thither; else they shall be set
+   To labour at my distaffs, and forget
+   Their timbrel and their songs of dawning day!
+
+   DIONYSUS
+   I go; for that which may not be, I may
+   Not suffer! Yet for this thy sin, lo, He
+   Whom thou deniest cometh after thee
+   For recompense. Yea, in thy wrong to us,
+   Thou hast cast Him into thy prison-house!
+     [DIONYSUS, _without his wand, his hair shorn, and his arms tightly
+      bound, is led off by the guards to  his  dungeon._   PENTHEUS  _returns
+      into the Palace._]
+
+       CHORUS
+
+     _Some Maidens_
+   Achelous' roaming daughter,
+   Holy Dircê, virgin water,
+   Bathed he not of old in thee,
+   The Babe of God, the Mystery?
+   When from out the fire immortal
+     To himself his God did take him,
+     To his own flesh, and bespake him:
+     "Enter now life's second portal,
+   Motherless Mystery; lo, I break
+   Mine own body for thy sake,
+     Thou of the Twofold Door, and seal thee
+   Mine, O Bromios,"--thus he spake--
+   "And to this thy land reveal thee."
+
+     _All_
+   Still my prayer toward thee quivers,
+     Dircê, still to thee I hie me;
+   Why, O Blessed among Rivers,
+     Wilt thou fly me and deny me?
+       By His own joy I vow,
+       By the grape upon the bough,
+   Thou shalt seek Him in the midnight, thou shalt love Him, even now!
+
+     _Other Maidens_
+   Dark and of the dark impassioned
+   Is this Pentheus' blood; yea, fashioned
+   Of the Dragon, and his birth
+   From Echion, child of Earth.
+   He is no man, but a wonder;
+     Did the Earth-Child not beget him,
+     As a red Giant, to set him
+   Against God, against the Thunder?
+   He will bind me for his prize,
+   Me, the Bride of Dionyse;
+     And my priest, my friend, is taken
+   Even now, and buried lies;
+     In the dark he lies forsaken!
+
+     _All_
+   Lo, we race with death, we perish,
+     Dionysus, here before thee!
+   Dost thou mark us not, nor cherish,
+     Who implore thee, and adore thee?
+       Hither down Olympus' side,
+       Come, O Holy One defied,
+   Be thy golden wand uplifted o'er the tyrant in his pride!
+
+     _A Maiden_
+   Oh, where art thou? In thine own
+   Nysa, thou our help alone?
+   O'er fierce beasts in orient lands
+       Doth thy thronging thyrsus wave,
+       By the high Corycian Cave,
+   Or where stern Olympus stands;
+   In the elm-woods and the oaken,
+       There where Orpheus harped of old,
+     And the trees awoke and knew him,
+     And the wild things gathered to him,
+   As he sang amid the broken
+       Glens his music manifold?
+   Dionysus loveth thee;
+   Blessed Land of Piërie,
+     He will come to thee with dancing,
+   Come with joy and mystery;
+   With the Maenads at his hest
+   Winding, winding to the West;
+     Cross the flood of swiftly glancing
+   Axios in majesty;
+   Cross the Lydias, the giver
+     Of good gifts and waving green;
+   Cross that Father-Stream of story,
+   Through a land of steeds and glory
+   Rolling, bravest, fairest River
+   E'er of mortals seen!
+
+     A VOICE WITHIN
+                           Io! Io!
+   Awake, ye damsels; hear my cry,
+       Calling my Chosen; hearken ye!
+
+     A MAIDEN
+   Who speaketh?   Oh, what echoes thus?
+
+     ANOTHER
+   A Voice, a Voice, that calleth us!
+
+     THE VOICE
+   Be of good cheer!   Lo, it is I,
+       The Child of Zeus and Semelê.
+
+     A MAIDEN
+   O Master, Master, it is Thou!
+
+     ANOTHER
+   O Holy Voice, be with us now!
+
+     THE VOICE
+   Spirit of the Chained Earthquake,
+   Hear my word; awake, awake!
+     [_An Earthquake suddenly shakes the pillars of the Castle._]
+
+     A MAIDEN
+   Ha! what  is  coming? Shall the  hall
+   Of Pentheus racked in ruin fall?
+
+     LEADER
+   Our God is in the house! Ye maids adore Him!
+
+     CHORUS
+   We adore Him all!
+
+     THE VOICE
+   Unveil the Lightning's eye; arouse
+   The fire that sleeps, against this house!
+     [_Fire leaps upon the Tomb of Semelê._]
+
+     A MAIDEN
+   Ah, saw ye, marked ye there the flame
+     From Semelê's enhallowed sod
+   Awakened? Yea, the Death that came
+   Ablaze from heaven of old, the same
+     Hot splendour of the shaft of God?
+
+     LEADER
+   Oh  cast ye, cast ye, to the earth! The Lord
+     Cometh against this house! Oh, cast ye down,
+   Ye trembling damsels; He, our own adored,
+     God's Child hath come, and all is overthrown!
+
+   [_The Maidens cast themselves upon the ground, their eyes earthward._
+     DIONYSUS, _alone and unbound, enters from the Castle._]
+
+     DIONYSUS
+   Ye Damsels of the Morning Hills, why lie ye thus dismayed?
+   Ye marked him, then, our Master, and the mighty hand he laid
+   On tower and rock, shaking the house of Pentheus?--But arise,
+   And cast the trembling from your flesh, and lift untroubled eyes.
+
+     LEADER
+   O Light in Darkness, is it thou? O Priest, is this thy face?
+   My heart leaps out to greet thee from the deep of loneliness.
+
+     DIONYSUS
+   Fell ye so quick despairing, when beneath the Gate I passed?
+   Should the gates of Pentheus quell me, or his darkness make me fast?
+
+     LEADER
+   Oh, what was left if thou wert gone?   What could I but despair?
+   How hast thou 'scaped the man of sin?    Who freed thee from the snare?
+
+     DIONYSUS
+   I had no pain nor peril; 'twas mine own hand set me free.
+
+     LEADER
+   Thine arms were gyvèd!
+
+     DIONYSUS
+                    Nay, no gyve, no touch, was laid on me!
+   'Twas there I mocked him, in his gyves, and gave him dreams for food.
+   For when he laid me down, behold, before the stall there stood
+   A Bull of Offering. And this King, he bit his lips and straight
+   Fell on and bound it, hoof and limb, with gasping wrath and sweat.
+   And I sat watching!--Then a Voice; and lo, our Lord was come,
+   And the house shook, and a great flame stood o'er his mother's tomb.
+   And Pentheus hied this way and that, and called his thralls amain
+   For water, lest his roof-tree burn; and all toiled, all in vain.
+   Then deemed a-sudden I was gone; and left his fire, and sped
+   Back to the prison portals, and his lifted sword shone red.
+   But there, methinks, the God had wrought--I speak but as I guess--
+   Some dream-shape in mine image; for he smote at emptiness,
+   Stabbed in the air, and strove in wrath, as though 'twere me he slew.
+   Then 'mid his dreams God smote him yet again! He overthrew
+   All that high house. And there in wreck for evermore it lies,
+   That the day of this my bondage may be sore in Pentheus' eyes!
+   And now his sword is fallen, and he lies outworn and wan
+   Who dared to rise against his God in wrath, being but man.
+   And I uprose and left him, and in all peace took my path
+   Force to my Chosen, recking light of Pentheus and his wrath.
+     But soft, methinks a footstep sounds even now within the hall;
+   'Tis he; how think ye he will stand, and what words speak withal?
+   I will endure him gently, though he come in fury hot.
+   For still are the ways of Wisdom, and her temper trembleth not!
+     [_Enter_ PENTHEUS _in fury_]
+
+     PENTHEUS
+   It is too much! This Eastern knave hath slipped
+   His prison, whom I held but now, hard gripped
+   In bondage.--Ha! 'Tis he!--What, sirrah, how
+   Show'st thou before my portals?
+     [_He advances furiously upon him._]
+
+     DIONYSUS
+   And set a quiet carriage to thy rage.
+
+     PENTHEUS
+   How comest thou here? How didst thou break thy cage?
+   Speak!
+
+     DIONYSUS
+        Said I not, or didst thou mark not me,
+   There was One living that should set me free?
+
+     PENTHEUS
+   Who? Ever wilder are these tales of thine.
+
+     DIONYSUS
+   He who first made for man the clustered vine.
+
+     PENTHEUS
+   I scorn him and his vines.
+
+     DIONYSUS
+                               For Dionyse
+   'Tis well; for in thy scorn his glory lies.
+
+     PENTHEUS (_to his guard_)
+   Go swift to all the towers, and bar withal
+   Each gate!
+
+     DIONYSUS
+                What, cannot God o'erleap a wall?
+
+     PENTHEUS
+   Oh, wit thou hast, save where thou needest it!
+
+     DIONYSUS
+   Whereso it most imports, there is my wit!--
+   Nay, peace!   Abide till he who hasteth from
+   The mountain side with news for thee, be come.
+   We will not fly, but wait on thy command.
+     [_Enter suddenly and in haste a Messenger from the Mountain._]
+
+     MESSENGER
+   Great Pentheus, Lord of all this Theban land,
+   I come from high Kithaeron, where the frore
+   Snow spangles gleam and cease not evermore....
+
+     PENTHEUS
+   And what of import may thy coming bring?
+
+     MESSENGER
+   I have seen the Wild White Women there, O King,
+   Whose fleet limbs darted arrow-like but now
+   From Thebes away, and come to tell thee how
+   They work strange deeds and passing marvel. Yet
+   I first would learn thy pleasure. Shall I set
+   My whole tale forth, or veil the stranger part?
+   Yea Lord, I fear the swiftness of thy heart,
+   Thine edgèd wrath and more than royal soul.
+
+     PENTHEUS
+   Thy tale shall nothing scathe thee.--Tell the whole.
+   It skills not to be wroth with honesty.
+   Nay, if thy news of them be dark, 'tis he
+   Shall pay it, who bewitched and led them on.
+
+     MESSENGER
+   Our herded kine were moving in the dawn
+   Up to the peaks, the greyest, coldest time,
+   When the first rays steal earthward, and the rime
+   Yields, when I saw three bands of them. The one
+   Autonoë led, one Ino, one thine own
+   Mother, Agâvê. There beneath the trees
+   Sleeping they lay, like wild things flung at ease
+   In the forest; one half sinking on a bed
+   Of deep pine greenery; one with careless head
+   Amid the fallen oak leaves; all most cold
+   In purity--not as thy tale was told
+   Of wine-cups and wild music and the chase
+   For love amid the forest's loneliness.
+   Then rose the Queen Agâvê suddenly
+   Amid her band, and gave the God's wild cry,
+   "Awake, ye Bacchanals! I hear the sound
+   Of hornèd kine. Awake ye!"--Then, all round,
+   Alert, the warm sleep fallen from their eyes,
+   A marvel of swift ranks I saw them rise,
+   Dames young and old, and gentle maids unwed
+   Among them. O'er their shoulders first they shed
+   Their tresses, and caught up the fallen fold
+   Of mantles where some clasp had loosened hold,
+   And girt the dappled fawn-skins in with long
+   Quick snakes that hissed and writhed with quivering tongue.
+   And one a young fawn held, and one a wild
+   Wolf cub, and fed them with white milk, and smiled
+   In love, young mothers with a mother's breast
+   And babes at home forgotten! Then they pressed
+   Wreathed ivy round their brows, and oaken sprays
+   And flowering bryony. And one would raise
+   Her wand and smite the rock, and straight a jet
+   Of quick bright water came. Another set
+   Her thyrsus in the bosomed earth, and there
+   Was red wine that the God sent up to her,
+   A darkling fountain. And if any lips
+   Sought whiter draughts, with dipping finger-tips
+   They pressed the sod, and gushing from the ground
+   Came springs of milk. And reed-wands ivy-crowned
+   Ran with sweet honey, drop by drop.--O King,
+   Hadst thou been there, as I, and seen this thing,
+   With prayer and most high wonder hadst thou gone
+   To adore this God whom now thou rail'st upon!
+     Howbeit, the kine-wardens and shepherds straight
+   Came to one place, amazed, and held debate;
+   And one being there who walked the streets and scanned
+   The ways of speech, took lead of them whose hand
+   Knew but the slow soil and the solemn hill,
+   And flattering spoke, and asked: "Is it your will,
+   Masters, we stay the mother of the King,
+   Agâvê, from her lawless worshipping,
+   And win us royal thanks?"--And this seemed good
+   To all; and through the branching underwood
+   We hid us, cowering in the leaves. And there
+   Through the appointed hour they made their prayer
+   And worship of the Wand, with one accord
+   Of heart and cry--"Iacchos, Bromios, Lord,
+   God of God born!"--And all the mountain felt,
+   And worshipped with them; and the wild things knelt
+   And ramped and gloried, and the wilderness
+   Was filled with moving voices and dim stress.
+     Soon, as it chanced, beside my thicket-close
+   The Queen herself passed dancing, and I rose
+   And sprang to seize her. But she turned her face
+   Upon me: "Ho, my rovers of the chase,
+   My wild White Hounds, we are hunted! Up, each rod
+   And follow, follow, for our Lord and God!"
+   Thereat, for fear they tear us, all we fled
+   Amazed; and on, with hand unweaponèd
+   They swept toward our herds that browsed the green
+   Hill grass. Great uddered kine then hadst thou seen
+   Bellowing in sword-like hands that cleave and tear,
+   A live steer riven asunder, and the air
+   Tossed with rent ribs or limbs of cloven tread,
+   And flesh upon the branches, and a red
+   Rain from the deep green pines. Yea, bulls of pride,
+   Horns swift to rage, were fronted and aside
+   Flung stumbling, by those multitudinous hands
+   Dragged pitilessly. And swifter were the bands
+   Of garbèd flesh and bone unbound withal
+   Than on thy royal eyes the lids may fall.
+     Then on like birds, by their own speed upborne,
+   They swept toward the plains of waving corn
+   That lie beside Asopus' banks, and bring
+   To Thebes the rich fruit of her harvesting.
+   On Hysiae and Erythrae that lie nursed
+   Amid Kithaeron's bowering rocks, they burst
+   Destroying, as a foeman's army comes.
+   They caught up little children from their homes,
+   High on their shoulders, babes unheld, that swayed
+   And laughed and fell not; all a wreck they made;
+   Yea, bronze and iron did shatter, and in play
+   Struck hither and thither, yet no wound had they;
+   Caught fire from out the hearths, yea, carried hot
+   Flames in their tresses and were scorchèd not!
+     The village folk in wrath took spear and sword,
+   And turned upon the Bacchae. Then, dread Lord,
+   The wonder was. For spear nor barbèd brand
+   Could scathe nor touch the damsels; but the Wand,
+   The soft and wreathèd wand their white hands sped,
+   Blasted those men and quelled them, and they fled
+   Dizzily. Sure some God was in these things!
+     And the holy women back to those strange springs
+   Returned, that God had sent them when the day
+   Dawned, on the upper heights; and washed away
+   The stain of battle. And those girdling snakes
+   Hissed out to lap the waterdrops from cheeks
+   And hair and breast.
+                         Therefore I counsel thee
+   O King, receive this Spirit, whoe'er he be,
+   To Thebes in glory. Greatness manifold
+   Is all about him; and the tale is told
+   That this is he who first to man did give
+   The grief-assuaging vine. Oh, let him live;
+   For if he die, then Love herself is slain,
+   And nothing joyous in the world again!
+
+     LEADER
+   Albeit I tremble, and scarce may speak my thought
+   To a king's face, yet will I hide it not.
+   Dionyse is God, no God more true nor higher!
+
+     PENTHEUS
+   It bursts hard by us, like a smothered fire,
+   This frenzy of Bacchic women! All my land
+   Is made their mock.--This needs an iron hand!
+     Ho, Captain! Quick to the Electran Gate;
+   Bid gather all my men-at-arms thereat;
+   Call all that spur the charger, all who know
+   To wield the orbèd targe or bend the bow;
+   We march to war--'Fore God, shall women dare
+   Such deeds against us? 'Tis too much to bear!
+
+     DIONYSUS
+   Thou mark'st me not, O King, and holdest light
+   My solemn words; yet, in thine own despite,
+   I warn thee still. Lift thou not up thy spear
+   Against a God, but hold thy peace, and fear
+   His wrath! He will not brook it, if thou fright
+   His Chosen from the hills of their delight.
+
+     PENTHEUS
+   Peace, thou! And if for once thou hast slipped chain,
+   Give thanks!--Or shall I knot thine arms again?
+
+     DIONYSUS
+   Better to yield him prayer and sacrifice
+   Than kick against the pricks, since Dionyse
+   Is God, and thou but mortal.
+
+     PENTHEUS
+       That will I!
+   Yea, sacrifice of women's blood, to cry
+   His name through all Kithaeron!
+
+     DIONYSUS
+                  Ye shall fly,
+   All, and abase your shields of bronzen rim
+   Before their wands.
+
+     PENTHEUS
+                There is no way with him,
+   This stranger that so dogs us! Well or ill
+   I may entreat him, he must babble still!
+
+     DIONYSUS
+   Wait, good my friend! These crooked matters may
+   Even yet be straightened.
+     [PENTHEUS _has started as though to seek his army at the gate._]
+
+     PENTHEUS
+       Aye, if I obey
+   Mine own slaves' will; how else?
+
+     DIONYSUS
+       Myself will lead
+   The damsels hither, without sword or steed.
+
+     PENTHEUS
+   How now?--This is some plot against me!
+
+     DIONYSUS
+                                      What
+   Dost fear? Only to save thee do I plot.
+
+     PENTHEUS
+   It is some compact ye have made, whereby
+   To dance these hills for ever!
+
+     DIONYSUS
+                                  Verily,
+   That is my compact, plighted with my Lord!
+
+     PENTHEUS (_turning from him_)
+   Ho, armourers! Bring forth my shield and sword!--
+   And thou, be silent!
+
+     DIONYSUS (_after regarding him fixedly, speaks with resignation_)
+                Ah!--Have then thy will!
+     [_He fixes his eyes upon_ PENTHEUS _again, while the armourers bring out
+      his armour; then speaks in a tone of command._]
+   Man, thou wouldst fain behold them on the hill
+   Praying!
+
+     PENTHEUS (_who during the rest of this scene, with a few exceptions,
+       simply speaks the thoughts that_ DIONYSUS _puts into him, losing power
+       over his own mind_)
+              That would I, though it cost me all
+   The gold of Thebes!
+
+     DIONYSUS
+              So much? Thou art quick to fall
+   To such great longing.
+
+     PENTHEUS (_somewhat bewildered at what he has said_)
+              Aye; 'twould grieve me much
+   To see them flown with wine.
+
+     DIONYSUS
+              Yet cravest thou such
+   A sight as would much grieve thee?
+
+     PENTHEUS
+              Yes; I fain
+   Would watch, ambushed among the pines.
+
+     DIONYSUS
+              'Twere vain
+   To hide. They soon will track thee out.
+
+     PENTHEUS
+              Well said!
+   'Twere best done openly.
+
+     DIONYSUS
+              Wilt thou be led
+   By me, and try the venture?
+
+     PENTHEUS
+              Aye, indeed!
+   Lead on. Why should we tarry?
+
+     DIONYSUS
+              First we need
+   A rich and trailing robe of fine-linen
+   To gird thee.
+
+     PENTHEUS
+       Nay; am I a woman, then,
+   And no man more.
+
+     DIONYSUS
+       Wouldst have them slay thee dead?
+   No man may see their mysteries.
+
+     PENTHEUS
+       Well said'--
+   I marked thy subtle temper long ere now.
+
+     DIONYSUS
+   'Tis Dionyse that prompteth me.
+
+     PENTHEUS
+              And how
+   Mean'st thou the further plan?
+
+     DIONYSUS
+              First take thy way
+   Within. I will array thee.
+
+     PENTHEUS
+              What array!
+   The woman's? Nay, I will not.
+
+     DIONYSUS
+              Doth it change
+   So soon, all thy desire to see this strange
+   Adoring?
+
+     PENTHEUS
+              Wait! What garb wilt thou bestow
+   About me?
+
+     DIONYSUS
+              First a long tress dangling low
+   Beneath thy shoulders.
+
+     PENTHEUS
+         Aye, and next?
+
+     DIONYSUS
+              The same red
+   Robe, falling to thy feet; and on thine head
+   A snood.
+
+     PENTHEUS
+              And after? Hast thou aught beyond?
+
+     DIONYSUS
+   Surely; the dappled fawn-skin and the wand.
+
+     PENTHEUS (_after a struggle with himself_)
+   Enough! I cannot wear a robe and snood.
+
+     DIONYSUS
+   Wouldst liefer draw the sword and spill men's blood?
+
+     PENTHEUS (_again doubting_)
+   True, that were evil.--Aye; 'tis best to go
+   First to some place of watch.
+
+     DIONYSUS
+              Far wiser so,
+   Than seek by wrath wrath's bitter recompense.
+
+     PENTHEUS
+   What of the city streets? Canst lead me hence
+   Unseen of any?
+
+     DIONYSUS
+               Lonely and untried
+   Thy path from hence shall be, and I thy guide!
+
+     PENTHEUS
+   I care for nothing, so these Bacchanals
+   Triumph not against me! ...Forward to my halls
+   Within!--I will ordain what seemeth best.
+
+     DIONYSUS
+   So be it, O King! 'Tis mine to obey thine hest,
+   Whate'er it  be.
+
+     PENTHEUS (_after hesitating once more and waiting_)
+       Well, I will go--perchance
+   To march and scatter them with serried lance.
+   Perchance to take thy plan.... I know not yet.
+     [_Exit_ PENTHEUS _into the Castle._]
+
+     DIONYSUS
+   Damsels, the lion walketh to the net!
+   He finds his Bacchae now, and sees and dies,
+   And pays for all his sin!--O Dionyse,
+   This is thine hour and thou not far away.
+   Grant us our vengeance!--First, O Master, stay
+   The course of reason in him, and instil
+   A foam of madness. Let his seeing will,
+   Which ne'er had stooped to put thy vesture on,
+   Be darkened, till the deed is lightly done.
+   Grant likewise that he find through all his streets
+   Loud scorn, this man of wrath and bitter threats
+   That made Thebes tremble, led in woman's guise.
+     I go to fold that robe of sacrifice
+   On Pentheus, that shall deck him to the dark.
+   His mother's gift!--So shall he learn and mark
+   God's true Son, Dionyse, in fulness God,
+   Most fearful, yet to man most soft of mood.
+     [_Exit_ DIONYSUS, _following PENTHEUS into Castle._]
+
+       CHORUS
+
+     _Some Maidens_
+
+   Will they ever come to me, ever again,
+     The long long dances,
+   On through the dark till the dim stars wane?
+   Shall I feel the dew on my throat, and the stream
+   Of wind in my hair? Shall our white feet gleam
+     In the dim expanses?
+   Oh, feet of a fawn to the greenwood fled,
+     Alone in the grass and the loveliness;
+
+   Leap of the hunted, no more in dread,
+     Beyond the snares and the deadly press:
+   Yet a voice still in the distance sounds,
+   A voice and a fear and a haste of hounds;
+   O wildly labouring, fiercely fleet,
+     Onward yet by river and glen ...
+   Is it joy or terror, ye storm-swift feet? ...
+     To the dear lone lands untroubled of men,
+   Where no voice sounds, and amid the shadowy green
+   The little things of the woodland live unseen.
+
+   What else is Wisdom? What of man's endeavour
+     Or God's high grace, so lovely and so great?
+     To stand from fear set free, to breathe and wait;
+     To hold a hand uplifted over Hate;
+   And shall not Loveliness be loved for ever?
+
+     _Others_
+   O Strength of God, slow art thou and still,
+     Yet failest never!
+   On them that worship the Ruthless Will,
+   On them that dream, doth His judgment wait.
+   Dreams of the proud man, making great
+     And greater ever,
+   Things which are not of God. In wide
+     And devious coverts, hunter-wise,
+   He coucheth Time's unhasting stride,
+     Following, following, him whose eyes
+   Look not to Heaven. For all is vain,
+   The pulse of the heart, the plot of the brain,
+     That striveth beyond the laws that live.
+     And is thy Fate so much to give,
+     Is it so hard a thing to see,
+     That the Spirit of God, whate'er it be,
+   The Law that abides and changes not, ages long,
+   The Eternal and Nature-born--these things be strong?
+
+   What else is Wisdom? What of man's endeavour
+     Or God's high grace so lovely and so great?
+     To stand from fear set free, to breathe and wait;
+     To hold a hand uplifted over Hate;
+   And shall not Loveliness be loved for ever?
+
+     LEADER
+     Happy he, on the weary sea
+   Who hath fled the tempest and won the haven.
+     Happy whoso hath risen, free,
+   Above his striving. For strangely graven
+     Is the orb of life, that one and another
+     In gold and power may outpass his brother,
+     And men in their millions float and flow
+   And seethe with a million hopes as leaven;
+     And they win their Will, or they miss their Will,
+     And the hopes are dead or are pined for still,
+       But whoe'er can know,
+       As the long days go,
+   That To Live is happy, hath found his Heaven!
+
+     [_Re-enter_ DIONYSUS, _from the Castle_]
+
+     DIONYSUS
+   O eye that cravest sights thou must not see,
+   O heart athirst for that which slakes not! Thee,
+   Pentheus, I call; forth and be seen, in guise
+   Of woman, Maenad, saint of Dionyse,
+   To spy upon His Chosen and thine own
+   Mother!
+     [_Enter_ PENTHEUS, _clad like a Bacchanal, and strangely excited,
+      a spirit of Bacchic madness overshadowing him._]
+             Thy shape, methinks, is like to one
+   Of Cadmus' royal maids!
+
+     PENTHEUS
+                           Yea; and mine eye
+   Is bright! Yon sun shines twofold in the sky,
+   Thebes twofold and the Wall of Seven Gates....
+   And is it a Wild Bull this, that walks and waits
+   Before me? There are horns upon thy brow!
+   What art thou, man or beast!   For surely now
+   The Bull is on thee!
+
+     DIONYSUS
+   He who erst was wrath,
+   Goes with us now in gentleness. He hath
+   Unsealed thine eyes to see what thou shouldst see.
+
+     PENTHEUS
+   Say; stand I not as Ino stands, or she
+   Who bore me?
+
+     DIONYSUS
+   When I look on thee, it seems
+   I see their very selves!--But stay; why streams
+   That lock abroad, not where I laid it, crossed
+   Under the coif?
+
+     PENTHEUS
+                 I did it, as I tossed
+   My head in dancing, to and fro, and cried
+   His holy music!
+
+     DIONYSUS (_tending him_)
+                  It shall soon be tied
+   Aright. 'Tis mine to tend thee. . . . Nay, but stand
+   With head straight.
+
+     PENTHEUS
+               In the hollow of thine hand
+   I lay me. Deck me as thou wilt.
+
+     DIONYSUS
+                        Thy zone
+   Is loosened likewise; and the folded gown
+   Not evenly falling to the feet.
+
+     PENTHEUS
+                        'Tis so,
+   By the right foot. But here methinks, they flow
+   In one straight line to the heel.
+
+     DIONYSUS (_while tending him_)
+                        And if thou prove
+   Their madness true, aye, more than true, what love
+   And thanks hast thou for me?
+
+     PENTHEUS (_not listening to him_)
+                         In my right hand
+   Is it, or thus, that I should bear the wand
+   To be most like to them?
+
+     DIONYSUS
+                        Up let it swing
+   In the right hand, timed with the right foot's spring....
+   'Tis well thy heart is changed!
+
+     PENTHEUS (_more wildly_)
+                     What strength is this!
+   Kithaeron's steeps and all that in them is--
+   How say'st thou?--Could my shoulders lift the whole?
+
+     DIONYSUS
+   Surely thou canst, and if thou wilt! Thy soul,
+   Being once so sick, now stands as it should stand.
+
+     PENTHEUS
+   Shall it be bars of iron?  Or this bare hand
+   And shoulder to the crags, to wrench them down?
+
+     DIONYSUS
+   Wouldst wreck the Nymphs' wild temples, and the brown
+   Rocks, where Pan pipes at noonday?
+
+     PENTHEUS
+                       Nay; not I!
+   Force is not well with women. I will lie
+   Hid in the pine-brake.
+
+     DIONYSUS
+   Even as fits a spy
+   On holy and fearful things, so shalt thou lie!
+
+     PENTHEUS (_with a laugh_)
+   They lie there now, methinks--the wild birds, caught
+   By love among the leaves, and fluttering not!
+
+     DIONYSUS
+   It may be. That is what thou goest to see,
+   Aye, and to trap them--so they trap not thee!
+
+     PENTHEUS
+   Forth through the Thebans' town! I am their king,
+   Aye, their one Man, seeing I dare this thing!
+
+     DIONYSUS
+   Yea, thou shalt bear their burden, thou alone;
+   Therefore thy trial awaiteth thee!--But on;
+   With me into thine ambush shalt thou come
+   Unscathed; then let another bear thee home!
+
+     PENTHEUS
+   The Queen, my mother.
+
+     DIONYSUS
+                         Marked of every eye.
+
+     PENTHEUS
+   For that I go!
+
+     DIONYSUS
+                  Thou shalt be borne on high!
+
+     PENTHEUS
+   That were like pride!
+
+     DIONYSUS
+                         Thy mother's hands shall share
+   Thy carrying.
+
+     PENTHEUS
+                  Nay; I need not such soft care!
+
+     DIONYSUS
+   So soft?
+
+     PENTHEUS
+               Whate'er it be, I have earned it well!
+     [_Exit_ PENTHEUS _towards the Mountain._]
+
+     DIONYSUS
+   Fell, fell art thou; and to a doom so fell
+   Thou walkest, that thy name from South to North
+   Shall shine, a sign for ever!--Reach thou forth
+   Thine arms, Agâvê, now, and ye dark-browed
+   Cadmeian sisters! Greet this prince so proud
+   To the high ordeal, where save God and me,
+   None walks unscathed!--The rest this day shall see.
+     [_Exit_ DIONYSUS _following_ PENTHEUS.]
+
+        CHORUS
+
+     _Some Maidens_
+   O hounds raging and blind,
+     Up by the mountain road,
+   Sprites of the maddened mind,
+     To the wild Maids of God;
+   Fill with your rage their eyes,
+     Rage at the rage unblest,
+   Watching in woman's guise,
+     The spy upon God's Possessed.
+
+      _A Bacchanal_
+   Who shall be first, to mark
+     Eyes in the rock that spy,
+   Eyes in the pine-tree dark--
+     Is it his mother?--and cry:
+   "Lo, what is this that comes,
+     Haunting, troubling still,
+   Even in our heights, our homes,
+     The wild Maids of the Hill?
+   What flesh bare this child?
+     Never on woman's breast
+   Changeling so evil smiled;
+     Man is he not, but Beast!
+   Loin-shape of the wild,
+     Gorgon-breed of the waste!"
+
+     _All the Chorus_
+   Hither, for doom and deed!
+     Hither with lifted sword,
+   Justice, Wrath of the Lord,
+     Come in our visible need!
+   Smite till the throat shall bleed,
+     Smite till the heart shall bleed,
+   Him the tyrannous, lawless, Godless, Echîon's earthborn seed!
+
+     _Other Maidens_
+   Tyrannously hath he trod;
+     Marched him, in Law's despite,
+   Against thy Light, O God,
+     Yea, and thy Mother's Light;
+   Girded him, falsely bold,
+     Blinded in craft, to quell
+   And by man's violence hold,
+     Things unconquerable
+
+     _A Bacchanal_
+   A strait pitiless mind
+     Is death unto godliness;
+   And to feel in human kind
+     Life, and a pain the less.
+   Knowledge, we are not foes!
+     I seek thee diligently;
+   But the world with a great wind blows,
+     Shining, and not from thee;
+   Blowing to beautiful things,
+     On, amid dark and light,
+   Till Life, through the trammellings
+     Of Laws that are not the Right,
+   Breaks, clean and pure, and sings
+     Glorying to God in the height!
+
+     _All the Chorus_
+   Hither for doom and deed!
+     Hither with lifted sword,
+     Justice, Wrath of the Lord,
+   Come in our visible need!
+   Smite till the throat shall bleed,
+   Smite till the heart shall bleed,
+   Him the tyrannous, lawless, Godless, Echion's earthborn seed!
+
+     LEADER
+   Appear, appear, whatso thy shape or name
+     O Mountain Bull, Snake of the Hundred Heads,
+       Lion of Burning Flame!
+   O God, Beast, Mystery, come! Thy mystic maids
+   Are hunted!--Blast their hunter with thy breath,
+       Cast o'er his head thy snare;
+   And laugh aloud and drag him to his death,
+     Who stalks thy herded madness in its lair!
+     [_Enter hastily a_ MESSENGER _from the Mountain, pale and distraught._]
+
+     MESSENGER
+   Woe to the house once blest in Hellas! Woe
+   To thee, old King Sidonian, who didst sow
+   The dragon-seed on Ares' bloody lea!
+   Alas, even thy slaves must weep for thee!
+
+     LEADER
+   News from the mountain?--Speak! How hath it sped?
+
+     MESSENGER
+   Pentheus, my king, Echîon's son, is dead!
+
+     LEADER
+       All hail, God of the Voice,
+       Manifest ever more!
+
+     MESSENGER
+   What say'st thou?--And how strange thy tone, as though
+   In joy at this my master's overthrow!
+
+     LEADER
+   With fierce joy I rejoice,
+     Child of a savage shore;
+   For the chains of my prison are broken, and the dread where I cowered of
+   yore!
+
+     MESSENGER
+   And deem'st thou Thebes so beggared, so forlorn
+   Of manhood, as to sit beneath thy scorn?
+
+     LEADER
+       Thebes hath o'er me no sway!
+       None save Him I obey,
+   Dionysus, Child of the Highest, Him I obey and adore!
+
+     MESSENGER
+   One can forgive thee!--Yet 'tis no fair thing,
+   Maids, to rejoice in a man's suffering.
+
+     LEADER
+       Speak of the mountain side!
+       Tell us the doom he died,
+   The sinner smitten to death, even where his sin was sore!
+
+     MESSENGER
+   We climbed beyond the utmost habitings
+   Of Theban shepherds, passed Asopus' springs,
+   And struck into the land of rock on dim
+   Kithaeron--Pentheus, and, attending him,
+   I, and the Stranger who should guide our way,
+   Then first in a green dell we stopped, and lay,
+   Lips dumb and feet unmoving, warily
+   Watching, to be unseen and yet to see.
+
+   A narrow glen it was, by crags o'ertowered,
+   Torn through by tossing waters, and there lowered
+   A shadow of great pines over it. And there
+   The Maenad maidens sate; in toil they were,
+   Busily glad. Some with an ivy chain
+   Tricked a worn wand to toss its locks again;
+   Some, wild in joyance, like young steeds set free,
+   Made answering songs of mystic melody.
+
+   But my poor master saw not the great band
+   Before him. "Stranger," he cried, "where we stand
+   Mine eyes can reach not these false saints of thine.
+   Mount we the bank, or some high-shouldered pine,
+   And I shall see their follies clear!" At that
+   There came a marvel. For the Stranger straight
+   Touched a great pine-tree's high and heavenward crown,
+   And lower, lower, lower, urged it down
+   To the herbless floor. Round like a bending bow,
+   Or slow wheel's rim a joiner forces to.
+   So in those hands that tough and mountain stem
+   Bowed slow--oh, strength not mortal dwelt in them!--
+   To the very earth. And there he set the King,
+   And slowly, lest it cast him in its spring.
+   Let back the young and straining tree, till high
+   It towered again amid the towering sky;
+   And Pentheus in the branches! Well, I ween,
+   He saw the Maenads then, and well was seen!
+   For scarce was he aloft, when suddenly
+   There was no stranger any more with me,
+   But out of Heaven a Voice--oh, what voice else?--
+   'Twas He that called! "Behold, O damosels,
+   I bring ye him who turneth to despite
+   Both me and ye, and darkeneth my great Light.
+   Tis yours to avenge!"   So spake he, and there came
+   'Twixt earth and sky a pillar of high flame.
+   And silence took the air, and no leaf stirred
+   In all the forest dell. Thou hadst not heard
+   In that vast silence any wild things's cry.
+   And up they sprang; but with bewildered eye,
+   Agaze and listening, scarce yet hearing true.
+   Then came the Voice again. And when they knew
+   Their God's clear call, old Cadmus' royal brood,
+   Up, like wild pigeons startled in a wood,
+   On flying feet they came, his mother blind,
+   Agâvê, and her sisters, and behind
+   All the wild crowd, more deeply maddened then,
+   Through the angry rocks and torrent-tossing glen,
+   Until they spied him in the dark pine-tree:
+   Then climbed a crag hard by and furiously
+   Some sought to stone him, some their wands would fling
+   Lance-wise aloft, in cruel targeting.
+   But none could strike. The height o'ertopped their rage,
+   And there he clung, unscathed, as in a cage
+   Caught. And of all their strife no end was found.
+   Then, "Hither," cried Agâvê; "stand we round
+   And grip the stem, my Wild Ones, till we take
+   This climbing cat-o'-the-mount! He shall not make
+   A tale of God's high dances!" Out then shone
+   Arm upon arm, past count, and closed upon
+   The pine, and gripped; and the ground gave, and down
+   It reeled. And that high sitter from the crown
+   Of the green pine-top, with a shrieking cry
+   Fell, as his mind grew clear, and there hard by
+   Was horror visible. 'Twas his mother stood
+   O'er him, first priestess of those rites of blood.
+   He tore the coif, and from his head away
+   Flung it, that she might know him, and not slay
+   To her own misery. He touched the wild
+   Cheek, crying: "Mother, it is I, thy child,
+   Thy Pentheus, born thee in Echion's hall!
+   Have mercy, Mother! Let it not befall
+   Through sin of mine, that thou shouldst slay thy son!"
+     But she, with lips a-foam and eyes that run
+   Like leaping fire, with thoughts that ne'er should be
+   On earth, possessed by Bacchios utterly,
+   Stays not nor hears.   Round his left arm she put
+   Both hands, set hard against his side her foot,
+   Drew ... and the shoulder severed!--not by might
+   Of arm, but easily, as the God made light
+   Her hand's essay. And at the other side
+   Was Ino rending; and the torn flesh cried,
+   And on Autonoë pressed, and all the crowd
+   Of ravening arms. 'Yea, all the air was loud
+   With groans that faded into sobbing breath,
+   Dim shrieks, and joy, and triumph-cries of death.
+   And here was borne a severed arm, and there
+   A hunter's booted foot; white bones lay bare
+   With rending; and swift hands ensanguinèd
+   Tossed as in sport the flesh of Pentheus dead.
+   His body lies afar. The precipice
+     Hath part, and parts in many an interstice
+   Lurk of the tangled woodland--no light quest
+   To find. And, ah, the head! Of all the rest,
+   His mother hath it, pierced upon a wand,
+   As one might pierce a lion's, and through the land,
+   Leaving her sisters in their dancing place,
+   Bears it on high! Yea, to these walls her face
+   Was set, exulting in her deed of blood,
+   Calling upon her Bromios, her God,
+   Her Comrade, Fellow-Render of the Prey,
+   Her All-Victorious, to whom this day
+   She bears in triumph ... her own broken heart.
+     For me, after that sight, I will depart
+   Before Agave comes.--Oh, to fulfil
+   God's laws, and have no thought beyond His will,
+   Is man's best treasure.   Aye, and wisdom true,
+   Methinks, for things of dust to cleave unto!
+     [_The_ MESSENGER _departs into the Castle_.]
+
+       CHORUS
+
+     _Some Maidens_
+   Weave ye the dance, and call
+       Praise to God!
+   Bless ye the Tyrant's fall!
+       Down is trod
+   Pentheus, the Dragon's Seed!
+   Wore he the woman's weed?
+   Clasped he his death indeed,
+       Clasped the rod?
+
+     _A Bacchanal_
+   Yea, the wild ivy lapt him, and the doomed
+   Wild Bull of Sacrifice before him loomed!
+
+     _Others_
+   Ye who did Bromios scorn,
+       Praise Him the more,
+   Bacchanals, Cadmus-born;
+       Praise with sore
+   Agony, yea, with tears!
+   Great are the gifts he bears!
+   Hands that a mother rears
+       Red with gore!
+
+     LEADER
+   But stay, Agâvê cometh! And her eyes
+   Make fire around her, reeling! Ho, the prize
+   Cometh! All hail, O Rout of Dionyse!
+     [_Enter from the Mountain_ AGAVE, _mad, and to all seeming wondrously
+      happy, bearing the head of_ PENTHEUS _in her hand. The_ CHORUS MAIDENS
+      _stand horror-struck at the sight; the_ LEADER, _also horror-struck,
+      strives to accept it and rejoice in it as the God's deed_.]
+
+     AGAVE
+   Ye from the lands of Morn!
+
+     LEADER
+   Call me not; I give praise!
+
+     AGAVE
+   Lo, from the trunk new-shorn
+   Hither a Mountain Thorn
+   Bear we! O Asia-born
+     Bacchanals, bless this chase!
+
+     LEADER
+   I see. Yea; I see.
+   Have I not welcomed thee?
+
+     AGAVE (_very calmly and peacefully_)
+   He was young in the wildwood
+     Without nets I caught him!
+       Nay; look without fear on
+         The Lion; I have ta'en him!
+
+     LEADER
+   Where in the wildwood?
+     Whence have ye brought him?
+
+     AGAVE
+       Kithaeron. . . .
+
+     LEADER
+         Kithaeron?
+
+     AGAVE
+   The Mountain hath slain him!
+
+     LEADER
+   Who first came nigh him?
+
+     AGAVE
+
+     I, I, 'tis confessèd!
+   And they named me there by him
+     Agave the Blessèd!
+
+     LEADER
+   Who was next in the band on him?
+
+     AGAVE
+   The daughters....
+
+     LEADER
+                      The daughters?
+
+     AGAVE
+   Of Cadmus laid hand on him.
+     But the swift hand that slaughters
+   Is mine; mine is the praise!
+   Bless ye this day of days!
+     [_The_ LEADER _tries to speak, but is not able;_
+      AGAVE _begins gently stroking the head_.]
+
+     AGAVE
+   Gather ye now to the feast!
+
+     LEADER
+   Feast!--O miserable!
+
+     AGAVE
+   See, it falls to his breast,
+     Curling and gently tressed,
+   The hair of the Wild Bull's crest--
+     The young steer of the fell!
+
+     LEADER
+     Most like a beast of the wild
+     That head, those locks defiled.
+
+     AGAVE (_lifting up the head, more excitedly_)
+     He wakened his Mad Ones,
+       A Chase-God, a wise God!
+         He sprang them to seize this!
+           He preys where his band preys.
+
+     LEADER (_brooding, with horror_)
+   In the trail of thy Mad Ones
+     Thou tearest thy prize, God!
+
+     AGAVE
+   Dost praise it?
+
+     LEADER
+                    I praise this?
+
+     AGAVE
+            Ah, soon shall the land praise!
+
+     LEADER
+   And Pentheus, O Mother,
+     Thy child?
+
+     AGAVE
+             He shall cry on
+   My name as none other,
+     Bless the spoils of the Lion!
+
+     LEADER
+   Aye, strange is thy treasure!
+
+     AGAVE
+     And strange was the taking!
+
+     LEADER
+   Thou art glad?
+
+     AGAVE
+            Beyond measure;
+     Yea, glad in the breaking
+   Of dawn upon all this land,
+   By the prize, the prize of my hand!
+
+     LEADER
+   Show them to all the land, unhappy one,
+   The trophy of this deed that thou hast done!
+
+     AGAVE
+   Ho, all ye men that round the citadel
+   And shining towers of ancient Thêbê dwell,
+   Come! Look upon this prize, this lion's spoil,
+   That we have taken--yea, with our own toil,
+   We, Cadmus' daughters! Not with leathern-set
+   Thessalian javelins, not with hunter's net,
+   Only white arms and swift hands' bladed fall
+   Why make ye much ado, and boast withal
+   Your armourers' engines? See, these palms were bare
+   That caught the angry beast, and held, and tare
+   The limbs of him! ... Father! ... Go, bring to me
+   My father! ... Aye, and Pentheus, where is he,
+   My son? He shall set up a ladder-stair
+   Against this house, and in the triglyphs there
+   Nail me this lion's head, that gloriously
+   I bring ye, having slain him--I, even I!
+     [_She goes through the crowd towards the Castle, showing the head and
+      looking for a place to hang it. Enter from the Mountain_ CADMUS, _with
+      attendants, bearing the body of_ PENTHEUS _on a bier_.]
+
+     CADMUS
+   On, with your awful burden. Follow me,
+   Thralls, to his house, whose body grievously
+   With many a weary search at last in dim
+   Kithaeron's glens I found, torn limb from limb,
+   And through the intervening forest weed
+   Scattered.--Men told me of my daughters' deed,
+   When I was just returned within these walls,
+   With grey Teiresias, from the Bacchanals.
+   And back I hied me to the hills again
+   To seek my murdered son. There saw I plain
+   Actaeon's mother, ranging where he died,
+   Autonoë; and Ino by her side,
+   Wandering ghastly in the pine-copses.
+
+   Agâvê was not there. The rumour is
+   She cometh fleet-foot hither.--Ah! 'Tis true;
+   A sight I scarce can bend mine eyes unto.
+
+     AGAVE (_turning from the Palace and seeing him_)
+   My father, a great boast is thine this hour.
+   Thou hast begotten daughters, high in power
+   And valiant above all mankind--yea, all
+   Valiant, though none like me! I have let fall
+   The shuttle by the loom, and raised my hand
+   For higher things, to slay from out thy land
+   Wild beasts! See, in mine arms I bear the prize,
+   That nailed above these portals it may rise
+   To show what things thy daughters did! Do thou
+   Take it, and call a feast. Proud art thou now
+   And highly favoured in our valiancy!
+
+     CADMUS
+   O depth of grief, how can I fathom thee
+   Or look upon thee!--Poor, poor bloodstained hand!
+   Poor sisters!--A fair sacrifice to stand
+   Before God's altars, daughter; yea, and call
+   Me and my citizens to feast withal!
+
+   Nay, let me weep--for thine affliction most,
+   Then for mine own. All, all of us are lost,
+   Not wrongfully, yet is it hard, from one
+   Who might have loved--our Bromios, our own!
+
+     AGAVE
+   How crabbèd and how scowling in the eyes
+   Is man's old age!--Would that my son likewise
+   Were happy of his hunting, in my way
+   When with his warrior bands he will essay
+   The wild beast!--Nay, his valiance is to fight
+   With God's will! Father, thou shouldst set him right.
+   Will no one bring him thither, that mine eyes
+   May look on his, and show him this my prize!
+
+     CADMUS
+   Alas, if ever ye can know again
+   The truth of what ye did, what pain of pain
+   That truth shall bring! Or were it best to wait
+   Darkened for evermore, and deem your state
+   Not misery, though ye know no happiness?
+
+     AGAVE
+   What seest thou here to chide, or not to bless?
+
+     CADMUS (_after hesitation, resolving himself_)
+   Raise me thine eyes to yon blue dome of air!
+
+     AGAVE
+   'Tis done. What dost thou bid me seek for there?
+
+     CADMUS
+   Is it the same, or changèd in thy sight?
+
+     AGAVE
+   More shining than before, more heavenly bright!
+
+     CADMUS
+   And that wild tremour, is it with thee still?
+
+     AGAVE (_troubled_)
+   I know not what thou sayest; but my will
+   Clears, and some change cometh, I know not how.
+
+     CADMUS
+   Canst hearken then, being changed, and answer, now!
+
+     AGAVE
+   I have forgotten something; else I could.
+
+     CADMUS
+   What husband led thee of old from mine abode?
+
+     AGAVE
+   Echîon, whom men named the Child of Earth.
+
+     CADMUS
+   And what child in Echîon's house had birth?
+
+     AGAVE
+   Pentheus, of my love and his father's bred.
+
+     CADMUS
+   Thou bearest in thine arms an head--what head?
+
+     AGAVE (_beginning to tremble, and not looking at what she carries_)
+   A lion's--so they all said in the chase.
+
+     CADMUS
+   Turn to it now--'tis no long toil--and gaze.
+
+     AGAVE
+   Ah! But what is it? What am I carrying here?
+
+     CADMUS
+   Look once upon it full, till all be clear!
+
+     AGAVE
+   I see... most deadly pain! Oh, woe is me!
+
+     CADMUS
+   Wears it the likeness of a lion to thee?
+
+     AGAVE
+   No; 'tis the head--O God!--of Pentheus, this!
+
+     CADMUS
+   Blood-drenched ere thou wouldst know him! Aye, 'tis his.
+
+     AGAVE
+   Who slew him?--How came I to hold this thing?
+
+     CADMUS
+   O cruel Truth, is this thine home-coming?
+
+     AGAVE
+   Answer! My heart is hanging on thy breath!
+
+     CADMUS
+   'Twas thou.--Thou and thy sisters wrought his death.
+
+     AGAVE
+   In what place was it? His own house, or where?
+
+     CADMUS
+   Where the dogs tore Actaeon, even there.
+
+     AGAVE
+   Why went he to Kithaeron? What sought he?
+
+     CADMUS
+   To mock the God and thine own ecstasy.
+
+     AGAVE
+   But how should we be on the hills this day?
+
+     CADMUS
+   Being mad! A spirit drove all the land that way.
+
+     AGAVE
+   'Tis Dionyse hath done it! Now I see.
+
+     CADMUS (_earnestly_)
+   Ye wronged Him! Ye denied his deity!
+
+     AGAVE (_turning from him_)
+   Show me the body of the son I love!
+
+     CADMUS (_leading her to the bier_)
+   'Tis here, my child. Hard was the quest thereof.
+
+     AGAVE
+   Laid in due state?
+     [_As there is no answer, she lifts the veil of the bier, and sees._]
+                       Oh, if I wrought a sin,
+   'Twas mine! What portion had my child therein!
+
+     CADMUS
+   He made him like to you, adoring not
+   The God; who therefore to one bane hath brought
+   You and this body, wrecking all our line,
+   And me. Aye, no man-child was ever mine;
+   And now this first-fruit of the flesh of thee,
+   Sad woman, foully here and frightfully
+   Lies murdered! Whom the house looked up unto,
+     [_Kneeling by the body._]
+   O Child, my daughter's child! who heldest true
+   My castle walls; and to the folk a name
+   Of fear thou wast; and no man sought to shame
+   My grey beard, when they knew that thou wast there,
+   Else had they swift reward!--And now I fare
+   Forth in dishonour, outcast, I, the great
+   Cadmus, who sowed the seed-rows of this state
+   Of Thebes, and reaped the harvest wonderful.
+   O my belovèd, though thy heart is dull
+   In death, O still belovèd, and alway
+   Beloved! Never more, then, shalt thou lay
+   Thine hand to this white beard, and speak to me
+   Thy "Mother's Father"; ask "Who wrongeth thee?
+   Who stints thine honour, or with malice stirs
+   Thine heart? Speak, and I smite thine injurers!"
+   But now--woe, woe, to me and thee also,
+   Woe to thy mother and her sisters, woe
+   Alway! Oh, whoso walketh not in dread
+   Of Gods, let him but look on this man dead!
+
+     LEADER
+   Lo, I weep with thee. 'Twas but due reward
+   God sent on Pentheus; but for thee ... 'Tis hard.
+
+     AGAVE
+   My father, thou canst see the change in me,
+          *       *       *       *       *
+          *       *       *       *       *
+   [_A page or more has here been torn out of the MS. from which all our
+   copies of "The Bacchae" are derived. It evidently contained a speech of
+   Agâvê (followed presumably by some words of the Chorus), and an appearance
+   of_ DIONYSUS _upon a cloud. He must have pronounced judgment upon the
+   Thebans in general, and especially upon the daughters of_ CADMUS, _have
+   justified his own action, and declared his determination to establish his
+   godhead. Where the MS begins again, we find him addressing_ CADMUS.]
+          *       *       *       *       *
+
+     DIONYSUS
+          *       *       *       *       *
+          *       *       *       *       *
+   And tell of Time, what gifts for thee he bears,
+   What griefs and wonders in the winding years.
+   For thou must change and be a Serpent Thing
+   Strange, and beside thee she whom thou didst bring
+   Of old to be thy bride from Heaven afar,
+   Harmonia, daughter of the Lord of War.
+   Yea, and a chariot of kine--so spake
+   The word of Zeus--thee and thy Queen shall take
+   Through many lands, Lord of a wild array
+   Of orient spears. And many towns shall they
+   Destroy beneath thee, that vast horde, until
+   They touch Apollo's dwelling, and fulfil
+   Their doom, back driven on stormy ways and steep.
+   Thee only and thy spouse shall Ares keep,
+   And save alive to the Islands of the Blest.
+     Thus speaketh Dionysus, Son confessed
+   Of no man but of Zeus!--Ah, had ye seen
+   Truth in the hour ye would not, all had been
+   Well with ye, and the Child of God your friend!
+
+     AGAVE
+   Dionysus, we beseech thee! We have sinned!
+
+     DIONYSUS
+   Too late! When there was time, ye knew me not!
+
+     AGAVE
+   We have confessed. Yet is thine hand too hot.
+
+     DIONYSUS
+   Ye mocked me, being God; this your wage.
+
+     AGAVE
+   Should God be like a proud man in his rage?
+
+     DIONYSUS
+   'Tis as my sire, Zeus, willed it long ago.
+
+     AGAVE  (_turning from him almost with disdain_)
+   Old man, the word is spoken; we must go.
+
+     DIONYSUS
+   And seeing ye must, what is it that ye wait?
+
+     CADMUS
+   Child, we are come into a deadly strait,
+   All; thou, poor sufferer, and thy sisters twain,
+   And my sad self. Far off to barbarous men,
+   A grey-haired wanderer, I must take my road.
+   And then the oracle, the doom of God,
+   That I must lead a raging horde far-flown
+   To prey on Hellas; lead my spouse, mine own
+   Harmonia. Ares' child, discorporate
+   And haunting forms, dragon and dragon-mate,
+   Against the tombs and altar-stones of Greece,
+   Lance upon lance behind us; and not cease
+   From toils, like other men, nor dream, nor past
+   The foam of Acheron find my peace at last.
+
+     AGAVE
+   Father! And I must wander far from thee!
+
+     CADMUS
+   O Child, why wilt thou reach thine arms to me,
+   As yearns the milk-white swan, when old swans die?
+
+     AGAVE
+   Where shall I turn me else? No home have I.
+
+     CADMUS
+   I know not; I can help thee not.
+
+     AGAVE
+     Farewell, O home, O ancient tower!
+     Lo, I am outcast from my bower,
+   And leave ye for a worser lot.
+
+     CADMUS
+   Go forth, go forth to misery,
+     The way Actaeon's father went!
+
+     AGAVE
+     Father, for thee my tears are spent.
+
+     CADMUS
+   Nay, Child, 'tis I must weep for thee;
+   For thee and for thy sisters twain!
+
+     AGAVE
+     On all this house, in bitter wise,
+     Our Lord and Master, Dionyse,
+   Hath poured the utter dregs of pain!
+
+     DIONYSUS
+   In bitter wise, for bitter was the shame
+   Ye did me, when Thebes honoured not my name.
+
+     AGAVE
+   Then lead me where my sisters be;
+     Together let our tears be shed,
+     Our ways be wandered; where no red
+   Kithaeron waits to gaze on me;
+   Nor I gaze back; no thyrsus stem,
+     Nor song, nor memory in the air.
+     Oh, other Bacchanals be there,
+   Not I, not I, to dream of them!
+     [AGAVE _with her group of attendants goes out on the side away from
+      the Mountain._ DIONYSUS _rises upon the Cloud and disappears._]
+
+       CHORUS
+   There may be many shapes of mystery,
+   And many things God makes to be,
+       Past hope or fear.
+   And the end men looked for cometh not,
+   And a path is there where no man thought.
+       So hath it fallen here.                 [_Exeunt_.]
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Hippolytus and The Bacchae, by Euripides
+
+*** END OF THIS PROJECT GUTENBERG EBOOK HIPPOLYTUS AND THE BACCHAE ***
+
+***** This file should be named 8418-8.txt or 8418-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/8/4/1/8418/
+
+Produced by Ted Garvin, Charles Bidwell and the Online
+Distributed Proofreading Team
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
