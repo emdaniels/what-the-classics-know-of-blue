@@ -1,29 +1,31 @@
 What The Classics Know Of Blue
 ==============================
 
-I was quite curious after reading an article on Business Insider that 
+I was quite curious after reading on Business Insider (link below) that 
 stated that we couldn't see the color blue until modern times, which 
-was 'proven' by the analysis done in 1858 by a scholar named William 
+was proven by the analysis done in 1858 by a scholar named William 
 Gladstone. 
 
-Gladstone decided to count the color references in Homer's Odyssey 
-and in other ancient Greek texts and concluded that 'blue' wasn't 
-mentioned. This analysis was followed up by a philologist named Lazarus 
-Geiger, who studied Icelandic sagas, the Koran, ancient Chinese stories, 
-and the Bible who also ultimately concluded that there was no mention of 
-'blue'. 
+To paraphrase, Gladstone decided to count the color references in 
+Homer's Odyssey and in other ancient Greek texts and concluded that 
+'blue' wasn't mentioned. This analysis was followed up by a philologist 
+named Lazarus Geiger, who studied Icelandic sagas, the Koran, ancient 
+Chinese stories, and the Bible who also ultimately concluded that there 
+was no mention of 'blue'. 
 
 Fascinated by this, I decided to write a program to analyze the texts
-these scholars had chosen, along with other books deemed by western 
-civilization to be classic pieces of literature to see if this really 
-was true. Turns out, no- it's not. Both Gladstone and Geiger should have
-found several references to the color blue in these texts. Too bad they
-didn't have access to the tools we have today for deeper analysis and 
-study.
+these scholars had chosen. Since there were no sources listed of the 
+texts used, I made use of the texts available from Project Gutenberg,
+along with other books deemed by western civilization to be classic 
+pieces of literature to see if this really was true. 
+
+Since it is also not stated if these scholars analyzed the texts written
+in the original language, I made do with what was available. Given
+the source texts that were used, it turns out that both Gladstone and 
+Geiger should have found several references to the color blue. 
  
-What is even more unfortunate is that the author of the article didn't
-check to see if this was actually this case before writing this piece. 
-Always check your sources.
+It would have been appreciated if the author of the piece had included
+sources so that a deeper analysis could have taken place.
 
 
 
